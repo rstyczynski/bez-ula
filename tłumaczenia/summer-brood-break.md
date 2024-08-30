@@ -13,26 +13,19 @@ W warunkach naturalnych sezonowe przerwanie czerwiu zwykle następuje w wyniku p
 
 Aby uniknąć poważnych szkód w rodzinach pszczelich z powodu nadmiernego poziomu infestacji Varroa, wielu pszczelarzy musi leczyć swoje rodziny w okresie letnim, przerywając zbiór miodu (Martel i in., 2007; Wallner, 1999) w celu zachowania czasu karencji, ponieważ większość zarejestrowanych środków terapeutycznych może skutkować pozostałościami w produktach ulowych. Ponadto po intensywnych zabiegach akarycydowych obserwowano nawracające problemy z odpornością (Milani, 1999; Mozes-Koch i in., 2000; Sammataro i in., 2005; Thompson i in., 2002). Wreszcie, większość zarejestrowanych leków nie wpływa na roztocza Varroa znajdujące się w komórkach czerwiu, a ich skuteczność nie jest wystarczająca w rodzinach, które wychowywały czerw przez cały sezon (Gregorc i in., 2016).
 
-
-
 Roztocza Varroa infestujące czerw mogą być zwalczane tylko za pomocą środków parujących, takich jak kwas mrówkowy (Fries, 1991; Rosenkranz i in., 2010). Jednak szybkość parowania zależy od temperatury i wilgotności wewnątrz i na zewnątrz ula, co wpływa na skuteczność leczenia (Calderone, 1999; Underwood & Currie, 2003). W niesprzyjających warunkach środowiskowych pszczelarze ryzykują albo zaszkodzeniem swoim pszczołom (Bolli i in., 1993; Satta i in., 2005), albo uzyskaniem niewystarczającej skuteczności w zwalczaniu roztoczy (Calderone, 1999; Eguaras i in., 2003).
-
-
 
 Niezawodne i skuteczne leczenie można łatwiej osiągnąć w rodzinach bez czerwiu. W związku z tym wymuszone przerwanie czerwiu może być przydatnym narzędziem do poprawy skuteczności leczenia i ograniczenia okresów ciągłego wzrostu populacji roztoczy. Co więcej, jeśli pszczelarze chcą całkowicie unikać stosowania chemikaliów lub muszą leczyć pszczoły w długich sezonach pożytków, mogą połączyć kontrolowane przerwanie czerwiu z użyciem pułapek plastra (Maul i in., 1988). Aby to zrobić, pozostawia się trochę otwartego czerwiu w rodzinach pozbawionych czerwiu, co przyciąga większość roztoczy obecnych na dorosłych pszczołach. Czerw można następnie usunąć z ula razem z uwięzionymi roztoczami.
 
 W tym szeroko zakrojonym badaniu porównaliśmy efekt różnych metod kontrolowanego przerywania czerwiu w połączeniu z kontrolą roztoczy za pomocą środków chemicznych lub wyłącznie biotechnicznych pod względem ich skuteczności, wpływu na rozwój rodziny oraz praktyczności i obciążenia pracą. We wszystkich zaangażowanych pasiekach używano izolowania matki na 25 dni w połączeniu z podaniem 4,2% roztworu kwasu szczawiowego na koniec okresu izolacji jako standardowej metody leczenia (Nanetti i in., 2011). W odniesieniu do różnych rejestracji między krajami izolowanie matki było również łączone z różnymi stężeniami, dawkami i sposobami aplikacji kwasu szczawiowego. Ponadto w niektórych pasiekach testowano użycie klatek na ramki pełnej wielkości, aby ograniczyć produkcję czerwiu do pojedynczych pułapek plastra i całkowitego usuwania czerwiu, co można przeprowadzić bez konieczności wyszukiwania matki i wielokrotnego manipulowania nią.
 
 ## Materiały i metody
+
 Badanie przeprowadzono w sezonach 2016–2017 i 2017–2018 w 10 krajach europejskich i 15 lokalizacjach (Rysunek 1), obejmując łącznie 370 rodzin pszczelich reprezentujących różne populacje europejskich pszczół miodnych. Aby uzyskać porównywalne dane, projekt eksperymentalny wymagał, aby każdy uczestnik posiadał pasiekę składającą się z co najmniej 20 naturalnie zainfekowanych rodzin w pełnym rozmiarze oraz utworzenia dwóch lub kilku grup składających się z co najmniej dziesięciu rodzin każda. Dane dotyczące siły rodzin i poziomu infestacji roztoczami u pszczół musiały być mierzone na początku eksperymentu, aby móc rozdzielić rodziny na jednorodne grupy. 
 
 Skuteczność różnych metod zwalczania Varroa porównano z metodą standardową, polegającą na izolowaniu matki pszczelej i aplikacji 5 ml roztworu kwasu szczawiowego o stężeniu 4,2% na każdą zajętą ramkę (Tabela 1 i Rysunek 2). Opracowano ujednolicony protokół testowy zawierający szczegółowe informacje o metodach i ich stosowaniu, który został opublikowany na stronie internetowej COLOSS (Kopia jest dostępna jako materiał dodatkowy online).
 
-
-
 Krótko mówiąc, w tej metodzie matka pszczela była izolowana na 25 dni w specjalnej klatce o wymiarach 5,0 x 7,5 x 2,5 cm (http://www.apimobru.com/), która była umieszczona w ramce plastra. W momencie wypuszczenia matki (25. dzień) podano roztwór kwasu szczawiowego (Tabela 1).
-
-
 
 Metoda ramek pułapkowych (TC) została zastosowana na dwa różne sposoby: w wersji klasycznej i uproszczonej. W wersji klasycznej TC matka pszczela była zamykana na pustej ramce w celu wyprodukowania ograniczonej liczby otwartych komórek czerwiu. Po 9 dniach matka była przenoszona na pustą ramkę, a pierwsza ramka pozostawała w komorze czerwiowej jako ramka pułapkowa na roztocza. W 18. dniu pierwotna ramka pułapkowa, która była już zasklepiona, została usunięta z ula, a druga ramka pułapkowa pozostawała na swoim miejscu, podczas gdy matka była zamykana na trzeciej ramce. Matka została ostatecznie wypuszczona w dniu 27, kiedy druga ramka pułapkowa została usunięta z ula. Trzecia ramka pułapkowa pozostawała w gnieździe czerwiowym do dnia 35, kiedy to została usunięta. W tej grupie nie stosowano żadnego chemicznego leczenia przeciw Varroa.
 
@@ -40,19 +33,13 @@ W przypadku uproszczonej metody ramek pułapkowych, matka również była zamyka
 
 W przypadku metody całkowitego usuwania czerwiu wszystkie ramki z czerwiem były usuwane w dniu 0, z wyjątkiem jednej ramki z otwartym czerwiem, która pozostała jako ramka pułapkowa na Varroa. Została ona usunięta w dniu 9, gdy cały czerw był już zasklepiony. Podobnie jak w klasycznej metodzie ramek pułapkowych, w tej grupie nie stosowano żadnego chemicznego leczenia przeciw Varroa.
 
-Here is the translation of the provided text into Polish:
-
 Aby zbadać liczbę przeżywających roztoczy, wszystkie rodziny pszczele otrzymały leczenie przy użyciu pasków Apistan®, Apivar®, Apitraz®, Bayvarol® lub CheckMite® w 35. dniu od rozpoczęcia leczenia, na okres 42 dni (leczenie krytyczne), zgodnie z instrukcjami na etykiecie. Opad roztoczy na lepkie podkładki dolne, aby uniknąć usuwania lub rozpraszania roztoczy przez innych drapieżników, był regularnie liczony od początku leczenia (dzień 0) do 14 dni po zakończeniu leczenia krytycznego (dzień 90) (Calderone, 1999). Dane te były używane do obliczania skuteczności protokołów izolacji matek (kumulacyjny opad roztoczy przed leczeniem krytycznym w stosunku do całkowitego opadu roztoczy do 14 dni po jego zakończeniu) oraz leczenia z użyciem ramek pułapkowych. Testowane leczenia i leczenia krytyczne musiały być zsynchronizowane między wszystkimi grupami w tej samej pasiece. Data rozpoczęcia w każdej lokalizacji była ustalana w zależności od zbioru miodu, który musiał być zakończony przed leczeniem kwasem szczawiowym w 25. dniu.
-
-Here is the translation of the provided text into Polish:
 
 Przeżywalność matek i rodzin pszczelich była monitorowana do następnej wiosny. Aby sprawdzić wpływ na rozwój rodzin, liczba dorosłych pszczół miodnych była szacowana zgodnie z metodą Liebefelda (Imdorf et al., 1987, 2019) przed leczeniem i 70 dni po leczeniu. Stosunek liczby pszczół w 70. dniu do liczby pszczół przed leczeniem był używany do oceny podatności pszczół oraz wpływu różnych metod leczenia na rozwój rodzin.
 
 Na koniec, aby porównać obciążenie pracą związane z różnymi metodami, mierzono czas pracy potrzebny na każdą rodzinę pszczelą w celu wykonania wszystkich czynności związanych z każdym leczeniem.
 
 Zorganizowano kilka warsztatów i szkoleń terenowych, aby ujednolicić i zharmonizować metodologię wśród zespołów badawczych zaangażowanych w projekt.
-
-Here is the translation of the provided text into Polish:
 
 Dane były analizowane za pomocą modelu ANOVA SPSS-GLM, uwzględniając lokalizację (pasiekę), sezon (rok) oraz leczenie jako czynniki stałe. Średnie skorygowane były używane do porównania skuteczności różnych leczeń przy użyciu testu post-hoc Bonferroniego. W porównaniu wskaźników infestacji po leczeniu, dane dotyczące opadu roztoczy były logarytmowane, aby osiągnąć normalność, a ANOVA jednoczynnikowa była używana do określenia różnic między metodami. Wykresy były tworzone w Pythonie 3 z użyciem pakietów Seaborn i Matplotlib, a mapa została stworzona przy użyciu pakietu Geopandas.
 
