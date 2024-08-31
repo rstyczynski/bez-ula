@@ -64,12 +64,15 @@ Zastosowanie metody z kwasem szczawiowym o stężeniu 2,5% (5 ml) wykazało najn
 > [!NOTE] 
 > Najwyższą skuteczność uzyskano przy użyciu metod 4,2% (5 ml) i sublimacji, które były znacznie bardziej efektywne niż stosowanie niższych stężeń kwasu szczawiowego (Rysunek 4).
 
+### Pułapki
 Skuteczność metod TC Classic, TC Simplified i usuwania czerwiu została porównana ze standardowym leczeniem 4,2% na podstawie poziomów infestacji po leczeniu. Największy spadek roztoczy po leczeniu krytycznym zaobserwowano przy metodzie TC Classic, a najmniejszy przy metodzie usuwania czerwiu (Tabela 3), jednak te różnice nie były istotne (F (3, 221) = 0,916, p = 0,434).
 
+### Utrzymanie siły rodziny
 Skorygowana średnia względnej siły kolonii 70 dni po leczeniu wynosiła 0,544 ± 0,016, co oznacza, że 54,4 ± 1,6% pszczół było obecnych w koloniach 70 dni po rozpoczęciu eksperymentu. Siła kolonii była istotnie zależna od lokalizacji i roku, ale nie od różnych metod leczenia (Tabela 2). W tendencji, najniższa względna siła kolonii została zanotowana dla metody 2,5% (5 ml), a najwyższa dla TC Simplified i sublimacji (Tabela 4).
 
 Nie zaobserwowano strat kolonii z powodu osłabienia związanego z leczeniem lub infestacją roztoczy podczas następnego okresu zimowego.
 
+### Pracochłonność
 Podczas naszego eksperymentu największy nakład pracy był potrzebny do wykonania metod TC Classic i usuwania czerwiu, podczas gdy zamykanie matki z metodą aplikacji i sublimacji było najmniej pracochłonne (Tabela 5).
 
 ## Dyskusja
