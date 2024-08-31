@@ -1,8 +1,7 @@
 # Przerwanie czerwiu letniego jako zintegrowana strategia zarządzania dla skutecznej kontroli Varroa w Europie
 
-``` Note
-Tłumaczenie AI tekstu: https://www.researchgate.net/publication/343181331_Summer_brood_interruption_as_integrated_management_strategy_for_effective_Varroa_control_in_Europe
-```
+> [!NOTE] 
+> Tłumaczenie AI tekstu: https://www.researchgate.net/publication/343181331_Summer_brood_interruption_as_integrated_management_strategy_for_effective_Varroa_control_in_Europe
 
 Większość strat rodzin pszczelich spowodowanych przez Varroa występuje jesienią lub zimą w wyniku podwyższonego poziomu infestacji Varroa i niewystarczającego stanu zdrowia dorosłych pszczół. Nawet przy początkowo niskiej infestacji Varroa wczesną wiosną, krytyczne poziomy infestacji roztoczy i wirusów mogą zostać osiągnięte przed zimą, jeśli rodziny pszczele nieprzerwanie wychowują czerw przez cały sezon. Aby przezwyciężyć to wyzwanie, pszczelarze mogą sztucznie przerwać produkcję czerwiu za pomocą odpowiednich procedur zarządzania, w zależności od rodzaju prowadzonej działalności pszczelarskiej. Aby ocenić ich skuteczność, związane z nimi obciążenie pracą i wpływ na rozwój kolonii, różne metody przerywania czerwiu (izolowanie matki z kombinacją z zabiegiem kwasem szczawiowym, całkowite usuwanie czerwiu, technika pułapki plastra) były testowane w ciągu dwóch sezonów w 11 lokalizacjach na 370 rodzinach w 10 krajach europejskich. Opracowano protokół mający na celu standaryzację stosowania tych metod w różnych warunkach środowiskowych. Skuteczność izolowania matki zależała od sposobu aplikacji kwasu szczawiowego i wahała się od 48,16% do 89,57% usunięcia roztoczy. Najwyższą skuteczność uzyskano przy zastosowaniu metody podawania 4,2% roztworu (89,57%) oraz sublimacji 2 g kwasu szczawiowego (średnio 88,25%) w okresie bez czerwiu. Skuteczność czysto biotechnicznych, pozbawionych chemikaliów metod pułapek plastrów i usuwania czerwiu nie różniła się znacząco od grup z izolowaniem matek. Wnioskujemy, że właściwe zastosowanie jednej z opisanych metod przerwania czerwiu może znacząco przyczynić się do skutecznej kontroli Varroa oraz do produkcji produktów pszczelich spełniających najwyższe standardy jakości i bezpieczeństwa żywności.
 
@@ -51,7 +50,27 @@ Zorganizowano kilka warsztatów i szkoleń terenowych, aby ujednolicić i zharmo
 Dane były analizowane za pomocą modelu ANOVA SPSS-GLM, uwzględniając lokalizację (pasiekę), sezon (rok) oraz leczenie jako czynniki stałe. Średnie skorygowane były używane do porównania skuteczności różnych leczeń przy użyciu testu post-hoc Bonferroniego. W porównaniu wskaźników infestacji po leczeniu, dane dotyczące opadu roztoczy były logarytmowane, aby osiągnąć normalność, a ANOVA jednoczynnikowa była używana do określenia różnic między metodami. Wykresy były tworzone w Pythonie 3 z użyciem pakietów Seaborn i Matplotlib, a mapa została stworzona przy użyciu pakietu Geopandas.
 
 ## Rezultaty
-(brak tłumaczenia - statystyczny bełkot)
+Skuteczność leczenia kwasem szczawiowym po zamknięciu matki była istotnie zależna (p < 0,01) od zastosowanej metody, lokalizacji oraz interakcji metoda x lokalizacja, ale nie od roku (Tabela 2). 
+
+### Metoda bazowa
+Średnia skorygowana skuteczność standardowej metody z użyciem kwasu szczawiowego o stężeniu 4,2% wynosiła 89,57 ± 1,24% (średnia ± SE) i wahała się od 99,84 ± 4,41% do 70,94 ± 3,34%. W 10 z 15 lokalizacji odnotowano skuteczność wyższą niż 90% (Rysunek 3). 
+
+### Sublimacja
+Skuteczność metody sublimacji była podobna, ze skorygowaną średnią wartością 88,25 ± 1,79 i zakresem od 98,78 ± 4,21% do 72,37 ± 3,58%. Skorygowana średnia skuteczność dla metody z kwasem szczawiowym o stężeniu 2,5% (8 ml) wynosiła 80,60 ± 2,16%, z najwyższą skutecznością 98,29 ± 4,41 i najniższą 67,63 ± 4,88. 
+
+### Kwas szczawiowy 2.5%
+Zastosowanie metody z kwasem szczawiowym o stężeniu 2,5% (5 ml) wykazało najniższą skuteczność (48,16 ± 3,25%) z zakresem od 39,74 ± 4,41 do 56,58 ± 4,41. 
+
+> [!NOTE] 
+> Najwyższą skuteczność uzyskano przy użyciu metod 4,2% (5 ml) i sublimacji, które były znacznie bardziej efektywne niż stosowanie niższych stężeń kwasu szczawiowego (Rysunek 4).
+
+Skuteczność metod TC Classic, TC Simplified i usuwania czerwiu została porównana ze standardowym leczeniem 4,2% na podstawie poziomów infestacji po leczeniu. Największy spadek roztoczy po leczeniu krytycznym zaobserwowano przy metodzie TC Classic, a najmniejszy przy metodzie usuwania czerwiu (Tabela 3), jednak te różnice nie były istotne (F (3, 221) = 0,916, p = 0,434).
+
+Skorygowana średnia względnej siły kolonii 70 dni po leczeniu wynosiła 0,544 ± 0,016, co oznacza, że 54,4 ± 1,6% pszczół było obecnych w koloniach 70 dni po rozpoczęciu eksperymentu. Siła kolonii była istotnie zależna od lokalizacji i roku, ale nie od różnych metod leczenia (Tabela 2). W tendencji, najniższa względna siła kolonii została zanotowana dla metody 2,5% (5 ml), a najwyższa dla TC Simplified i sublimacji (Tabela 4).
+
+Nie zaobserwowano strat kolonii z powodu osłabienia związanego z leczeniem lub infestacją roztoczy podczas następnego okresu zimowego.
+
+Podczas naszego eksperymentu największy nakład pracy był potrzebny do wykonania metod TC Classic i usuwania czerwiu, podczas gdy zamykanie matki z metodą aplikacji i sublimacji było najmniej pracochłonne (Tabela 5).
 
 ## Dyskusja
 
