@@ -33,9 +33,9 @@ Krótko mówiąc, w tej metodzie matka pszczela była izolowana na 25 dni w spec
 ### Metoda ramek pułapkowych (TC)
 Metoda ramek pułapkowych (TC) została zastosowana na dwa różne sposoby: w wersji klasycznej i uproszczonej. W wersji klasycznej TC matka pszczela była zamykana na pustej ramce w celu wyprodukowania ograniczonej liczby otwartych komórek czerwiu. Po 9 dniach matka była przenoszona na pustą ramkę, a pierwsza ramka pozostawała w komorze czerwiowej jako ramka pułapkowa na roztocza. W 18. dniu pierwotna ramka pułapkowa, która była już zasklepiona, została usunięta z ula, a druga ramka pułapkowa pozostawała na swoim miejscu, podczas gdy matka była zamykana na trzeciej ramce. Matka została ostatecznie wypuszczona w dniu 27, kiedy druga ramka pułapkowa została usunięta z ula. Trzecia ramka pułapkowa pozostawała w gnieździe czerwiowym do dnia 35, kiedy to została usunięta.
 
-''' Note 
+``` Note 
 W tej grupie nie stosowano żadnego chemicznego leczenia przeciw Varroa*.
-'''
+```
 
 W przypadku uproszczonej metody ramek pułapkowych, matka również była zamykana na jednej ramce, ale pozostawała tam przez 20 dni. Po tym czasie ramka pełna zasklepionego czerwiu była usuwana, a matka była przenoszona do klatki, jak w eksperymentach z izolacją matek, aby zapobiec składaniu jaj w gnieździe czerwiowym. W dniu 25, po wygryzieniu się całego czerwiu trutowego, matka była wypuszczana, a 5 ml roztworu kwasu szczawiowego o stężeniu 4,2% na zajętą ramkę było stosowane jak w grupie leczenia standardowego.
 
