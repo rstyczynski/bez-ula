@@ -1,5 +1,8 @@
 # Przerwanie czerwiu letniego jako zintegrowana strategia zarządzania dla skutecznej kontroli Varroa w Europie
 
+To cite this article: Ralph Büchler , Aleksandar Uzunov , Marin Kovačić , Janez Prešern , Marco Pietropaoli , Fani Hatjina , Borce Pavlov , Leonidas Charistos , Giovanni Formato , Egoitz Galarza , Draiusz Gerula , Ales Gregorc , Valeria Malagnini , Marina Meixner , Nebojša Nedić , Zlatko Puškadija , Jorge Rivera-Gomis , Mira Rogelj Jenko , Maja Ivana Smodiš Škerl , Julien Vallon , Denis Vojt , Jerzy Wilde & Antonio Nanetti (2020) Summer brood interruption as integrated management strategy for effective Varroa control in Europe, Journal of Apicultural Research, 59:5, 764-773, DOI: 10.1080/00218839.2020.1793278
+To link to this article: https://doi.org/10.1080/00218839.2020.1793278
+
 > [!NOTE]
 > Tłumaczenie AI tekstu: <https://www.researchgate.net/publication/343181331_Summer_brood_interruption_as_integrated_management_strategy_for_effective_Varroa_control_in_Europe> Dodałem podział na akapity oraz podtytuły, aby ułatwić czytanie i linkowanie do akapitów.
 
