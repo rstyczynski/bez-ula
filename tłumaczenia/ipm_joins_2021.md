@@ -2,12 +2,10 @@
 
 Autorzy: Cameron J. Jack, James D. Ellis
 
-``` Note
-Tłumaczenie z pomocą AI. Oryginał znajduje się [tutaj](https://academic.oup.com/jinsectscience/article/21/5/6/6372257)
-```
+> [!NOTE]
+> Tłumaczenie z pomocą AI. Oryginał znajduje się [tutaj](https://academic.oup.com/jinsectscience/article/21/5/6/6372257)
 
-``` Note
-**Abstrakt**
+## Abstrakt
 
 *Varroa destructor* jest jednym z największych biologicznych zagrożeń dla zdrowia pszczoły miodnej zachodniej (*Apis mellifera L.*) na całym świecie. Pszczelarze rutynowo stosują chemiczne metody leczenia, aby kontrolować tego pasożyta, jednak nadużywanie i niewłaściwe zarządzanie tymi metodami doprowadziły do powszechnej odporności populacji Varroa na te środki. Zintegrowane zwalczanie szkodników (IPM, ang. Integrated Pest Management) to ekologicznie oparta, zrównoważona metoda zarządzania szkodnikami, która opiera się na połączeniu różnych taktyk kontroli minimalizujących wpływ na środowisko. W niniejszym artykule przedstawiamy dogłębną analizę elementów IPM w kontekście zwalczania Varroa. Obejmuje to określanie ekonomicznych progów dla roztocza, identyfikację i monitorowanie Varroa, strategie zapobiegania oraz świadome ryzyka metody leczenia. Ponadto przedstawiamy szczegółowy przegląd strategii kontroli kulturowej, mechanicznej, biologicznej i chemicznej, zarówno długo stosowanych, jak i nowo powstałych, używanych przeciwko Varroa na całym świecie. Dla każdego rodzaju kontroli opisujemy wszystkie dostępne zabiegi, ich skuteczność przeciwko Varroa, jak to opisano w literaturze naukowej, oraz przeszkody w ich wdrożeniu. Niestety, nie istnieją niezawodne protokoły IPM dla Varroa z powodu skomplikowanej biologii roztocza oraz silnego uzależnienia pszczelarzy od chemicznych metod kontroli. Aby zachęcić pszczelarzy do stosowania IPM, skuteczne podejście do zwalczania Varroa w zarządzanych koloniach musi być lepsze od konwencjonalnych metod kontroli i obejmować opłacalne zabiegi, które mogą być łatwo stosowane przez pszczelarzy. Naszym celem jest dostarczenie najpełniejszego przeglądu dostępnych opcji zwalczania Varroa, ostatecznie umieszczając naszą dyskusję w kontekście IPM. Mamy nadzieję, że niniejszy artykuł będzie wezwaniem do działania przeciwko najbardziej niszczycielskiemu szkodnikowi, z którym zmagają się zarządzane kolonie pszczół miodnych na całym świecie.
 
@@ -16,7 +14,6 @@ Tłumaczenie z pomocą AI. Oryginał znajduje się [tutaj](https://academic.oup.
 Wspólne wysiłki patalogów owadów, akarologów i pszczelarzy nie przyniosły jeszcze długoterminowych rozwiązań w zakresie kontroli Varroa. Dlatego ciągły rozwój nowych i innowacyjnych metod kontroli Varroa powinien pozostać priorytetem wśród badaczy pszczół miodnych i agencji finansujących (Dietemann et al. 2012). Jednakże pojedyncza strategia kontroli raczej nie zapewni trwałego rozwiązania problemu Varroa. Pomimo tego pszczelarze w większości zarządzanych kolonii pszczół miodnych w dużej mierze polegają na jednej głównej metodzie kontroli tego roztocza: kontroli chemicznej (Haber et al. 2019). W związku z tym istnieje potrzeba przeglądu badań wspierających kombinację wielu dostępnych strategii kontroli Varroa.
 
 Zintegrowane zwalczanie szkodników (IPM, ang. Integrated Pest Management) to ekologicznie oparta, zrównoważona metoda zarządzania szkodnikami. Opiera się ona na połączeniu różnych taktyk kontroli i minimalizuje wpływ, jaki ma zwalczanie danego szkodnika na środowisko (Frisbee i Luna 1989). Skuteczny program IPM składa się z identyfikacji progów ekonomicznych, monitorowania populacji szkodników, wdrażania szeregu technik zapobiegawczych oraz stosowania stopniowego planu leczenia w zależności od potrzeb (Flint 2012). Niestety, wielu pszczelarzom nie udało się wprowadzić zasad IPM w swoich programach zarządzania Varroa, głównie z powodu luk w wiedzy i braków w szkoleniu (Whitehead 2017). W niniejszym artykule omawiamy podstawowe zasady IPM, ich związek z zarządzaniem Varroa, obecne opcje kontroli Varroa oraz przedstawiamy perspektywy zrównoważonych rozwiązań. Podczas gdy inne niedawne przeglądy dotyczące biologii i kontroli Varroa oferują dyskusje na temat różnych strategii kontroli Varroa (Rosenkranz et al. 2010, Gregorc i Sampson 2019, Noël et al. 2020, Roth et al. 2020), naszym celem jest dostarczenie jednego, kompleksowego przeglądu kontroli Varroa w ramach IPM.
-```
 
 ## Ustalanie Progów
 
