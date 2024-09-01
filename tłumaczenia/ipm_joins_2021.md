@@ -455,6 +455,7 @@ Spośród różnych syntetycznych środków chemicznych stosowanych do kontroli 
 | East Asia and Pacific |                       |                             |                          |                         |                                                                                                                    |  |
 | New Zealand           | X                     | X                           | X                        | X                       | Goodwin et al. (2005)                                                                                              |
 
+
 **Tabela 3. Lista udokumentowanej oporności Varroa destructor na chemikalia syntetyczne w krajach, dla których istnieją dane**
 
 **Formamidyny**
