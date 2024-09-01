@@ -31,7 +31,8 @@ gdzie:
 
 Ekonomiczny próg zagrożenia (ET) to liczba szkodników, przy której należy rozpocząć stosowanie środków kontrolnych, aby uniknąć osiągnięcia EIL (Stern et al. 1959), czasem nazywany również progiem działania. ET jest parametrem czasowym, a liczba szkodników jest używana jako wskaźnik, kiedy należy wdrożyć zarządzanie (Pedigo i Rice 2009). Zazwyczaj nie ma formuł używanych do określania ET ze względu na zmienność między różnymi działaniami zarządzania (Pedigo et al. 1986). ET zawsze jest ustawiony na niższą wartość niż EIL, ponieważ populacja szkodników będzie nadal rosła do momentu podjęcia leczenia. Dlatego konieczne jest działanie, gdy tylko populacje szkodników osiągną ET, aby zredukować liczebność populacji, zanim osiągnie ona EIL (Rys. 1). Nie podejmuje się żadnych działań na poziomach poniżej ET.
 
-*(obrazek tutaj)*  
+![figure1](figure1.jpg)
+
 **Rys. 1.** Wykres przedstawiający zależność między ekonomicznym progiem zagrożenia (ET) a ekonomicznym poziomem szkodliwości (EIL). Populacja szkodników przekracza ET dwukrotnie (zaznaczone dwiema strzałkami). W tym miejscu konieczne jest podjęcie działań zarządzających, aby zapobiec osiągnięciu EIL przez populację szkodników. Kiedy EIL zostanie osiągnięty (strzałka najbardziej po prawej), zdrowie/produktywność kolonii zmniejsza się do punktu, w którym pszczelarz doświadcza strat ekonomicznych.
 
 ### Wyzwania związane z ustalaniem progów dla Varroa
