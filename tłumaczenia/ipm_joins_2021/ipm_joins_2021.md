@@ -47,7 +47,7 @@ W Stanach Zjednoczonych progi zagrożenia (*ETs*) dla Varroa zostały ustalone d
 
 Dokładne przeszukanie literatury wykazało, że progi zagrożenia nie są często raportowane poza Ameryką Północną. Le Conte i in. (2010) wspomnieli w swojej recenzji, że pszczelarze w Niemczech są zobowiązani do leczenia, jeśli naturalny spadek roztoczy przekracza 10 roztoczy/24 godziny, ale nie ma odniesienia do źródła literaturowego tego progu. Podobnie inne grupy raportują ~3 roztocza/100 pszczół jako próg ET, chociaż nie cytują swoich źródeł (Honey Bee Health Coalition 2018). Niemniej jednak wydaje się, że ~2–5 roztoczy/100 pszczół jest ogólnie akceptowanym progiem ET dla Varroa, gdyż jest często nauczany pszczelarzom (Goodwin i Van Eaton 2001, Honey Bee Health Coalition 2018, Ontario Ministry of Agriculture, Food and Rural Affairs 2020), choć zaskakująco brakuje danych badawczych wspierających tę liczbę. Ustalanie progów ET dla zarządzania Varroa zostało wcześniej zidentyfikowane jako kluczowy kierunek badań potrzebnych do odpowiedniej kontroli roztocza (Dietemann et al. 2012). Podkreślamy to również tutaj, ponieważ skuteczna strategia Zintegrowanej Ochrony Przeciwpasożytniczej (IPM) opiera się na znajomości dokładnych i możliwych do zastosowania progów EIL i ET.
 
-### Identyfikacja i Monitorowanie
+## Identyfikacja i Monitorowanie
 
 Dokładna identyfikacja szkodnika jest kluczowym elementem Zintegrowanej Ochrony Przeciwpasożytniczej (IPM), ponieważ błędna identyfikacja może prowadzić do niepotrzebnego leczenia, marnowania zasobów i potencjalnych szkód dla systemu rolniczego. Chociaż infestacje Varroa są powszechne (Ellis i Munns 2005, Boncristiani et al. 2021), właściwa diagnoza Varroa w kolonii jest kluczowa przed podjęciem jakichkolwiek decyzji dotyczących zarządzania.
 
@@ -61,7 +61,7 @@ Pszczelarze najczęściej zauważają dorosłe samice roztocza Varroa, ponieważ
 
 Dorosłe samice Varroa mają kolor od czerwonobrązowego do ciemnobrązowego i są owalnego kształtu (rys. 2). Zazwyczaj mają około 1,1 mm długości i 1,6 mm szerokości (Anderson i Trueman 2000) i są widoczne gołym okiem. Ponieważ Varroa są pajęczakami, a nie owadami, mają osiem nóg (rys. 2A). Posiadają duży grzbietowy pancerz (rys. 2B), przednią część ciała zwaną gnatosoma (rys. 2A-III), która zawiera otwór gębowy, a ich ciała są prawie całkowicie pokryte szczecinkami (rys. 2A-IV).
 
->>Ilustracja tutaj<<  
+![figure2](figure2.jpg)
 **Rys. 2.** Anatomia Varroa destructor: A. Widok brzuszny Varroa; B. Widok grzbietowy Varroa; (I). Nogi, (II). Grzbietowy pancerz, (III). Gnatosoma, (IV). Szczecinki. Źródło zdjęcia: N. Noble, University of Florida.
 
 ### Badanie Czerwiu Pszczoły Miodnej
