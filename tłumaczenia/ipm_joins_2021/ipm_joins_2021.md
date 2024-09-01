@@ -62,19 +62,20 @@ Pszczelarze najczęściej zauważają dorosłe samice roztocza Varroa, ponieważ
 Dorosłe samice Varroa mają kolor od czerwonobrązowego do ciemnobrązowego i są owalnego kształtu (rys. 2). Zazwyczaj mają około 1,1 mm długości i 1,6 mm szerokości (Anderson i Trueman 2000) i są widoczne gołym okiem. Ponieważ Varroa są pajęczakami, a nie owadami, mają osiem nóg (rys. 2A). Posiadają duży grzbietowy pancerz (rys. 2B), przednią część ciała zwaną gnatosoma (rys. 2A-III), która zawiera otwór gębowy, a ich ciała są prawie całkowicie pokryte szczecinkami (rys. 2A-IV).
 
 ![figure2](figure2.jpg)
+
 **Rys. 2.** Anatomia Varroa destructor: A. Widok brzuszny Varroa; B. Widok grzbietowy Varroa; (I). Nogi, (II). Grzbietowy pancerz, (III). Gnatosoma, (IV). Szczecinki. Źródło zdjęcia: N. Noble, University of Florida.
 
-### Badanie Czerwiu Pszczoły Miodnej
+#### Badanie Czerwiu Pszczoły Miodnej
 
 Rozmnażanie się Varroa odbywa się całkowicie w zasklepionych komórkach zawierających czerw pszczeli (Ifantidis 1983, Boot i in. 1994, Donze i Guerin 1994, 1997, Martin 1994). W rzeczywistości ponad 70% Varroa w kolonii znajduje się w zasklepionych komórkach, gdy w kolonii jest obfitość czerwiu (Boot i in. 1995, Frey i Rosenkranz 2014). Roztocza Varroa wykazują preferencję dla czerwiu trutowego w porównaniu z czerwiem robotnic (Fuchs 1990, Boot i in. 1995) z powodu dłuższego okresu przed zasklepieniem (Ifantidis 1988, Boot i in. 1992), częstszego pielęgnowania przez pszczoły karmicielki (Calderone i Kuenen 2003) oraz dłuższego czasu rozwoju trutni (Boot i in. 1995). Dzięki temu roztocza mają więcej czasu na rozmnażanie. Dlatego badanie czerwiu trutowego zwiększa prawdopodobieństwo wykrycia Varroa w koloniach (Dietemann i in. 2013). Mimo to, Varroa są również obecne w komórkach czerwiu robotnic i mogą być łatwo wykryte, gdy występują na średnim lub wysokim poziomie. W związku z tym, komórki czerwiu stanowią dobre miejsce do wykrywania Varroa.
 
 Obecność roztoczy można potwierdzić na czerwiu lub w komórce, otwierając komórki i usuwając zawarty w nich czerw pszczeli. Jedną z metod jest wypłukiwanie poczwarek pszczelich z ich komórek za pomocą strumienia ciepłej wody nad sitkiem, aby zaobserwować roztocza znajdujące się w komórkach (Dietemann i in. 2013). Po usunięciu poczwarek z komórek, widoczne mogą być również odchody roztoczy na ścianach komórki.
 
-### Badanie Dorosłych Pszczół Miodnych
+#### Badanie Dorosłych Pszczół Miodnych
 
 Dojrzałe samice Varroa mogą być również wykrywane na dorosłych pszczołach miodnych (Delfinado-Baker i in. 1992, Kuenen i Calderone 1997, Dietemann i in. 2013). Choć Varroa można zobaczyć gołym okiem na dorosłych pszczołach, trudno je dostrzec na ruchomych pszczołach, zwłaszcza biorąc pod uwagę ich preferencje do żerowania na spodniej stronie odwłoka pszczoły (Ramsey i in. 2019). Dlatego najlepiej jest, gdy Varroa zostaną strącone z dorosłych pszczół w celu wizualizacji i kwantyfikacji.
 
-### Badanie Resztek Z Ula
+#### Badanie Resztek Z Ula
 
 Resztki z uli wyposażonych w ekranowane dno można zbadać pod kątem obecności Varroa (Rosenkranz i in. 1997, Webster i in. 2000, Branco i in. 2006). Pszczoły mogą usuwać Varroa ze swoich ciał lub roztocza mogą naturalnie spadać z plastra i przez ekranowane dno ula (Arechavaleta-Velasco i Guzman-Novoa 2001, Harbo i Harris 2004). W związku z tym, pod ul można umieścić lepką płytę (cienki kawałek tektury lub plastiku pokryty lepką substancją, taką jak olej roślinny, wazelina lub Tanglefoot), aby złapać spadające roztocza i użyć jej do kwantyfikacji populacji roztoczy, ponieważ martwe roztocza można zobaczyć na płytach (Ostiguy i Sammataro 2000, Calderone i Lin 2003). Podobnie, ekranowane lepkie płyty można umieścić przy wejściu do uli wyposażonych w solidne dno. Ekran zapobiega przyklejaniu się pszczół do płyty.
 
@@ -84,7 +85,7 @@ Częste monitorowanie populacji szkodników jest kluczowym elementem Zintegrowan
 
 Stosunek roztoczy do pszczół dorosłych jest zazwyczaj preferowaną metodą i najczęściej stosowaną przez pszczelarzy, ponieważ daje wskaźnik populacji roztoczy niezależnie od wielkości kolonii. Choć szacowanie całkowitej populacji roztoczy przy użyciu lepkich desek jest użyteczne, zwłaszcza do celów naukowych, jej praktyczne zastosowanie jest ograniczone, ponieważ można jej używać tylko do oszacowania rzeczywistej liczby roztoczy w kolonii (zobacz Spontaniczne Opadanie Roztoczy poniżej).
 
-### Usuwanie roztoczy z pszczół dorosłych
+#### Usuwanie roztoczy z pszczół dorosłych
 
 Wiele strategii może być użytych do określenia stosunku roztoczy do pszczół dorosłych, z których wszystkie wymagają usunięcia roztoczy z pszczół dorosłych. Dietemann et al. (2013) przeglądali cztery różne substancje często używane do usuwania roztoczy z pszczół dorosłych: cukier puder, eter, woda z mydłem i etanol. Badanie z 2015 roku wykazało, że etanol był bardziej skuteczny w usuwaniu roztoczy z pszczół dorosłych niż cukier puder (Flores et al. 2015); jednak zaletą cukru pudru jest to, że jest on nieszkodliwy dla pszczół. Wielu badaczy zaleca zebranie około 300 pszczół dorosłych (bez królowej) z plastrów z czerwiem (Delaplane 1997, Strange i Sheppard 2001, Lee et al. 2010, Dietemann et al. 2013). Jeśli wymagana jest większa precyzja, można wziąć trzy próbki po 300 pszczół (łącznie 900) i obliczyć średnie wartości (Lee et al. 2010), choć należy zachować ostrożność przy zbieraniu próbek z osłabionych kolonii. Próbkując co najmniej osiem kolonii w pasiece, pszczelarze mogą uzyskać dokładne oszacowanie średniego wskaźnika infestacji Varroa w tej pasiece (Lee et al. 2010). Jednak im więcej kolonii zostanie przebadanych w pasiece, tym dokładniejsze będzie oszacowanie.
 
@@ -92,7 +93,7 @@ Podczas używania alkoholu lub wody z mydłem do usuwania roztoczy, napełnij s�
 
 Podczas używania cukru pudru do usuwania roztoczy z pszczół dorosłych, umieść około dwóch łyżek stołowych cukru pudru (~20 g) w słoiku z ~300 żywymi pszczołami. Nałóż pokrywkę z siateczki na naczynie i delikatnie potrząsaj/roluj słoik poziomo, aby cukier puder równomiernie pokrył wszystkie pszczoły w próbce. Umieść słoik na twardej powierzchni, w cieniu, na 2 minuty, aby roztocza miały czas na odłączenie się od pszczół. Trzymając słoik do góry dnem, delikatnie potrząsaj nad białą tacą przez 1 minutę. Policz roztocza i zanotuj liczbę zebranych roztoczy. Wskaźnik infestacji roztoczy można określić, dzieląc liczbę złapanych roztoczy przez szacunkową liczbę pszczół w próbce i mnożąc przez 100. Na przykład, jeśli w słoiku zawierającym ~300 pszczół wypadnie 15 roztoczy, wskaźnik infestacji wyniesie liczbę roztoczy (15) podzieloną przez liczbę pszczół w próbce (~300) pomnożoną przez 100. W tym przykładzie wynik to ~5 roztoczy/100 pszczół, czyli wskaźnik infestacji wynoszący 5%.
 
-### Naturalne opadanie roztoczy
+#### Naturalne opadanie roztoczy
 
 Pszczoły miodne czyszczą się same (autogrooming) lub nawzajem (allogrooming) z kurzu, zanieczyszczeń, pyłku, a nawet roztoczy. Zachowanie to obejmuje ruchy szczotkowania nogami i gryzienie roztoczy szczękami (Boecking i Spivak 1999, Andino i Hunt 2011). Roztocza mogą być usuwane przez pszczoły lub naturalnie spadać z pszczół lub plastrów w wyniku normalnej aktywności w ulu. W związku z tym można zbierać roztocza, zbierając je z dolnej części ula, zazwyczaj na lepiku (Fries et al. 1991).
 
@@ -100,7 +101,7 @@ Ocena naturalnego opadania roztoczy z kolonii uznawana jest za skuteczną metod�
 
 Podczas mierzenia naturalnego opadania roztoczy, umieść lepik pod ulem wyposażonym w sito na dnie lub przymocuj arkusz do spodu siatki, wsuwając całą strukturę, stroną lepką do góry, do wejścia ula. Usuń lepik z ula po 72 godzinach, co zapewnia bardziej solidny okres próbny (Jack et al. 2020a), i policz całkowitą liczbę roztoczy znajdujących się na lepiku. Populację roztoczy w kolonii można oszacować za pomocą wzoru:
 
-\[ x = \frac{M - k}{(k \times 0.01)} \]
+![formula2](formula2.jpg)
 
 podstawiając całkowitą liczbę roztoczy złapanych na lepiku za \( M \) w równaniu, rozwiązując dla \( x \) i dzieląc przez liczbę dni, przez które lepik był w ulu (K. Delaplane, komunikacja osobista; Jack et al. 2019). Na przykład, jeśli złapałeś 100 roztoczy na lepiku po 72 godzinach, całkowita populacja roztoczy w kolonii (x) wynosi 3,208 roztoczy w kolonii (3.76 − 100 = −96.24; −96.24/0.01 roztoczy = 9,624; 9,624/# dni w ulu (3) = 3,208).
 
