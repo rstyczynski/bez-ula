@@ -21,9 +21,7 @@ Zintegrowane zwalczanie szkodników (IPM) opiera się na założeniu, że pewne 
 
 Pierwszym krokiem w IPM jest określenie zagęszczenia szkodników, które uzasadnia koszt zastosowania środków kontrolnych. Ekonomiczny poziom szkodliwości (EIL) jest definiowany jako najniższe zagęszczenie populacji, które spowoduje szkody ekonomiczne (Stern et al. 1959). EIL to proste równanie kosztów i korzyści, w którym koszty związane z zarządzaniem szkodnikiem są zrównoważone korzyściami z zapobiegania stratom (Pedigo et al. 1986). Najprostszym równaniem używanym do obliczania EIL jest:
 
-\[
-EIL = \frac{C}{V \times I \times D}
-\]
+![formula1](formula1.jpg)
 
 gdzie:  
 - \(C\) = koszt zarządzania na jednostkę produkcji (przykład: $/ha),  
