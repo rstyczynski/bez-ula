@@ -258,7 +258,16 @@ W ostatnich latach zidentyfikowano lokalizację genów wpływających na zachowa
 
 ### Przerwanie Rozwoju Czerwiu
 
-Przerwanie rozwoju czerwiu odnosi się do procesu, w którym pszczelarze zakłócają regularny cykl reprodukcyjny Varroa poprzez wprowadzenie przerwy w cyklu rozwojowym czerwiu w kolonii pszczół (Lodesani i in. 2014), tj. kolonia nie ma czerwiu przez pewien czas. Pszczelarz może spowodować przerwę w cyklu czerwiu, umieszczając matkę w klatce i uniemożliwiając jej składanie jaj przez pełny cykl czerwiu (około 24 dni) lub całkowicie usuwając czerw z ula. Przerwanie to zakłóca wzrost populacji Varroa, która w przeciwnym razie jest ściśle związana z populacją pszczół miodnych (Rosenkranz i in. 2010). Sztuczne przerwanie rozwoju czerwiu nie jest wystarczającą samodzielną strategią leczenia Varroa (Gregorc i in. 2017, Jack i in. 2020a). Giacomelli i in. (2016) zaobserwowali, że umieszczenie matki w klatce na 20 dni zmniejszyło populację Varroa o około 40%. Jednak prawdziwą korzyścią wprowadzenia przerwy w rozwoju czerwiu jest to, że wszystkie roztocza są zmuszone przejść na dorosłe pszczoły w absencji czerwiu w kolonii. Czyni to roztocza podatnymi na zachowania groomingowe lub leczenie środkami akaracydowymi. Dlatego sztuczne przerwanie rozwoju czerwiu zazwyczaj stosuje się w połączeniu z organicznymi metodami leczenia, takimi jak kwas mrówkowy, kwas szczawiowy i/lub tymol (Lodesani i in. 2014, Giacomelli i in. 2016, Gregorc i in. 2017, Büchler i in. 2020). Umieszczanie matek w klatkach w celu stworzenia okresów bezczerwiowych w ulu wymaga manipulacji matką, co może być ryzykowne. Przy dobrej umiejętności pszczelarskiej śmiertelność matek po 24 dniach umieszczania w klatce może być niska lub zerowa (Giacomelli i in. 2016, Gregorc i in. 2017, Jack i in. 2020a).
+Przerwanie rozwoju czerwiu odnosi się do procesu, w którym pszczelarze zakłócają regularny cykl reprodukcyjny Varroa poprzez wprowadzenie przerwy w cyklu rozwojowym czerwiu w kolonii pszczół (Lodesani i in. 2014), tj. kolonia nie ma czerwiu przez pewien czas. Pszczelarz może spowodować przerwę w cyklu czerwiu, umieszczając matkę w klatce i uniemożliwiając jej składanie jaj przez pełny cykl czerwiu (około 24 dni) lub całkowicie usuwając czerw z ula.
+
+Przerwanie to zakłóca wzrost populacji Varroa, która w przeciwnym razie jest ściśle związana z populacją pszczół miodnych (Rosenkranz i in. 2010). Sztuczne przerwanie rozwoju czerwiu nie jest wystarczającą samodzielną strategią leczenia Varroa (Gregorc i in. 2017, Jack i in. 2020a). Giacomelli i in. (2016) zaobserwowali, że umieszczenie matki w klatce na 20 dni zmniejszyło populację Varroa o około 40%.
+
+Jednak prawdziwą korzyścią wprowadzenia przerwy w rozwoju czerwiu jest to, że wszystkie roztocza są zmuszone przejść na dorosłe pszczoły w absencji czerwiu w kolonii. Czyni to roztocza podatnymi na zachowania groomingowe lub leczenie środkami akaracydowymi.
+
+Dlatego sztuczne przerwanie rozwoju czerwiu zazwyczaj stosuje się w połączeniu z organicznymi metodami leczenia, takimi jak kwas mrówkowy, kwas szczawiowy i/lub tymol (Lodesani i in. 2014, Giacomelli i in. 2016, Gregorc i in. 2017, Büchler i in. 2020).
+
+> [!Note]
+> Umieszczanie matek w klatkach w celu stworzenia okresów bezczerwiowych w ulu wymaga manipulacji matką, co może być ryzykowne. Przy dobrej umiejętności pszczelarskiej śmiertelność matek po 24 dniach umieszczania w klatce może być niska lub zerowa (Giacomelli i in. 2016, Gregorc i in. 2017, Jack i in. 2020a).
 
 ### "Nieudana" Metoda Kontroli Kulturowej
 
@@ -551,15 +560,19 @@ Eliash i in. (2014) odkryli związki, które powodowały, że Varroa obecne na c
 
 Skuteczność metod kontroli Varroa może różnić się w zależności od czynników abiotycznych (lokalizacja, temperatura, wilgotność, sezon itp.) oraz biotycznych (odporność roztoczy, liczebność kolonii pszczół, wrażliwość kolonii na leczenie itp.). W związku z tym nie ma jednej uniwersalnej strategii kontroli Varroa, która sprawdzi się u każdego pszczelarza. Pszczelarze muszą być świadomi dostępnych i skutecznych metod leczenia w swojej lokalizacji i sytuacji. Niemniej jednak stworzyliśmy schemat decyzji dotyczącej leczenia, który ma pomóc pszczelarzom w wyborze najlepszych metod leczenia w ich sytuacji (rys. 4). Rekomendacje schematu oparte są na danych dotyczących skuteczności przedstawionych w literaturze (tabela 1).
 
-![figure4](figure4.jpg)
+![figure4_](figure4_PL.jpg)
 
 **Rys. 4. Schemat decyzji dotyczącej leczenia, mający na celu pomoc pszczelarzom w wyborze najbardziej odpowiednich metod kontroli Varroa dla sytuacji ich kolonii i celów zarządzania. Aby opracować ten schemat, przyjęto kilka założeń dotyczących działań pszczelarzy mających na celu zapobieganie i zarządzanie Varroa. Rekomendacje dotyczące hipertermii oparte są na badaniach cytowanych w tabeli 1, jednak należy zachować ostrożność przy stosowaniu tej metody kontroli, ponieważ badania dotyczące bezpieczeństwa tych urządzeń są ograniczone. W schemacie nie wymieniono konkretnych organicznych i syntetycznych metod chemicznych; pszczelarze muszą więc określić, które środki chemiczne są dostępne i przestrzegać etykiet stosowanych preparatów. Rekomendacje zawarte w tym schemacie mają jedynie na celu ukierunkowanie pszczelarzy na dostępne opcje leczenia w kontekście sytuacji kolonii i celów zarządzania.**
 
 Zalecamy, aby wszyscy pszczelarze, niezależnie od rozmiaru operacji, stosowali środki zapobiegawcze w odniesieniu do Varroa jako część swojej rutynowej strategii zarządzania, korzystali z odpornej na Varroa rasy pszczół oraz wyposażali ule w ekrany dolne podczas ciepłych sezonów. Schemat decyzyjny w rys. 4 opracowano zakładając, że stosowane są najlepsze zalecenia dotyczące zarządzania. Następnie, konieczne jest poznanie wskaźnika infestacji Varroa, ponieważ początkowa decyzja w schemacie opiera się na tym, czy kolonie mają wskaźniki infestacji ≥3 roztocza/100 dorosłych pszczół, co jest standardowym progiem ekonomicznym. Po podjęciu tej decyzji, pszczelarz musi wiedzieć, czy populacje kolonii naturalnie maleją czy rosną, czy są używane do produkcji itp.
 
-Po odpowiedzi na wszystkie pytania, pszczelarz otrzymuje listę różnych poziomów/kategorii metod IPM: kulturowe, mechaniczne, organiczne chemiczne i syntetyczne chemiczne. Są one zalecane (✔) lub odradzane (X), w zależności od ich ogólnej skuteczności w danym stanie. Kontrole biologiczne nie zostały uwzględnione w schemacie, ponieważ obecnie nie ma skutecznych komercyjnych metod leczenia dostępnych dla pszczelarzy. Dodatkowo, nie zalecamy stosowania syntetycznych metod chemicznych, gdy wskaźniki Varroa są poniżej stosunku 3 roztocza/100 pszczół. Nie zalecamy konkretnych strategii leczenia w ramach danej kategorii IPM. Na przykład, nie rekomendujemy, który syntetyczny środek chemiczny powinien być używany, jeśli w schemacie zaznaczono stosowanie syntetycznych chemikaliów. Pszczelarze mogą zapoznać się ze skutecznością każdego konkretnego leczenia w tabeli 1 i zdecydować, które z nich są dla nich akceptowalne. Chociaż nie podajemy kosztów finansowych tych różnych metod, ważne jest, aby pszczelarze określili, które metody są ekonomicznie wykonalne dla ich operacji. Ponadto, nie wszystkie opcje leczenia są dostępne w każdym kraju (tabela 2). Ostatecznie uważamy, że ten schemat decyzyjny, jeśli będzie stosowany, stanowi holistyczną strategię IPM dla skutecznej kontroli Varroa, niezależnie od lokalizacji kolonii.
+Po odpowiedzi na wszystkie pytania, pszczelarz otrzymuje listę różnych poziomów/kategorii metod IPM: kulturowe, mechaniczne, organiczne chemiczne i syntetyczne chemiczne. Są one zalecane (✔) lub odradzane (X), w zależności od ich ogólnej skuteczności w danym stanie. Kontrole biologiczne nie zostały uwzględnione w schemacie, ponieważ obecnie nie ma skutecznych komercyjnych metod leczenia dostępnych dla pszczelarzy. Dodatkowo, nie zalecamy stosowania syntetycznych metod chemicznych, gdy wskaźniki Varroa są poniżej stosunku 3 roztocza/100 pszczół.
 
-**Podsumowanie**
+Nie zalecamy konkretnych strategii leczenia w ramach danej kategorii IPM. Na przykład, nie rekomendujemy, który syntetyczny środek chemiczny powinien być używany, jeśli w schemacie zaznaczono stosowanie syntetycznych chemikaliów. Pszczelarze mogą zapoznać się ze skutecznością każdego konkretnego leczenia w tabeli 1 i zdecydować, które z nich są dla nich akceptowalne. Chociaż nie podajemy kosztów finansowych tych różnych metod, ważne jest, aby pszczelarze określili, które metody są ekonomicznie wykonalne dla ich operacji. 
+
+Ponadto, nie wszystkie opcje leczenia są dostępne w każdym kraju (tabela 2). Ostatecznie uważamy, że ten schemat decyzyjny, jeśli będzie stosowany, stanowi holistyczną strategię IPM dla skutecznej kontroli Varroa, niezależnie od lokalizacji kolonii.
+
+## Podsumowanie
 
 Varroa nadal stanowi poważny problem dla pszczół miodnych, mimo wieloletnich badań nad jego kontrolą. Zrównoważona kontrola Varroa prawdopodobnie nie zostanie osiągnięta za pomocą jednej metody, ale raczej poprzez integrację wielu podejść, aby uzyskać maksymalną skuteczność. Jednakże, biorąc pod uwagę, że nasze zrozumienie wpływu transmisji Varroa/wirusów na pszczoły miodne jest ograniczone, a obecny próg ekonomiczny jest wąski (2 vs. >3 roztocza/100 pszczół), warto rozważyć, czy IPM (integrowane zarządzanie szkodnikami) jest w ogóle wykonalnym podejściem do kontroli Varroa. W tym miejscu wskazujemy na istotne luki w zbiorowej wiedzy dotyczące kontroli Varroa i rozwoju protokołów IPM.
 
@@ -590,11 +603,11 @@ Varroa nadal stanowi poważny problem dla pszczół miodnych, mimo wieloletnich 
 
 Varroa miało katastrofalny wpływ na zdrowie pszczół miodnych i zrównoważony rozwój pszczelarstwa na całym świecie. Mimo to, pszczelarze skutecznie utrzymują kolonie przy życiu dzięki pracochłonnym i kosztownym programom zarządzania Varroa. Uważamy, że stosowanie podstawowych zasad IPM w kontroli infestacji Varroa jest możliwe i przyniesie korzyści zarówno pszczołom, jak i pszczelarzom.
 
-**Podziękowania**
+## Podziękowania
 
 Chcielibyśmy podziękować Mary Bammer i Emily Noordyke za pomoc w projektowaniu graficznym rysunków.
 
-**Wkład autorów**
+## Wkład autorów
 
 CJ: Konceptualizacja; Pisanie - Wersja pierwotna; Pisanie - przegląd i edytowanie. JE: Konceptualizacja; Pisanie - Wersja pierwotna; Pisanie - przegląd i edytowanie.
 
