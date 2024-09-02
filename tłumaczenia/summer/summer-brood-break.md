@@ -22,7 +22,7 @@ Roztocza Varroa infestujące czerw mogą być zwalczane tylko za pomocą środk�
 
 Niezawodne i skuteczne leczenie można łatwiej osiągnąć w rodzinach bez czerwiu. W związku z tym wymuszone przerwanie czerwiu może być przydatnym narzędziem do poprawy skuteczności leczenia i ograniczenia okresów ciągłego wzrostu populacji roztoczy. Co więcej, jeśli pszczelarze chcą całkowicie unikać stosowania chemikaliów lub muszą leczyć pszczoły w długich sezonach pożytków, mogą połączyć kontrolowane przerwanie czerwiu z użyciem pułapek plastra (Maul i in., 1988). Aby to zrobić, pozostawia się trochę otwartego czerwiu w rodzinach pozbawionych czerwiu, co przyciąga większość roztoczy obecnych na dorosłych pszczołach. Czerw można następnie usunąć z ula razem z uwięzionymi roztoczami.
 
-[figure1](figure1.jpeg)
+![figure1](figure1.jpeg)
 
 **Rysunek 1. Mapa uczestniczących pasiek.** Wszystkie metody stosowane w pasiekach są przedstawione razem z liczbą rodzin pszczelich przypadającą na każdą metodę.  
 4,2%: izolowanie matki z zakrapianiem 5 ml 4,2% kwasu szczawiowego; 2,5% (5): izolowanie matki z zakrapianiem 5 ml 2,5% kwasu szczawiowego; 2,5% (8): izolowanie matki z zakrapianiem 8 ml 2,5% kwasu szczawiowego; Sublim: sublimacja 2 g kwasu szczawiowego; TC (Class/Simp): pułapkowanie czerwiu (klasyczne/uproszczone); BR: usuwanie czerwiu. 4,2% było stosowane jako standardowe leczenie we wszystkich pasiekach.

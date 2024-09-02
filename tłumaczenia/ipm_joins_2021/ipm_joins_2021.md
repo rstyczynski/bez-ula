@@ -560,7 +560,7 @@ Eliash i in. (2014) odkryli związki, które powodowały, że Varroa obecne na c
 
 Skuteczność metod kontroli Varroa może różnić się w zależności od czynników abiotycznych (lokalizacja, temperatura, wilgotność, sezon itp.) oraz biotycznych (odporność roztoczy, liczebność kolonii pszczół, wrażliwość kolonii na leczenie itp.). W związku z tym nie ma jednej uniwersalnej strategii kontroli Varroa, która sprawdzi się u każdego pszczelarza. Pszczelarze muszą być świadomi dostępnych i skutecznych metod leczenia w swojej lokalizacji i sytuacji. Niemniej jednak stworzyliśmy schemat decyzji dotyczącej leczenia, który ma pomóc pszczelarzom w wyborze najlepszych metod leczenia w ich sytuacji (rys. 4). Rekomendacje schematu oparte są na danych dotyczących skuteczności przedstawionych w literaturze (tabela 1).
 
-![figure4_](figure4_PL.jpg)
+![figure4](figure4_PL.jpg)
 
 **Rys. 4. Schemat decyzji dotyczącej leczenia, mający na celu pomoc pszczelarzom w wyborze najbardziej odpowiednich metod kontroli Varroa dla sytuacji ich kolonii i celów zarządzania. Aby opracować ten schemat, przyjęto kilka założeń dotyczących działań pszczelarzy mających na celu zapobieganie i zarządzanie Varroa. Rekomendacje dotyczące hipertermii oparte są na badaniach cytowanych w tabeli 1, jednak należy zachować ostrożność przy stosowaniu tej metody kontroli, ponieważ badania dotyczące bezpieczeństwa tych urządzeń są ograniczone. W schemacie nie wymieniono konkretnych organicznych i syntetycznych metod chemicznych; pszczelarze muszą więc określić, które środki chemiczne są dostępne i przestrzegać etykiet stosowanych preparatów. Rekomendacje zawarte w tym schemacie mają jedynie na celu ukierunkowanie pszczelarzy na dostępne opcje leczenia w kontekście sytuacji kolonii i celów zarządzania.**
 
