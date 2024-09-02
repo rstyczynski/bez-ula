@@ -70,6 +70,10 @@ Zorganizowano kilka warsztatów i szkoleń terenowych, aby ujednolicić i zharmo
 
 Dane były analizowane za pomocą modelu ANOVA SPSS-GLM, uwzględniając lokalizację (pasiekę), sezon (rok) oraz leczenie jako czynniki stałe. Średnie skorygowane były używane do porównania skuteczności różnych leczeń przy użyciu testu post-hoc Bonferroniego. W porównaniu wskaźników infestacji po leczeniu, dane dotyczące opadu roztoczy były logarytmowane, aby osiągnąć normalność, a ANOVA jednoczynnikowa była używana do określenia różnic między metodami. Wykresy były tworzone w Pythonie 3 z użyciem pakietów Seaborn i Matplotlib, a mapa została stworzona przy użyciu pakietu Geopandas.
 
+![table2](table2.jpg)
+
+**Tabela 2. Analiza GLM skuteczności i względnej siły rodzin pszczelich 70 dni po leczeniu.** Metoda, lokalizacja i rok oraz interakcja między metodą a lokalizacją były modelowane jako czynniki stałe.
+
 ## Rezultaty
 
 Skuteczność leczenia kwasem szczawiowym po zamknięciu matki była istotnie zależna (p < 0,01) od zastosowanej metody, lokalizacji oraz interakcji metoda x lokalizacja, ale nie od roku (Tabela 2).
@@ -119,11 +123,31 @@ Pierwszą z tych metod była metoda „pułapki na ramki” (1 a następnie ramk
 > [!NOTE]
 > W UE ogólnie zachęca się do stosowania kwasów organicznych, ponieważ nie pozostawiają one istotnych pozostałości wpływających na jakość produktów pszczelarskich, ani w sposób sensoryczny, ani ilościowy (Bogdanov et al., 2002; Parlament Europejski, 2018; Moosbeckhofer et al., 2003).
 
+![figure3](figure3.jpg)
+
+**Rysunek 3. Skuteczność izolowania matki i podawania 4,2% kwasu szczawiowego w różnych lokalizacjach w latach 2016 i 2017.** Skróty pasiek znajdują się na Rysunku 1. Pozioma linia w polu przedstawia medianę. Pole (box) pokazuje pierwszy i trzeci kwartyl. Wąsy (whiskers) rozciągają się do 1,5-krotności rozstępu międzykwartylowego (IQR). Diamenty oznaczają wartości odstające, które znajdują się poza 1,5-krotnością IQR. Dodatkowo gwiazdki oznaczają wartości średnie.
+
+**Tabela 3. Średni opad roztoczy na rodzinę po krytycznym leczeniu (wartości średnie z 95% przedziałem ufności).**
+
+![table3](table3.jpg)
+
 W naszym badaniu uwzględniono trzy znane metody przerwania czerwiu i przetestowano je po raz pierwszy na szerokim zakresie geograficznym w całej Europie, aby je porównać i zrozumieć najlepszą opcję do zasugerowania pszczelarzom.
 
-Wyniki osiągnięte w naszym badaniu potwierdzają ich duży potencjał w zakresie skutecznej i terminowej kontroli infestacji roztoczy. 
+Wyniki osiągnięte w naszym badaniu potwierdzają ich duży potencjał w zakresie skutecznej i terminowej kontroli infestacji roztoczy.
 
-Nalewanie 5 ml roztworu kwasu szczawiowego o stężeniu 4,2% (Apibioxal VR) na zajętą ramkę, stosowane jako standardowe leczenie we wszystkich badawczych pasiekach, było bardzo skuteczne i niezawodne w większości pasiek. Efekt niższych stężeń kwasu szczawiowego okazał się mniej efektywny. Zgodne z ustaleniami Gregorc et al. (2016), którzy osiągnęli tylko 24% śmiertelności roztoczy poprzez nalewanie roztworu kwasu szczawiowego o stężeniu 2,9% na rodziny bez czerwiu. Nie stwierdzono statystycznej różnicy w skuteczności między nalewaniem 5 ml roztworu kwasu szczawiowego o stężeniu 4,2% (89,57±1,24%) a sublimacją 2 g kwasu szczawiowego w postaci kryształków (88,25±1,79%). Podobne wyniki osiągnięto w innych badaniach podczas zimy (Coffey & Breen, 2016). Ostatecznie skuteczność metod pułapki na ramki (TC Classic i TC Simplified) oraz całkowitego usuwania czerwiu (Brood removal), mierzone opadem roztoczy po krytycznym leczeniu, była porównywalna ze standardowym leczeniem 4,2%. 
+Nalewanie 5 ml roztworu kwasu szczawiowego o stężeniu 4,2% (Apibioxal VR) na zajętą ramkę, stosowane jako standardowe leczenie we wszystkich badawczych pasiekach, było bardzo skuteczne i niezawodne w większości pasiek. Efekt niższych stężeń kwasu szczawiowego okazał się mniej efektywny. Zgodne z ustaleniami Gregorc et al. (2016), którzy osiągnęli tylko 24% śmiertelności roztoczy poprzez nalewanie roztworu kwasu szczawiowego o stężeniu 2,9% na rodziny bez czerwiu. Nie stwierdzono statystycznej różnicy w skuteczności między nalewaniem 5 ml roztworu kwasu szczawiowego o stężeniu 4,2% (89,57±1,24%) a sublimacją 2 g kwasu szczawiowego w postaci kryształków (88,25±1,79%). Podobne wyniki osiągnięto w innych badaniach podczas zimy (Coffey & Breen, 2016). Ostatecznie skuteczność metod pułapki na ramki (TC Classic i TC Simplified) oraz całkowitego usuwania czerwiu (Brood removal), mierzone opadem roztoczy po krytycznym leczeniu, była porównywalna ze standardowym leczeniem 4,2%.
+
+![figure4](figure4.jpg)
+
+**Rysunek 4. Skuteczność różnych metod izolowania matki (zobacz Rysunek 1 dla skrótów).** Znaczące różnice między metodami, ustalone na podstawie testu post-hoc Bonferroniego, są oznaczone. Pozioma linia w polu przedstawia medianę. Pole (box) pokazuje pierwszy i trzeci kwartyl. Wąsy (whiskers) rozciągają się do 1,5-krotności rozstępu międzykwartylowego (IQR). Diamenty oznaczają wartości odstające, które znajdują się poza 1,5-krotnością IQR. Dodatkowo gwiazdki oznaczają wartości średnie.
+
+**Tabela 4. Względna siła rodziny pszczelej 70 dni po leczeniu jako procent pszczół, które pozostały w rodzinie (skorygowane wartości średnie ± błąd standardowy, 95% przedziały ufności).**
+
+![table4](table4.jpg)
+
+**Tabela 5. Średnie obciążenie pracą w minutach na rodzinę pszczelą przy wdrażaniu różnych metod.**
+
+![table5](table5.jpg)
 
 Podczas gdy silna redukcja infestacji roztoczy w grupach TC Classic i Brood removal została osiągnięta bez użycia jakichkolwiek leków, spekulujemy, że połączenie z kwasem szczawiowym może nawet poprawić ich skuteczność.
 
