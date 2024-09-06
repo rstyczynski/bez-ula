@@ -61,7 +61,7 @@ Pszczelarze najczęściej zauważają dorosłe samice roztocza Varroa, ponieważ
 
 Dorosłe samice Varroa mają kolor od czerwonobrązowego do ciemnobrązowego i są owalnego kształtu (rys. 2). Zazwyczaj mają około 1,1 mm długości i 1,6 mm szerokości (Anderson i Trueman 2000) i są widoczne gołym okiem. Ponieważ Varroa są pajęczakami, a nie owadami, mają osiem nóg (rys. 2A). Posiadają duży grzbietowy pancerz (rys. 2B), przednią część ciała zwaną gnatosoma (rys. 2A-III), która zawiera otwór gębowy, a ich ciała są prawie całkowicie pokryte szczecinkami (rys. 2A-IV).
 
-![figure2](figure2_pl.jpg)
+![figure2](figure2.jpg)
 
 **Rys. 2.** Anatomia Varroa destructor: A. Widok brzuszny Varroa; B. Widok grzbietowy Varroa; (I). Nogi, (II). Grzbietowy pancerz, (III). Gnatosoma, (IV). Szczecinki. Źródło zdjęcia: N. Noble, University of Florida.
 
