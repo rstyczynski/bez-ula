@@ -36,7 +36,7 @@ W tym szeroko zakrojonym badaniu porównaliśmy efekt różnych metod kontrolowa
 
 Badanie przeprowadzono w sezonach 2016–2017 i 2017–2018 w 10 krajach europejskich i 15 lokalizacjach (Rysunek 1), obejmując łącznie 370 rodzin pszczelich reprezentujących różne populacje europejskich pszczół miodnych. Aby uzyskać porównywalne dane, projekt eksperymentalny wymagał, aby każdy uczestnik posiadał pasiekę składającą się z co najmniej 20 naturalnie zainfekowanych rodzin w pełnym rozmiarze oraz utworzenia dwóch lub kilku grup składających się z co najmniej dziesięciu rodzin każda. Dane dotyczące siły rodzin i poziomu infestacji roztoczami u pszczół musiały być mierzone na początku eksperymentu, aby móc rozdzielić rodziny na jednorodne grupy.
 
-![figure2](figure2_pl.jpg)
+![figure2](figure2_PL.jpg)
 
 **Rysunek 2. Oś czasu eksperymentu.** Przedstawiono cztery główne metody: izolowanie matki (złoty), usuwanie czerwiu (niebieski), klasyczna metoda pułapkowania czerwiu (zielony) i uproszczona metoda pułapkowania czerwiu (fioletowy). Trzecie badanie Liebefelda (nie pokazane) zostało przeprowadzone przed zimą, ale nie ma ustalonego punktu czasowego.
 
