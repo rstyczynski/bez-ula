@@ -115,7 +115,10 @@ Doświadczenie wykonane było na zewnątrz przy temperaturze około 20-30°C. Op
 
 Opary odbierane były przez owiniętą taśmą termiczną rurkę silikonową o długości około 10 cm. Rurka wchodziła do kolby z ujściem na gazy. Kolba zanurzona była w zimnej wodzi, a ujście gazów z kolby zatkane zostało delikatnie wacikiem. Zatkanie pozwalało na ujście gazów, co miało przeciwdziałać ew. wzrostowi ciśnienia. W kolbie znajdował się pasek lakmusowy, k†óry służył do pomiaru pH.
 
-Prażenie rozpocząłem od 1g co wskazało, że jest zbyt mała ilość. Po przeglądzie filmów na YT zrozumiałem, że standardem jest prażenie 4g. Ilość ta wytwarzała zauważalnie istotną ilość gazów.
+Prażenie rozpocząłem od 1g co wskazało, że jest to zbyt mała ilość. Po przeglądzie filmów na YT zrozumiałem, że standardem jest prażenie 4g. Ilość ta wytwarzała zauważalnie istotną ilość gazów - w głównej mierze pary wodnej. 
+
+> [!Note]
+> Lotny kwas szczawiowy jest słabo lub niewidoczny. To co widzimy w trakcie prażenia to głównie para wodna.
 
 Przed pomiarami zważyłem kolbę, zapisując że waży 81.37g. Pomiędzy pomiarami przepłukiwałem prażnik wodą oraz spirytusem a także przedmuchiwałem sprężonym powietrzem, mając na celu oczyszczenie prażnika oraz rurki odbierającej gaz.
 
@@ -125,7 +128,7 @@ Początkowy zestaw zawierał chłodnicę, jednak okazało się, że nie jest to 
 
 ### Odczyn pH
 
-Odczyn pH skroplin odebranych w kolbie wynosił 1 pH, czyli co oznacza że skropliny są silnym kwasem.
+Odczyn pH skroplin odebranych w kolbie wynosił 1 pH, co oznacza że skropliny są silnym kwasem.
 
 ### Temperatura gazów
 
