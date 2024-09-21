@@ -115,10 +115,12 @@ Nie potrafię tego obliczyć ani oszacować, ale wpływ na stężenie ma niewąt
 Gorący gazowy roztwór kwasu szczawiowego natychmiast krystalizuje się na każdej zimniejszej powierzchni, pokrywając wszystko co znajduje się w ulu drobinkami kwasu szczawiowego. Jak duże są te drobinki - nie wiem; mogę jednak przypuszczać że są rzędu 1-10µm.
 
 ![waroza](https://upload.wikimedia.org/wikipedia/commons/6/6a/Varroa_destructor_on_honeybee_host.jpg)
+Source: https://pl.wikipedia.org/wiki/Warroza
 
 Dręcz w porównaniu do pszczoły jest "łysy" co oznacza, że drobinki kwasu moga osadzać się na jego ciele. W przypadku pszczoły osiądą na włoskach, ale dręcz znajdzie je na swoim pancerzu. Możliwe, że jest to czynnikiem k†óry powoduje, że dręcz ginie, a pszczoła nie doznaje poparzenia silnym kwasem.
 
 ![psczoła](https://scientificbeekeeping.com/scibeeimages/OA-crystals-on-abdomen-reduced.png)
+Source: https://scientificbeekeeping.com/oxalic-acid-heat-vaporization-and-other-methods-part-2-of-2-parts/
 
 ## Wątpliwości
 
