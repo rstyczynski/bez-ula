@@ -96,7 +96,17 @@ Ponieważ proces prażenia dwuwodnego kwasu szczawiowego zachodzi w tyglu 3cm x 
 
 ## Doświadczenie
 
-Doświadczenie polegało na prażeniu 4g dwuwodnego kwasu szczawiowego w mosiężnym tyglu. Doświadczalny prażnik został wykonany z elementów hydraulicznych z ogrzewaniem gorącym powietrzem z opalarki 2000W. Tygiel, wykonany z mosiężnego trójnika, posiada z jednej strony mosiężną rurkę, w któ®ej umieszczona jest termopara. Dzieki temu rozwiązaniu - pomiar temperatury dokonywany jest wewnątrz tygla. Trójnik kieruje spaliny do kolejnego trójnika - stalowego, w którym znajduje się ujście gazów. Powyżej znajdują sie dwa zawory kulowe, służące do podawania dwuwodnego kwasu szczawiowego. Całość została owinięta taśmą termiczną z włókniny szklanej, co ma minimalizować osiadanie skroplin i krystalizację na elementach palnika.
+Doświadczenie polegało na prażeniu 4g dwuwodnego kwasu szczawiowego w mosiężnym tyglu. Doświadczalny prażnik został wykonany z elementów hydraulicznych z ogrzewaniem gorącym powietrzem z opalarki 2000W.
+
+![opalarka](images/tygiel_opalarka.jpg)
+
+Tygiel, wykonany z mosiężnego trójnika, posiada z jednej strony mosiężną rurkę, w której umieszczona jest termopara. Dzieki temu rozwiązaniu - pomiar temperatury dokonywany jest wewnątrz tygla, do pomiaru wykorzystany jest multimetr.
+
+![temperatura](images/miernik_temperatury.jpg)
+
+Trójnik kieruje spaliny do kolejnego trójnika - stalowego, w którym znajduje się ujście gazów. Powyżej znajdują sie dwa zawory kulowe, służące do podawania dwuwodnego kwasu szczawiowego. Całość została owinięta taśmą termiczną z włókniny szklanej, co ma minimalizować osiadanie skroplin i krystalizację na elementach palnika.
+
+![prażnik](images/praznik_ocieplony.jpg)
 
 Doświadczenie wykonane było na zewnątrz przy temperaturze około 20-30°C. Opalarka podgrzewała tygiel przez około 60 sekund do temperatury 230°C, dochodząc do 300°C. Pod wieczór maksymalne temperatura wynosiła 230°C. Większość pomiarów wykonana była przy temperaturze tygla 230-240°C.
 
