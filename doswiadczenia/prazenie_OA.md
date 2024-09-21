@@ -117,7 +117,13 @@ Gorący gazowy roztwór kwasu szczawiowego natychmiast krystalizuje się na każ
 ![waroza](https://upload.wikimedia.org/wikipedia/commons/6/6a/Varroa_destructor_on_honeybee_host.jpg)
 Source: https://pl.wikipedia.org/wiki/Warroza
 
-Dręcz w porównaniu do pszczoły jest "łysy" co oznacza, że drobinki kwasu moga osadzać się na jego ciele. W przypadku pszczoły osiądą na włoskach, ale dręcz znajdzie je na swoim pancerzu. Możliwe, że jest to czynnikiem k†óry powoduje, że dręcz ginie, a pszczoła nie doznaje poparzenia silnym kwasem.
+Dręcz w porównaniu do pszczoły jest "łysy" co oznacza, że drobinki kwasu moga osadzać się na jego ciele. Analiza zdjęcia dręcza wskazuje, że ma on od 20 do 40 włosków wzdłuż swojego jestestwa. 
+
+![dręcz_łysina](images/dręcz_wymiary.jpg)
+
+Wiedząc że jego szerokość to 1.6mm możemy przyjąć, że odległość pomiędzy włoskami wynosi 0.04-0.08mm tj. 40-80µm. To jest oczywiści hipoteza, ale możliwe, że właśnie z tego powodu drobinki kwasu szczawiowego osiadają na pancerzu drecza - włoski go nie chronią.
+
+W przypadku pszczoły osiądą na włoskach, ale dręcz znajdzie je na swoim pancerzu. Możliwe, że jest to czynnikiem k†óry powoduje, że dręcz ginie, a pszczoła nie doznaje poparzenia silnym kwasem.
 
 ![psczoła](https://scientificbeekeeping.com/scibeeimages/OA-crystals-on-abdomen-reduced.png)
 Source: https://scientificbeekeeping.com/oxalic-acid-heat-vaporization-and-other-methods-part-2-of-2-parts/
