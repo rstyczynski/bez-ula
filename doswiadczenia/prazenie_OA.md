@@ -104,7 +104,7 @@ Opary odbierane były przez owiniętą taśmą termiczną rurkę silikonową o d
 
 Prażenie rozpocząłem od 1g co wskazało, że jest zbyt mała ilość. Po przeglądzie filmów na YT zrozumiałem, że standardem jest prażenie 4g. Ilość ta wytwarzała zauważalnie istotną ilość gazów.
 
-Przed pomiarami zważyłem kolbę, zapisując że waży 81.37g.
+Przed pomiarami zważyłem kolbę, zapisując że waży 81.37g. Pomiędzy pomiarami przepłukiwałem prażnik wodą oraz spirytusem a także przedmuchiwałem sprężonym powietrzem, mając na celu oczyszczenie prażnika oraz rurki odbierającej gaz.
 
 Po każdym z badań odczekiwałem nieco czasu, aż w kolbie zniknie mgła, co oznacza, że całe opary osiadły na ściankach kolby. Kolna po doświadczeniu zawierała skropliny pary wodnej oraz mokry kwas szczawiowy.
 
@@ -121,6 +121,10 @@ Gaz wydostający się z komory spalania w trakcie doświadczenia miał temperatu
 ### Temperatura komory prażenia
 
 W trakcie prażenia 4g dwuwodnego kwasu szczawiowego zaobserwowałem spadek temperatury komory spalania z 238°C do 187°C tj. o 51°C.
+
+### Temperatura rurki
+
+Rurka odbierająca gaz okazała się być chłodnicą. Finalne pomiary wykonywane były po owinięciu rurki taśmą termoizolacyjną.
 
 ### Ilość bezwodnego kwasu szczawiowego
 
@@ -140,7 +144,15 @@ Oznacza to, że 80% z 4g dwuwodnego kwasu szczawiowego uległo dekompozycji w wy
 
 Biorąc pod uwage taniość kwasu szczawiowego jest to wynik ekonomicznie uzasadniony.
 
-### skutki uboczne prażenie kwasu
+### resublimacja i skraplanie
+
+Rurka odbiorcza jest chłodnicą. Nie powinna być wykonana ze metalu, który jest dobrym przewodnikiem cieplnym Dodatkowo powinna być zaizolowana, tak aby kwas nie resublimował się na rurce, a para wodne nie skraplała się.
+
+Podobnie z tyglem - ten także powinien być zaizolowany, tak aby nie wytracał ciepła poprzez oddanie go do otoczenia.
+
+Biorąc pod uwagę, że kwas szczawiowy aplikowany jest jesienią, izolacja termiczna rurki odbierające gaz oraz tygla jest bardzo istotne.
+
+### skutki uboczne prażenia kwasu
 
 Skutkami ubocznymi prażenia dwuwodnego kwasu szczawiowego są:
 
@@ -172,6 +184,8 @@ Przeprowadzona analiza teoretyczna oraz badanie praktyczne pokazuje, że nie ma 
 ## Optymalne urządzenie
 
 Z uwagi na znaczący spadek temperatury spowodowany rozpadem dwuwodnego kwasu szczawiowego oraz parowaniem wody, należy użyć urządzenia dostarczającego jak najwięcej energii - wydaje się, że optymalnym rozwiązaniem jest urządzenie ze spiralą ogrzewaną palnikiem gazowym.
+
+Nośnikiem kwasu szczawiowego jest para wodna więc stosowanie roztworu wydaje się rozwiązaniem celowym.
 
 Idealnym urządzeniem jest jednak zamgławiacz stosowany przez profesjonalistów walki z robactwem - ze zwężką Venturiego, powodującą, że roztwór kwasu szczawiowego dodawany jest do strumienia gorącej pary wodnej. Metoda ta nie powoduje rozpadu termicznego kwasu szczawiowego, przez co pszczelarz ma pewność, że tylko para wodna oraz kwas szczawiowy są wprowadzane do ula. Nie występują tutaj tlenki węgla ani kwas mrówkowy.
 
