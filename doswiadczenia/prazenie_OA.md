@@ -99,7 +99,7 @@ Zadymianie ula oparami powstałymi z rozpadu termicznego dwuwodnego kwasu szczaw
 
 30% dwuwodnego kwasu szczawiowego z definicji zmienia się w parę wodną. Z pozostałych 70%, tylko 25% pozostaje w postaci czystego kwasu szczawiowego, a 75% rozpada się na dwutlenek węgla oraz wodę. Z uwagi na brak metod pomiaru ilość kwasu mrówkowego uznaję za znikomy.
 
-Z każdego 1g - 0.3g to para wodna. Z pozostałych 0.7g, 0.12g (17%) przedostaje się jako czysty kwas szczawiowy, a 0.58g rozpada się na 0.46g tlenków węgla oraz 0.12g pary wodnej. Finalnie w gazach powstałych ze spalania znajduje się:
+Z każdego 1g - 0.3g to para wodna. Z pozostałych 0.7g, 0.12g (17%) przedostaje się jako czysty kwas szczawiowy, a 0.58g rozpada się na 0.46g (80%) tlenków węgla oraz 0.12g (20%) pary wodnej. Finalnie w gazach powstałych ze spalania znajduje się:
 
 1. 0.46g tlenków węgla
 2. 0.42g pary wodnej
