@@ -199,13 +199,19 @@ Przeprowadzona analiza teoretyczna oraz badanie praktyczne pokazuje, że nie ma 
 
 ## Optymalne urządzenie
 
+### Spirala ogrzewana gazem
+
 Z uwagi na znaczący spadek temperatury spowodowany rozpadem dwuwodnego kwasu szczawiowego oraz parowaniem wody, należy użyć urządzenia dostarczającego jak najwięcej energii - wydaje się, że optymalnym rozwiązaniem jest urządzenie ze spiralą ogrzewaną palnikiem gazowym.
 
 Nośnikiem kwasu szczawiowego jest para wodna więc stosowanie roztworu wydaje się rozwiązaniem celowym, a właśnie urządzenie spiralne bazują na roztworach.
 
+### Spirala ogrzewana gazem ze zwężką Venturiego
+
 Idealnym urządzeniem jest jednak zamgławiacz stosowany przez profesjonalistów walki z robactwem - ze zwężką Venturiego, powodującą, że roztwór kwasu szczawiowego dodawany jest do strumienia gorącej pary wodnej. Metoda ta nie powoduje rozpadu termicznego kwasu szczawiowego, przez co pszczelarz ma pewność, że tylko para wodna oraz kwas szczawiowy są wprowadzane do ula. Nie występują tutaj tlenki węgla ani kwas mrówkowy.
 
 Oba urządzenia stosują wodny (alkoholowy, glicerynowy?) roztwór kwasu, co poprawia BHP z uwagi na brak pracy w terenie z lotnym proszkiem.
+
+### Tygiel ogrzewany świeczką
 
 Pszczelarze mogą także stosować rozwiązanie najtańsze, choć wymagające otwarcie ula. Rozwiązaniem takim jest tygiel ogrzewany świeczką.
 
@@ -216,6 +222,8 @@ Pszczelarze mogą także stosować rozwiązanie najtańsze, choć wymagające ot
 
 Kolejne badania powinny określić stężenie roztworu kwasu szczawiowego aplikowanego przy pomocy technik ze spiralami.
 
-Celowym jest przeprowadzenie badań z wykorzystaniem chromatografu gazowego tak aby definitywnie zamknąć temat produktów prażenia kwasu szczawiowego.
-
 Z uwagi na przeprowadzanie odymiania przy zamkniętych wylotkach w czasie 20 minut, kolejne badania powinny wyjaśnić ew. wpływ wzrostu temperatury oraz stężenia dwutlenku węgla na opad dręcza. Badania i praktyka wykazują, że zarówno dwutlenek węgla jak i podwyższona temperatura działają zabójczo na dręcza.
+
+Badania bazujące na wprowadzaniu do ula gorących par powinny standardowo dokonywać pomiaru temperatury oraz dwutlenku węgla.
+
+Celowym jest przeprowadzenie badań z wykorzystaniem chromatografu gazowego tak aby definitywnie zamknąć temat produktów prażenia kwasu szczawiowego.
