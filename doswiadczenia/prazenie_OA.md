@@ -40,12 +40,12 @@ Dodatkowy tlenek węgla powstaje wskutek dekompozycji bezwodnego kwasu szczawiow
 
 W sumie w wyniku dekompozycji 1g bezwodnego kwasu szczawiowego powstaje 0.8g tlenków węgla, w tym 0.488g dwutlenku węgla oraz 0.311g tlenku węgla.
 
-> [!Note]
+> [!CAUTION]
 > Tlenek węgla to silnie trujący gaz. Zachowaj ostrożność!
 
-### rzeczywistość
+### Rzeczywistość
 
-Ilości wody, bezwodnego kwasu mrówkowego oraz tlenków węgla powstałych z dekompozycji bezwodnego kwasu szczawiowego są  wartościami wynikającymi z całkowitego rozkładu, która w rzeczywistości nie wystąpi. Ile kwasu szczawiowego ulegnie dekompozycji, a ile przedostanie się do ula wraz z parą wodną? Odpowiedź na to pytanie była celem niniejszego badania doświadczalnego.
+Ilości wody, bezwodnego kwasu mrówkowego oraz tlenków węgla powstałych z dekompozycji bezwodnego kwasu szczawiowego są wartościami wynikającymi z całkowitego rozkładu, która w rzeczywistości nie wystąpi. Ile kwasu szczawiowego ulegnie dekompozycji, a ile przedostanie się do ula wraz z parą wodną? Odpowiedź na to pytanie była celem niniejszego badania doświadczalnego.
 
 ## Praktyka
 
@@ -66,26 +66,26 @@ Urządzenia kosztują od 50 zł do blisko dwóch tysięcy złotych. Rozbieżnoś
 
 Celem praktycznym pszczelarza jest szybkie wprowadzenie par zawierających kwas szczawiowy do ula. Ekonomika podpowiada, że operacja ta powinna być wykonana możliwie szybko przy zachowanej skuteczności.
 
-## sublimacja
+## Sublimacja
 
 Teoria mówi, że idealna sublimacja zachodzi w temperaturze 157°C - 189°C. Praktyka mówi natomiast, że w tych temperaturach proces zachodzi niezwykle powoli, co jest nie akceptowalne z uwago na przyjętą technikę zagazowywania ula z zewnątrz.
 
 > [!Note]
 > Tylko jedna z technik (nie stosowana jednak w Polsce) wykorzystuje powolne parowania - jest to technika z tyglem ogrzewanym świeczką.
 
-### prażenie czystego dwuwodnego kwasu szczawiowego
+### Prażenie czystego dwuwodnego kwasu szczawiowego
 
 Temperatura praktykowana przez pszczelarzy to 230°C, albo jak najwyższa dostępna dla danego urządzenia. W tej sytuacji nie jest to jednak sublimacja, ale prażenie, które możemy porównać do wylania wody na gorącą blachę. Woda podskakuje, paruje, wędruję bo gorącej blasze.
 
 Prażenie dwuwodnego kwasu szczawiowego na rozgrzanym do temperatury 230°C palenisku jest procesem daleko wychodzącym poza proces sublimacji. Z uwagi, że mówimy o związku chemicznym składającym się w 1/3 z wody, mamy operację gwałtownego powstania pary wodnej
 
-### prażenie roztworu dwuwodnego kwasu szczawiowego
+### Prażenie roztworu dwuwodnego kwasu szczawiowego
 
 Część technik wykorzystuje roztwór dwuwodnego kwasu szczawiowego w alkoholu, glicerynie lub też wodzie. Roztwór taki podawany jest na spiralę rozpalaną gazem, gdzie następuje dekompozycja roztworu kwasu szczawiowego.
 
 Technika ta jest podobna to tygla - występuję w niej prażenie roztworu kwasu szczawiowego, jest jednak od tygla o tyle doskonalsza, że znacznie większa jest powierzchnia prażenia. Skutki chemiczna są jednak identyczne - następuje lawinowa dekompozycja temperaturowa kwasu szczawiowego do mieszaniny pary wodnej, tlenków węgla, kwasu szczawiowego, oraz nieokreślonej ilości kwasu mrówkowego.
 
-### dodawanie roztworu dwuwodnego kwasu szczawiowego do pary wodnej
+### Dodawanie roztworu dwuwodnego kwasu szczawiowego do pary wodnej
 
 W innej technice - znanej bardziej z sektora walki z robactwem - roztwór podawany jest za pomocą zwężki Venturiego do strumienia gorącej pary wodnej.
 
@@ -151,13 +151,13 @@ Prażenie 4g dwuwodnego kwasu szczawiowego w temperaturze 230-240°C wytworzyło
 
 Ponieważ 30% dwuwodnego kwasu szczawiowego to z definicji woda, tak więc w reakcji temperaturowej brało udział 4 * 70% = 2.8g bezwodnego kwasu szczawiowego, co oznacza że 0.7 / 2.8 * 100 = 25% kwasu nie uległo dekompozycji w wyniku działania wysokiej temperatury. 25% dotyczy bezwodnego kwasu szczawiowego. Dla formy dwuwodnej jest to 0.7 / 4 * 100 = 17.5%.
 
-### straty kwasu szczawiowego
+### Straty kwasu szczawiowego
 
 Oznacza to, że 80% z 4g dwuwodnego kwasu szczawiowego uległo dekompozycji w wyniku działania wysokiej temperatury, wytwarzając głównie tlenki węgla oraz wodę.
 
 Biorąc pod uwage taniość kwasu szczawiowego jest to wynik ekonomicznie uzasadniony.
 
-### resublimacja i skraplanie
+### Resublimacja i skraplanie
 
 Rurka odbiorcza jest chłodnicą. Nie powinna być wykonana ze metalu, który jest dobrym przewodnikiem cieplnym Dodatkowo powinna być zaizolowana, tak aby kwas nie resublimował się na rurce, a para wodne nie skraplała się.
 
@@ -165,7 +165,7 @@ Podobnie z tyglem - ten także powinien być zaizolowany, tak aby nie wytracał 
 
 Biorąc pod uwagę, że kwas szczawiowy aplikowany jest jesienią, izolacja termiczna rurki odbierające gaz oraz tygla jest bardzo istotne.
 
-### skutki uboczne prażenia kwasu
+### Skutki uboczne prażenia kwasu
 
 Skutkami ubocznymi prażenia dwuwodnego kwasu szczawiowego są:
 
@@ -174,11 +174,11 @@ Skutkami ubocznymi prażenia dwuwodnego kwasu szczawiowego są:
 
 Z uwagi na przeprowadzanie odymiania przy zamkniętych wylotkach w czasie 20 minut, w/w czynniki niewątpliwie wpływają na pszczelą rodzinę oraz na dręcza. Badania wykazują, że zarówno dwutlenek węgla jak i podwyższona temperatura działają zabójczo na dręcza.
 
-### kwas dwuwodny to inna substancja niż kwas szczawiowy
+### Kwas dwuwodny to inna substancja niż kwas szczawiowy
 
 Kolejnym bardzo ważnym wnioskiem jest wiedza, że kwas dwuwodny to inna substancja niż kwas szczawiowy, ponieważ zawiera 30% wody. Informacja ta jest kluczowa przy sporządzaniu roztworów kwasu szczawiowego.
 
-### roztwór kwasu dwuwodnego
+### Roztwór kwasu dwuwodnego
 
 Sporządzając roztwór należy pamiętać, że oryginalna receptura prof.Hartwig stosuje kwas szczawiowy czysty, a nie dwuwodny. Przeliczenie kwasu dwuwodnego do czystego to 70%, ponieważ dwuwodny zawiera 30% wody.
 
@@ -207,5 +207,7 @@ Oba urządzenia stosują wodny (alkoholowy, glicerynowy?) roztwór kwasu, co pop
 ## Dalsze badania
 
 Kolejne badania powinny określić stężenie roztworu kwasu szczawiowego aplikowanego przy pomocy technik ze spiralami.
+
+Celowym jest przeprowadzenie badań z wykorzystaniem chromatografu gazowego tak aby definitywnie zamknąć temat produktów prażenia kwasu szczawiowego.
 
 Z uwagi na przeprowadzanie odymiania przy zamkniętych wylotkach w czasie 20 minut, kolejne badania powinny wyjaśnić ew. wpływ wzrostu temperatury oraz stężenia dwutlenku węgla na opad dręcza. Badania i praktyka wykazują, że zarówno dwutlenek węgla jak i podwyższona temperatura działają zabójczo na dręcza.
