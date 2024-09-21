@@ -1,5 +1,5 @@
 # Badanie skutków prażenia kwasu szczawiowego
-Ryszard Styczyński, wrzesień 2024, rstyczynski@gmail.com
+Ryszard Styczyński, wrzesień 2024, rstyczynski@gmail.com, wersja 1
 
 ## Wstęp
 
