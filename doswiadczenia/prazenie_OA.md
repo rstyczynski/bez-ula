@@ -9,9 +9,9 @@ Jedną technik walki z dręczem pszczelim jest sublimacja dwuwodnego kwasu szcza
 
 Kwas szczawiowy dwuwodny jest kwasem organicznym o symbolu H2C2O4'2H2O o temperaturze przejścia do formy gazowej 100°C. W temperaturze tej dochodzi do utraty cząstek wody z dwuwodnego kwasu szczawiowego.
 
-Pozbawiony wody kwas szczawiowy sublimuje (przejście do formy gazowej) w 157°C, natomiast w temperaturze 189°C dochodzi do jego dekompozycji, w trakcie którego dochodzi do rozpadu na H2O, CO, oraz CO2.
+Pozbawiony wody kwas szczawiowy sublimuje (przejście do formy gazowej) w 157°C, natomiast w temperaturze 189°C dochodzi do jego dekompozycji, w trakcie którego dochodzi do rozpadu na kwas mrówkowy HCOOH oraz CO2. W temperaturze 200°C kwas mrówkowy rozpada się na H2O, oraz CO.
 
-Teoria prowadzi więc do wniosku, że w trakcie prażenia dwuwodnego kwasu szczawiowego dochodzi do powstania pary wodnej oraz dekompozycji bezwodnego już kwasu szczawiowego do H2O, CO, oraz CO2.
+Teoria prowadzi więc do wniosku, że w trakcie prażenia dwuwodnego kwasu szczawiowego dochodzi do powstania pary wodnej oraz dekompozycji bezwodnego już kwasu szczawiowego do HCOOH, H2O, CO, oraz CO2.
 
 ### Ilość kwasu szczawiowego w dwuwodnym kwasie szczawiowym
 
@@ -71,7 +71,7 @@ Celem praktycznym pszczelarza jest szybkie wprowadzenie par zawierających kwas 
 Teoria mówi, że idealna sublimacja zachodzi w temperaturze 157°C - 189°C. Praktyka mówi natomiast, że w tych temperaturach proces zachodzi niezwykle powoli, co jest nie akceptowalne z uwago na przyjętą technikę zagazowywania ula z zewnątrz.
 
 > [!Note]
-> Tylko jedna z technik (nie stosowana jednak w Polsce) wykorzystuje powolne parowania - jest to technika z tyglem ogrzewanym świeczką.
+> Tylko jedna z technik (nie stosowana jednak w Polsce) wykorzystuje powolne parowanie w podwyższonej temperaturze - jest to technika z tyglem ogrzewanym świeczką.
 
 ### Prażenie czystego dwuwodnego kwasu szczawiowego
 
