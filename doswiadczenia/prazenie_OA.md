@@ -161,15 +161,19 @@ Przed pomiarami zważyłem kolbę, zapisując że waży 81.37g. Pomiędzy pomiar
 
 Po każdym z badań odczekiwałem nieco czasu, aż w kolbie zniknie mgła, co oznacza, że całe opary osiadły na ściankach kolby. Kolna po doświadczeniu zawierała skropliny pary wodnej oraz mokry kwas szczawiowy.
 
-Początkowy zestaw zawierał chłodnicę, jednak okazało się, że nie jest to zupełnie potrzebne z uwagi na wystarczający zestaw z kolbą odbiorczą zanurzoną w zimnej wodzie. Opary kwasu szczawiowego niezmiernie szubko resublimują, osadzając się na każdej zimniejszej powierzchni.
+Początkowy zestaw zawierał chłodnicę, jednak okazało się, że nie jest to zupełnie potrzebne z uwagi na wystarczający zestaw z kolbą odbiorczą zanurzoną w zimnej wodzie. Opary kwasu szczawiowego niezmiernie szubko krystalizują, osadzając się na każdej zimniejszej powierzchni.
 
 ### Odczyn pH
 
 Odczyn pH skroplin odebranych w kolbie wynosił 1 pH, co oznacza że skropliny są silnym kwasem.
 
+![pH](images/pomiar_pH_wagi.jpg)
+
 ### Temperatura gazów
 
 Gaz wydostający się z komory spalania w trakcie doświadczenia miał temperaturę pomiędzy 70°C a 100°C.
+
+![temp_gazów](images/gazy_temp.jpg)
 
 ### Temperatura komory prażenia
 
@@ -203,7 +207,7 @@ Biorąc pod uwage taniość kwasu szczawiowego jest to wynik ekonomicznie uzasad
 
 ### Resublimacja i skraplanie
 
-Rurka odbiorcza jest chłodnicą. Nie powinna być wykonana ze metalu, który jest dobrym przewodnikiem cieplnym Dodatkowo powinna być zaizolowana, tak aby kwas nie resublimował się na rurce, a para wodne nie skraplała się.
+Rurka odbiorcza jest chłodnicą. Nie powinna być wykonana ze metalu, który jest dobrym przewodnikiem cieplnym Dodatkowo powinna być zaizolowana, tak aby kwas nie krystalizował się na rurce, a para wodna nie skraplała się.
 
 Podobnie z tyglem - ten także powinien być zaizolowany, tak aby nie wytracał ciepła poprzez oddanie go do otoczenia.
 
