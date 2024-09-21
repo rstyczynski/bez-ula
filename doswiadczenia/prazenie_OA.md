@@ -166,7 +166,7 @@ Rurka odbiorcza jest chłodnicą. Nie powinna być wykonana ze metalu, który je
 
 Podobnie z tyglem - ten także powinien być zaizolowany, tak aby nie wytracał ciepła poprzez oddanie go do otoczenia.
 
-Biorąc pod uwagę, że kwas szczawiowy aplikowany jest jesienią, izolacja termiczna rurki odbierające gaz oraz tygla jest bardzo istotne.
+Biorąc pod uwagę, że kwas szczawiowy aplikowany jest jesienią, izolacja termiczna rurki odbierające gaz oraz tygla jest bardzo istotna.
 
 ### Skutki uboczne prażenia kwasu
 
@@ -195,17 +195,22 @@ Sprawdzenie: 30/(388+400+42) * 100 = 3.61%
 
 ## Ekonomika zakupu urządzenia
 
-Przeprowadzona analiza teoretyczna oraz badanie praktyczne pokazuje, że nie ma sensu inwestycja w drogie urządzenie kontrolujące temperaturę. Temperatura 230°C nie ma żadnego znaczenia, wpływając jedynie na lawinowość reakcji gazowania.
+Przeprowadzona analiza teoretyczna oraz badanie praktyczne pokazuje, że nie ma sensu inwestycja w drogie urządzenie kontrolujące temperaturę. Temperatura 230°C nie ma żadnego znaczenia, wpływając jedynie na lawinowość reakcji gazowania. Ważnie jest natomiast aby dostarczyć w trakcie procesu tyle energii, aby temperatura nie spadła poniżej 200°C z uwagi na powstawanie kwasu mrówkowego, chyba że proces jest realizowany w zakresie 157-189°C będąc właściwym procesem sublimacji. Jest to jednak trudne do osiągnięcia oraz nieuzasadnione ekonomicznie przy aktualnych urządzeniach. Zaznaczę, że to z kontrolą mocy grzewczej jest bardzo drogie.
 
 ## Optymalne urządzenie
 
 Z uwagi na znaczący spadek temperatury spowodowany rozpadem dwuwodnego kwasu szczawiowego oraz parowaniem wody, należy użyć urządzenia dostarczającego jak najwięcej energii - wydaje się, że optymalnym rozwiązaniem jest urządzenie ze spiralą ogrzewaną palnikiem gazowym.
 
-Nośnikiem kwasu szczawiowego jest para wodna więc stosowanie roztworu wydaje się rozwiązaniem celowym.
+Nośnikiem kwasu szczawiowego jest para wodna więc stosowanie roztworu wydaje się rozwiązaniem celowym, a właśnie urządzenie spiralne bazują na roztworach.
 
 Idealnym urządzeniem jest jednak zamgławiacz stosowany przez profesjonalistów walki z robactwem - ze zwężką Venturiego, powodującą, że roztwór kwasu szczawiowego dodawany jest do strumienia gorącej pary wodnej. Metoda ta nie powoduje rozpadu termicznego kwasu szczawiowego, przez co pszczelarz ma pewność, że tylko para wodna oraz kwas szczawiowy są wprowadzane do ula. Nie występują tutaj tlenki węgla ani kwas mrówkowy.
 
 Oba urządzenia stosują wodny (alkoholowy, glicerynowy?) roztwór kwasu, co poprawia BHP z uwagi na brak pracy w terenie z lotnym proszkiem.
+
+Pszczelarze mogą także stosować rozwiązanie najtańsze, choć wymagające otwarcie ula. Rozwiązaniem takim jest tygiel ogrzewany świeczką.
+
+>[!Caution]
+> Stosując tą technikę trzeba mieć pewność, że ul nie przewróci się, co mogłoby skutkować pożarem.
 
 ## Dalsze badania
 
