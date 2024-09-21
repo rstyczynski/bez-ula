@@ -30,7 +30,7 @@ Oznacza to, że 1/3 dwuwodnego kwasu szczawiowego to woda, a 2/3 to bezwodny kwa
 
 Wiedząc, że 1/3 dwuwodnego kwasu szczawiowego to woda, mamy pewność, że w trakcie prażenia tego związku otrzymujemy z co najmniej 1/3 wagi gorącą parę wodną.
 
-Dodatkowa para wodna powstaje wskutek dekompozycji bezwodnego kwasu szczawiowego do kwasu mrówkowego, który dekomponuje się do wody oraz tlenku węgla. Obliczenia idealnej dekompozycji wskazują, że jest to 0.2 g wody.
+Dodatkowa para wodna powstaje wskutek dekompozycji bezwodnego kwasu szczawiowego do kwasu mrówkowego, który dekomponuje się do wody oraz tlenku węgla. Obliczenia idealnej dekompozycji 1g bezwodnego kwasu szczawiowego wskazują, że jest to 0.2 g wody.
 
 ### tlenki węgla
 
@@ -93,6 +93,33 @@ Rozwiązania to jest rozwiązaniem idealnym, ponieważ nie powoduje rozpadu temp
 
 Pomimo, że technika ta nie jest aktualnie wykorzystywana w pszczelarstwie, jest to metoda atrakcyjna dla pasiek przemysłowych z uwagi na ekonomikę oraz pewność aplikacji. Podobny jest także nośnik - gorąca para wodna; nie występują jednak tlenki węgla oraz nieokreślona ilość kwasu mrówkowego.
 
+## Działanie na pszczoły i dręcza
+
+Zadymianie ula oparami powstałymi z rozpadu termicznego dwuwodnego kwasu szczawiowego powoduje wprowadzenie do ula gorących tlenków węgla, pary wodnej oraz pewnej (aczkolwiek nieznanej) ilości kwasu mrówkowego.
+
+30% dwuwodnego kwasu szczawiowego z definicji zmienia się w parę wodną. Z pozostałych 70%, tylko 25% pozostaje w postaci czystego kwasu szczawiowego, a 75% rozpada się na dwutlenek węgla oraz wodę. Z uwagi na brak metod pomiaru ilość kwasu mrówkowego uznaję za znikomy.
+
+Z każdego 1g - 0.3g to para wodna. Z pozostałych 0.7g, 0.12g (17%) przedostaje się jako czysty kwas szczawiowy, a 0.58g rozpada się na 0.46g tlenków węgla oraz 0.12g pary wodnej. Finalnie w gazach powstałych ze spalania znajduje się:
+
+1. 0.46g tlenków węgla
+2. 0.42g pary wodnej
+3. 0.12g kwasu szczawiowego
+
+Spalając dwuwodny kwas szczawiowy, do ula wprowadzamy gorącą mieszaninę o stężeniu 0.12/1 * 100 = 12%
+
+>[!Note]
+> Stężenie oparów jest 3x większe od zalecanego stężenia w postaci roztworu w syropie cukrowym, który prof.Hartwig określiła na 3.61%
+
+Nie potrafię tego obliczyć ani oszacować, ale wpływ na stężenie ma niewątpliwie wymieszanie powstałych gazów z gazami znajdującymi się w ulu.
+
+Gorący gazowy roztwór kwasu szczawiowego natychmiast krystalizuje się na każdej zimniejszej powierzchni, pokrywając wszystko co znajduje się w ulu drobinkami kwasu szczawiowego. Jak duże są te drobinki - nie wiem; mogę jednak przypuszczać że są rzędu 1-10µm.
+
+![waroza](https://upload.wikimedia.org/wikipedia/commons/6/6a/Varroa_destructor_on_honeybee_host.jpg)
+
+Dręcz w porównaniu do pszczoły jest "łysy" co oznacza, że drobinki kwasu moga osadzać się na jego ciele. W przypadku pszczoły osiądą na włoskach, ale dręcz znajdzie je na swoim pancerzu. Możliwe, że jest to czynnikiem k†óry powoduje, że dręcz ginie, a pszczoła nie doznaje poparzenia silnym kwasem.
+
+![psczoła](https://scientificbeekeeping.com/scibeeimages/OA-crystals-on-abdomen-reduced.png)
+
 ## Wątpliwości
 
 Ponieważ proces prażenia dwuwodnego kwasu szczawiowego zachodzi w tyglu 3cm x 3cm nie dochodzi więc do procesu idealnego ogrzewania co skutkuje, że w trakcie tego procesu następuje dehydratacja, sublimacja oraz dekompozycja. Wynikiem tego procesu jest gorąca para wodna niosąca ze sobą kwas szczawiowy
@@ -147,6 +174,10 @@ Rurka odbierająca gaz okazała się być chłodnicą. Finalne pomiary wykonywan
 Kolejne pomiary wykazały wagę kolby ze skroplinami oraz mokrym kwasem szczawiowym o wadze: 82.79, 82.80, 83.71, 82.11, 82.60, 82.99.
 
 Dwa ostanie pomiary częściowo odparowałem uzyskując wagę kolby z kwasem szczawiowym 82g oraz 82.24g, co pozwala oszacować, że w oparach znajdowało się 0.6-0.8g bezwodnego kwasu szczawiowego.
+
+## Ilość tlenków węgla oraz pary wodnej
+
+Wiedząc z badania, że prażenie 4g dwuwodnego kwasu szczawiowego powoduje wprowadzenie 0.7g czystego kwasu szczawiowego, dowiadujemy się że 3.3g rozpadło się na produkty dekompozycji termicznej. Nie jestem w stanie stwierdzić ile powstaje kwasu mrówkowego, to powinno być przedmiotem osobnego badania.
 
 ## Wnioski
 
@@ -227,3 +258,5 @@ Z uwagi na przeprowadzanie odymiania przy zamkniętych wylotkach w czasie 20 min
 Badania bazujące na wprowadzaniu do ula gorących par powinny standardowo dokonywać pomiaru temperatury oraz dwutlenku węgla.
 
 Celowym jest przeprowadzenie badań z wykorzystaniem chromatografu gazowego tak aby definitywnie zamknąć temat produktów prażenia kwasu szczawiowego.
+
+Celowym jest także badanie rozpadu termicznego kwasu mrówkowego, aby dowiedzieć się jak skutecznie rozpada się on w temperaturze 230°C tj. ile czystego kwasu mrówkowego wydostaje się z gazami, co jest skutkiem ubocznym lawinowego procesu dekompozycji termicznej.
