@@ -148,7 +148,7 @@ Trójnik kieruje spaliny do kolejnego trójnika - stalowego, w którym znajduje 
 
 Doświadczenie wykonane było na zewnątrz przy temperaturze około 20-30°C. Opalarka podgrzewała tygiel przez około 60 sekund do temperatury 230°C, dochodząc do 300°C. Pod wieczór maksymalne temperatura wynosiła 230°C. Większość pomiarów wykonana była przy temperaturze tygla 230-240°C.
 
-Opary odbierane były przez owiniętą taśmą termiczną rurkę silikonową o długości około 10 cm. Rurka wchodziła do kolby z ujściem na gazy. Kolba zanurzona była w zimnej wodzi, a ujście gazów z kolby zatkane zostało delikatnie wacikiem. Zatkanie pozwalało na ujście gazów, co miało przeciwdziałać ew. wzrostowi ciśnienia. W kolbie znajdował się pasek lakmusowy, k†óry służył do pomiaru pH.
+Opary odbierane były przez owiniętą taśmą termiczną rurkę silikonową o długości około 10 cm. Rurka wchodziła do kolby z ujściem na gazy. Kolba zanurzona była w zimnej wodzie a ujście gazów z kolby zatkane zostało delikatnie wacikiem. Zatkanie pozwalało na ujście gazów, co miało przeciwdziałać ew. wzrostowi ciśnienia. W kolbie znajdował się pasek lakmusowy, który służył do pomiaru pH.
 
 Prażenie rozpocząłem od 1g co wskazało, że jest to zbyt mała ilość, z uwagi na znikomą produkcję gazów.
 
@@ -159,9 +159,10 @@ Po przeglądzie filmów na YT zrozumiałem, że standardem jest prażenie 4g. Il
 
 Przed pomiarami zważyłem kolbę, zapisując że waży 81.37g. Pomiędzy pomiarami przepłukiwałem prażnik wodą oraz spirytusem a także przedmuchiwałem sprężonym powietrzem, mając na celu oczyszczenie prażnika oraz rurki odbierającej gaz.
 
-Po każdym z badań odczekiwałem nieco czasu, aż w kolbie zniknie mgła, co oznacza, że całe opary osiadły na ściankach kolby. Kolna po doświadczeniu zawierała skropliny pary wodnej oraz mokry kwas szczawiowy.
+Po każdym z badań odczekiwałem nieco czasu, aż w kolbie zniknie mgła, co oznacza, że całe opary osiadły na jej ściankach. Kolba po zakończonym doświadczeniu zawierała skropliny pary wodnej oraz mokry kwas szczawiowy.
 
-Początkowy zestaw zawierał chłodnicę, jednak okazało się, że nie jest to zupełnie potrzebne z uwagi na wystarczający zestaw z kolbą odbiorczą zanurzoną w zimnej wodzie. Opary kwasu szczawiowego niezmiernie szubko krystalizują, osadzając się na każdej zimniejszej powierzchni.
+>[!NOTE]
+> Początkowy zestaw zawierał chłodnicę, jednak okazało się, że nie jest to zupełnie potrzebne z uwagi na wystarczający zestaw z kolbą odbiorczą zanurzoną w zimnej wodzie. Opary kwasu szczawiowego niezmiernie szubko krystalizują, osadzając się na każdej zimniejszej powierzchni.
 
 ### Odczyn pH
 
@@ -185,7 +186,7 @@ Rurka odbierająca gaz okazała się być chłodnicą. Finalne pomiary wykonywan
 
 ### Ilość bezwodnego kwasu szczawiowego
 
-Kolejne pomiary wykazały wagę kolby ze skroplinami oraz mokrym kwasem szczawiowym o wadze: 82.79, 82.80, 83.71, 82.11, 82.60, 82.99.
+Kolejne pomiary wykazały wagę kolby ze skroplinami oraz mokrym kwasem szczawiowym o wadze: 82.79, 82.80, 83.71, 82.11, 82.60, oraz 82.99g.
 
 Dwa ostanie pomiary częściowo odparowałem uzyskując wagę kolby z kwasem szczawiowym 82g oraz 82.24g, co pozwala oszacować, że w oparach znajdowało się 0.6-0.8g bezwodnego kwasu szczawiowego.
 
