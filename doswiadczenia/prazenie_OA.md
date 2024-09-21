@@ -249,7 +249,7 @@ Oba urządzenia stosują wodny (alkoholowy, glicerynowy?) roztwór kwasu, co pop
 Pszczelarze mogą także stosować rozwiązanie najtańsze, choć wymagające otwarcie ula. Rozwiązaniem takim jest tygiel ogrzewany świeczką.
 
 >[!Caution]
-> Stosując tą technikę trzeba mieć pewność, że ul nie przewróci się, co mogłoby skutkować pożarem.
+> Stosując tą technikę trzeba mieć pewność, że ul nie przewróci się, co mogłoby skutkować pożarem. Tygiel ze świeczką powinien w/g producenta stać w podstawce z wodą.
 
 ## Dalsze badania
 
