@@ -117,7 +117,7 @@ Gorący gazowy roztwór kwasu szczawiowego natychmiast krystalizuje się na każ
 ![waroza](https://upload.wikimedia.org/wikipedia/commons/6/6a/Varroa_destructor_on_honeybee_host.jpg)
 Source: https://pl.wikipedia.org/wiki/Warroza
 
-Dręcz w porównaniu do pszczoły jest "łysy" co oznacza, że drobinki kwasu moga osadzać się na jego ciele. Analiza zdjęcia dręcza wskazuje, że ma on od 20 do 40 włosków wzdłuż swojego jestestwa. 
+Dręcz w porównaniu do pszczoły jest "łysy" co oznacza, że drobinki kwasu moga osadzać się na jego ciele. Analiza zdjęcia dręcza wskazuje, że ma on od 20 do 40 włosków wzdłuż swojego jestestwa. Włoski te są bardzo krótkie, mając około 0.1mm długości, co powoduje, że nie przykrywają ciała dręcza, umożliwiając drobinkom kwasu osiadanie na pancerzu.
 
 ![dręcz_łysina](images/dręcz_wymiary.jpg)
 
