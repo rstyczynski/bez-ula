@@ -1,9 +1,9 @@
-# Badanie procesu prażenie kwasu szczawiowego
+# Badanie skutków prażenia kwasu szczawiowego
 Ryszard Styczyński, wrzesień 2024, rstyczynski@gmail.com
 
 ## Wstęp
 
-Jedną technik walki z dręczem pszczelim jest sublimacja dwuwodnego kwasu szczawiowego. Proces ten polega na prażeniu najczęściej 4 gram dwuwodnego kwasu szczawiowego w temperaturze 230°C.
+Jedną technik walki z dręczem pszczelim jest sublimacja dwuwodnego kwasu szczawiowego. Proces ten polega na prażeniu najczęściej 2 lub 4 gram dwuwodnego kwasu szczawiowego w temperaturze 230°C.
 
 ## Teoria
 
