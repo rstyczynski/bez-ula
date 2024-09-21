@@ -161,7 +161,7 @@ Przed pomiarami zważyłem kolbę, zapisując że waży 81.37g. Pomiędzy pomiar
 
 Po każdym z badań odczekiwałem nieco czasu, aż w kolbie zniknie mgła, co oznacza, że całe opary osiadły na ściankach kolby. Kolna po doświadczeniu zawierała skropliny pary wodnej oraz mokry kwas szczawiowy.
 
-Początkowy zestaw zawierał chłodnicę, jednak okazało się, że nie jest to zupełnie potrzebne z uwagi na wystarczający zestaw z kolbą odbiorczą zanurzoną w zimnej wodzie.
+Początkowy zestaw zawierał chłodnicę, jednak okazało się, że nie jest to zupełnie potrzebne z uwagi na wystarczający zestaw z kolbą odbiorczą zanurzoną w zimnej wodzie. Opary kwasu szczawiowego niezmiernie szubko resublimują, osadzając się na każdej zimniejszej powierzchni.
 
 ### Odczyn pH
 
