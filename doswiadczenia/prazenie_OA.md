@@ -121,7 +121,7 @@ Dręcz w porównaniu do pszczoły jest "łysy" co oznacza, że drobinki kwasu mo
 
 ![dręcz_łysina](images/dręcz_wymiary.jpg)
 
-Wiedząc że jego szerokość to 1.6mm możemy przyjąć, że odległość pomiędzy włoskami wynosi 0.04-0.08mm tj. 40-80µm. To jest oczywiści hipoteza, ale możliwe, że właśnie z tego powodu drobinki kwasu szczawiowego osiadają na pancerzu drecza - włoski go nie chronią.
+Wiedząc, że szerokość samicy dręcza (a tylko samica znajduje się na pszczołach) to 1.6mm możemy przyjąć, że odległość pomiędzy włoskami wynosi 0.04-0.08mm tj. 40-80µm. To jest oczywiści hipoteza, ale możliwe, że właśnie z tego powodu drobinki kwasu szczawiowego osiadają na pancerzu drecza - włoski go nie chronią.
 
 W przypadku pszczoły drobinki kwasu szczawiowego osiądą na włoskach, co chroni jej odwłok przed działaniem kwasu. Możliwe, że jest to czynnikiem który powoduje, że dręcz ginie, a pszczoła nie doznaje poparzenia silnym kwasem.
 
