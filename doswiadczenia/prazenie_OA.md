@@ -123,7 +123,7 @@ Dręcz w porównaniu do pszczoły jest "łysy" co oznacza, że drobinki kwasu mo
 
 Wiedząc że jego szerokość to 1.6mm możemy przyjąć, że odległość pomiędzy włoskami wynosi 0.04-0.08mm tj. 40-80µm. To jest oczywiści hipoteza, ale możliwe, że właśnie z tego powodu drobinki kwasu szczawiowego osiadają na pancerzu drecza - włoski go nie chronią.
 
-W przypadku pszczoły osiądą na włoskach, ale dręcz znajdzie je na swoim pancerzu. Możliwe, że jest to czynnikiem k†óry powoduje, że dręcz ginie, a pszczoła nie doznaje poparzenia silnym kwasem.
+W przypadku pszczoły drobinki kwasu szczawiowego osiądą na włoskach, co chroni jej odwłok przed działaniem kwasu. Możliwe, że jest to czynnikiem który powoduje, że dręcz ginie, a pszczoła nie doznaje poparzenia silnym kwasem.
 
 ![psczoła](https://scientificbeekeeping.com/scibeeimages/OA-crystals-on-abdomen-reduced.png)
 Source: https://scientificbeekeeping.com/oxalic-acid-heat-vaporization-and-other-methods-part-2-of-2-parts/
@@ -150,7 +150,9 @@ Doświadczenie wykonane było na zewnątrz przy temperaturze około 20-30°C. Op
 
 Opary odbierane były przez owiniętą taśmą termiczną rurkę silikonową o długości około 10 cm. Rurka wchodziła do kolby z ujściem na gazy. Kolba zanurzona była w zimnej wodzi, a ujście gazów z kolby zatkane zostało delikatnie wacikiem. Zatkanie pozwalało na ujście gazów, co miało przeciwdziałać ew. wzrostowi ciśnienia. W kolbie znajdował się pasek lakmusowy, k†óry służył do pomiaru pH.
 
-Prażenie rozpocząłem od 1g co wskazało, że jest to zbyt mała ilość. Po przeglądzie filmów na YT zrozumiałem, że standardem jest prażenie 4g. Ilość ta wytwarzała zauważalnie istotną ilość gazów - w głównej mierze pary wodnej. 
+Prażenie rozpocząłem od 1g co wskazało, że jest to zbyt mała ilość, z uwagi na znikomą produkcję gazów.
+
+Po przeglądzie filmów na YT zrozumiałem, że standardem jest prażenie 4g. Ilość ta wytwarzała zauważalnie istotną ilość gazów - w głównej mierze pary wodnej. 
 
 > [!Note]
 > Lotny kwas szczawiowy jest słabo lub niewidoczny. To co widzimy w trakcie prażenia to głównie para wodna.
