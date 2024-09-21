@@ -112,7 +112,7 @@ Spalając dwuwodny kwas szczawiowy, do ula wprowadzamy gorącą mieszaninę o st
 
 Nie potrafię tego obliczyć ani oszacować, ale wpływ na stężenie ma niewątpliwie wymieszanie powstałych gazów z gazami znajdującymi się w ulu.
 
-Gorący gazowy roztwór kwasu szczawiowego natychmiast krystalizuje się na każdej zimniejszej powierzchni, pokrywając wszystko co znajduje się w ulu drobinkami kwasu szczawiowego. Jak duże są te drobinki - nie wiem; mogę jednak przypuszczać że są rzędu 1-10µm.
+Gorący gazowy roztwór kwasu szczawiowego natychmiast krystalizuje się na każdej zimniejszej powierzchni, pokrywając wszystko co znajduje się w ulu drobinkami kwasu szczawiowego. Jak duże są te drobinki - nie wiem; mogę jednak przypuszczać, że jest to pył rzędu 1-10µm.
 
 ![waroza](https://upload.wikimedia.org/wikipedia/commons/6/6a/Varroa_destructor_on_honeybee_host.jpg)
 Source: https://pl.wikipedia.org/wiki/Warroza
