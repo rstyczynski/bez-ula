@@ -95,7 +95,9 @@ Pomimo, że technika ta nie jest aktualnie wykorzystywana w pszczelarstwie, jest
 
 ## Działanie na pszczoły i dręcza
 
-Zadymianie ula oparami powstałymi z rozpadu termicznego dwuwodnego kwasu szczawiowego powoduje wprowadzenie do ula gorących tlenków węgla, pary wodnej oraz pewnej (aczkolwiek nieznanej) ilości kwasu mrówkowego.
+Zadymianie ula oparami powstałymi z rozpadu termicznego dwuwodnego kwasu szczawiowego powoduje wprowadzenie do ula mieszaninę gorących tlenków węgla, pary wodnej oraz pewnej (aczkolwiek nieznanej) ilości kwasu mrówkowego.
+
+### Stężenie
 
 30% dwuwodnego kwasu szczawiowego z definicji zmienia się w parę wodną. Z pozostałych 70%, tylko 25% pozostaje w postaci czystego kwasu szczawiowego, a 75% rozpada się na dwutlenek węgla oraz wodę. Z uwagi na brak metod pomiaru ilość kwasu mrówkowego uznaję za znikomy.
 
@@ -105,12 +107,16 @@ Z każdego 1g - 0.3g to para wodna. Z pozostałych 0.7g, 0.12g (17%) przedostaje
 2. 0.42g pary wodnej
 3. 0.12g kwasu szczawiowego
 
-Spalając dwuwodny kwas szczawiowy, do ula wprowadzamy gorącą mieszaninę o stężeniu 0.12/1 * 100 = 12%
+Spalając dwuwodny kwas szczawiowy, do ula wprowadzamy gorącą mieszaninę o stężeniu kwasu szczawiowego 0.12/1 * 100 = 12%. Co ciekawe znacznie większe stężenie jest tlenków węgla wynosząc 42%.
+
+![gaz_skład](images/gaz_skład.jpg)
 
 >[!Note]
 > Stężenie oparów jest 3x większe od zalecanego stężenia w postaci roztworu w syropie cukrowym, który prof.Hartwig określiła na 3.61%
 
-Nie potrafię tego obliczyć ani oszacować, ale wpływ na stężenie ma niewątpliwie wymieszanie powstałych gazów z gazami znajdującymi się w ulu.
+W ulu jest powietrze, para wodna oraz dwutlenek węgla, do których dodajmy dodatkowe gazy Niestety nie potrafię tego obliczyć ani oszacować, ale wpływ na stężenie ma niewątpliwie wymieszanie powstałych gazów z gazami znajdującymi się w ulu.
+
+### Krystalizacja
 
 Gorący gazowy roztwór kwasu szczawiowego natychmiast krystalizuje się na każdej zimniejszej powierzchni, pokrywając wszystko co znajduje się w ulu drobinkami kwasu szczawiowego. Jak duże są te drobinki - nie wiem; mogę jednak przypuszczać, że jest to pył rzędu 1-10µm.
 
