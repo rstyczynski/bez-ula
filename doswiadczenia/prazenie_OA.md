@@ -233,7 +233,7 @@ Biorąc pod uwage taniość kwasu szczawiowego jest to wynik ekonomicznie uzasad
 
 Spaliny mają temperaturę 70-100°C p podnoszą więc temperaturę w ulu. O ile stopni? Nie wiem.
 
-### Izolacja rurki odbiorczej 
+### Izolacja rurki odbiorczej
 
 Rurka odbiorcza jest chłodnicą. Nie powinna być wykonana ze metalu, który jest dobrym przewodnikiem cieplnym Dodatkowo powinna być zaizolowana, tak aby kwas nie krystalizował się na rurce, a para wodna nie skraplała się.
 
@@ -293,14 +293,16 @@ Pszczelarze mogą także stosować rozwiązanie najtańsze, choć wymagające ot
 
 ## Dalsze badania
 
-Kolejne badania powinny określić stężenie roztworu kwasu szczawiowego aplikowanego przy pomocy technik ze spiralami.
+A. Kolejne badania powinny określić stężenie roztworu kwasu szczawiowego aplikowanego przy pomocy technik ze spiralami.
 
-Z uwagi na przeprowadzanie odymiania przy zamkniętych wylotkach w czasie 20 minut, kolejne badania powinny wyjaśnić ew. wpływ wzrostu temperatury oraz stężenia dwutlenku węgla na opad dręcza. Badania i praktyka wykazują, że zarówno dwutlenek węgla jak i podwyższona temperatura działają zabójczo na dręcza.
+B. Warto poświęcić czas na zbadanie czy zamgławiacze ultradźwiękowe ULV sprawdzą się do odymiania kwasem szczawiowym. Jest to technologia zbliżona do nawilżaczy, któ®e mamy w naszych domach, dopasowana jednak do walki z robactwem.
 
-Badania bazujące na wprowadzaniu do ula gorących par powinny standardowo dokonywać pomiaru temperatury oraz dwutlenku węgla.
+C. Z uwagi na przeprowadzanie odymiania przy zamkniętych wylotkach w czasie 20 minut, kolejne badania powinny wyjaśnić ew. wpływ wzrostu temperatury oraz stężenia dwutlenku węgla na opad dręcza. Badania i praktyka wykazują, że zarówno dwutlenek węgla jak i podwyższona temperatura działają zabójczo na dręcza.
 
-Celowym jest przeprowadzenie badań z wykorzystaniem chromatografu gazowego tak aby definitywnie zamknąć temat produktów prażenia kwasu szczawiowego.
+D. Badania bazujące na wprowadzaniu do ula gorących par powinny standardowo dokonywać pomiaru temperatury oraz dwutlenku węgla.
 
-Celowym jest wykonanie zdjęć mikroskopem skaningowym dręcza oraz pszczoły po aplikacji gorących gazów z kwasem szczawiowym tak aby zweryfikować miejsca osadzania się pyłu kwasu na ciele ubu stworzeń.
+E. Celowym jest przeprowadzenie badań z wykorzystaniem chromatografu gazowego tak aby definitywnie zamknąć temat produktów prażenia kwasu szczawiowego.
 
-Celowym jest także badanie rozpadu termicznego kwasu mrówkowego, aby dowiedzieć się jak skutecznie rozpada się on w temperaturze 230°C tj. ile czystego kwasu mrówkowego wydostaje się z gazami, co jest skutkiem ubocznym lawinowego procesu dekompozycji termicznej.
+F. Celowym jest wykonanie zdjęć mikroskopem skaningowym dręcza oraz pszczoły po aplikacji gorących gazów z kwasem szczawiowym tak aby zweryfikować miejsca osadzania się pyłu kwasu na ciele ubu stworzeń.
+
+G. Celowym jest także badanie rozpadu termicznego kwasu mrówkowego, aby dowiedzieć się jak skutecznie rozpada się on w temperaturze 230°C tj. ile czystego kwasu mrówkowego wydostaje się z gazami, co jest skutkiem ubocznym lawinowego procesu dekompozycji termicznej.
