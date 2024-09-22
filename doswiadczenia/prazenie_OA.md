@@ -123,13 +123,13 @@ Gorący gazowy roztwór kwasu szczawiowego natychmiast krystalizuje się na każ
 ![waroza](https://upload.wikimedia.org/wikipedia/commons/6/6a/Varroa_destructor_on_honeybee_host.jpg)
 Żródło: https://pl.wikipedia.org/wiki/Warroza
 
-### Włoski
+### Szczecina
 
-Dręcz w porównaniu do pszczoły jest "łysy" co oznacza, że drobinki kwasu moga osadzać się na jego ciele. Analiza zdjęcia dręcza wskazuje, że ma on od 20 do 40 włosków wzdłuż swojego 1.6mm jestestwa. Włoski te są bardzo krótkie, mając około 0.1mm długości, co powoduje, że nie przykrywają ciała dręcza, umożliwiając drobinkom kwasu osiadanie na pancerzu.
+Dręcz w porównaniu do pszczoły jest "łysy" co oznacza, że drobinki kwasu mogą osadzać się na jego ciele, ponieważ nie jest ono dostatecznie chronione przez rozrzedzoną szczecinkę. Analiza zdjęcia dręcza wskazuje, że ma on od 20 do 40 włosków wzdłuż swojego 1.6mm jestestwa. Włoski te są bardzo krótkie, mając około 0.1mm długości, co powoduje, że nie przykrywają ciała dręcza, umożliwiając drobinkom kwasu osiadanie na pancerzu.
 
 ![dręcz_łysina](images/dręcz_wymiary.jpg)
 
-Wiedząc, że szerokość samicy dręcza (a tylko samica znajduje się na pszczołach) to 1.6mm możemy przyjąć, że odległość pomiędzy włoskami wynosi 0.04-0.08mm tj. 40-80µm. To jest oczywiście hipoteza, ale możliwe, że właśnie z tego powodu drobinki kwasu szczawiowego osiadają na pancerzu drecza - włoski go nie chronią.
+Wiedząc, że szerokość samicy dręcza (a tylko samica znajduje się na pszczołach) to 1.6mm możemy przyjąć, że odległość pomiędzy włoskami wynosi 40-80µm, co powoduje, że drobinki kwasu szczawiowego osiadają na pancerzu drecza - włoski go nie chronią.
 
 ![dręcz_łysina2](images/dręcz_wloski.jpg)
 Żródło: https://journal.bee.or.kr/_common/do.php?a=full&b=12&bidx=403&aidx=5142
@@ -159,7 +159,11 @@ Trójnik kieruje spaliny do kolejnego trójnika - stalowego, w którym znajduje 
 
 Doświadczenie wykonane było na zewnątrz przy temperaturze około 20-30°C. Opalarka podgrzewała tygiel przez około 60 sekund do temperatury 230°C, dochodząc do 300°C. Pod wieczór maksymalne temperatura wynosiła 230°C. Większość pomiarów wykonana była przy temperaturze tygla 230-240°C.
 
-Opary odbierane były przez owiniętą taśmą termiczną rurkę silikonową o długości około 10 cm. Rurka wchodziła do kolby z ujściem na gazy. Kolba zanurzona była w zimnej wodzie a ujście gazów z kolby zatkane zostało delikatnie wacikiem. Zatkanie pozwalało na ujście gazów, co miało przeciwdziałać ew. wzrostowi ciśnienia. W kolbie znajdował się pasek lakmusowy, który służył do pomiaru pH.
+Opary odbierane były przez owiniętą taśmą termiczną rurkę silikonową o długości około 10 cm. Do rurki wprowadzona została sonda termometru panelowego.
+
+![gaz_temp](images/gazy_temp_pomiar.jpg)
+
+Rurka wchodziła do kolby z ujściem na gazy. Kolba zanurzona została w zimnej wodzie a ujście gazów z kolby zatkane zostało delikatnie wacikiem, co pozwalało na ujście gazów, oraz miało przeciwdziałać ew. wzrostowi ciśnienia. W kolbie znajdował się pasek lakmusowy, który służył do pomiaru pH skroplin.
 
 Prażenie rozpocząłem od 1g co wskazało, że jest to zbyt mała ilość, z uwagi na znikomą produkcję gazów.
 
@@ -185,7 +189,7 @@ Odczyn pH skroplin odebranych w kolbie wynosił 1 pH, co oznacza że skropliny s
 
 ### Temperatura gazów
 
-Gaz wydostający się z komory spalania w trakcie doświadczenia miał temperaturę pomiędzy 70°C a 100°C.
+Gaz wydostający się z komory spalania w trakcie doświadczenia miał temperaturę pomiędzy 70°C a 100°C, czasem osiągając > 110°C.
 
 ![temp_gazów](images/gazy_temp.jpg)
 
