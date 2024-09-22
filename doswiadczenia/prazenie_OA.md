@@ -205,7 +205,7 @@ Dwa ostanie pomiary częściowo odparowałem uzyskując wagę kolby z kwasem szc
 
 ## Ilość tlenków węgla oraz pary wodnej
 
-Wiedząc z badania, że prażenie 4g dwuwodnego kwasu szczawiowego powoduje wprowadzenie 0.7g czystego kwasu szczawiowego, dowiadujemy się że 3.3g rozpadło się na produkty dekompozycji termicznej. Nie jestem w stanie stwierdzić ile powstaje kwasu mrówkowego, to powinno być przedmiotem osobnego badania.
+Wiedząc z badania, że prażenia 4g dwuwodnego kwasu szczawiowego powoduje wprowadzenie 0.7g czystego kwasu szczawiowego, dowiadujemy się że 3.3g rozpadło się na produkty dekompozycji termicznej. Nie jestem w stanie stwierdzić ile powstaje kwasu mrówkowego, to powinno być przedmiotem osobnego badania.
 
 ## Wnioski
 
