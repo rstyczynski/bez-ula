@@ -295,7 +295,7 @@ Pszczelarze mogą także stosować rozwiązanie najtańsze, choć wymagające ot
 
 A. Kolejne badania powinny określić stężenie roztworu kwasu szczawiowego aplikowanego przy pomocy technik ze spiralami.
 
-B. Warto poświęcić czas na zbadanie czy zamgławiacze ultradźwiękowe ULV sprawdzą się do odymiania kwasem szczawiowym. Jest to technologia zbliżona do nawilżaczy, któ®e mamy w naszych domach, dopasowana jednak do walki z robactwem.
+B. Warto poświęcić czas na zbadanie czy zamgławiacze ultradźwiękowe ULV sprawdzą się do odymiania kwasem szczawiowym. Jest to technologia zbliżona do nawilżaczy, które mamy w naszych domach, dopasowana jednak do walki z robactwem.
 
 C. Z uwagi na przeprowadzanie odymiania przy zamkniętych wylotkach w czasie 20 minut, kolejne badania powinny wyjaśnić ew. wpływ wzrostu temperatury oraz stężenia dwutlenku węgla na opad dręcza. Badania i praktyka wykazują, że zarówno dwutlenek węgla jak i podwyższona temperatura działają zabójczo na dręcza.
 
