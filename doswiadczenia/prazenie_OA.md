@@ -68,7 +68,7 @@ Celem praktycznym pszczelarza jest szybkie wprowadzenie par zawierających kwas 
 
 ## Sublimacja
 
-Teoria mówi, że idealna sublimacja zachodzi w temperaturze 157°C - 189°C. Praktyka mówi natomiast, że w tych temperaturach proces zachodzi niezwykle powoli, co jest nie akceptowalne z uwago na przyjętą technikę zagazowywania ula z zewnątrz.
+Teoria mówi, że idealna sublimacja zachodzi w temperaturze 157°C - 189°C. Praktyka mówi natomiast, że w tych temperaturach proces zachodzi niezwykle powoli, co jest nie akceptowalne z uwagi na przyjętą technikę zagazowywania ula z zewnątrz przy której zaangazowany jest pszczelarz.
 
 > [!Note]
 > Tylko jedna z technik (nie stosowana jednak w Polsce) wykorzystuje powolne parowanie w podwyższonej temperaturze - jest to technika z tyglem ogrzewanym świeczką.
