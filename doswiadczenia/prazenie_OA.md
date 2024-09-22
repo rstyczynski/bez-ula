@@ -211,17 +211,21 @@ Wiedząc z badania, że prażenia 4g dwuwodnego kwasu szczawiowego powoduje wpro
 
 ## Wnioski
 
+### Kwas dwuwodny to inna substancja niż kwas szczawiowy
+
+Pierwszym bardzo ważnym wnioskiem jest wiedza, że kwas dwuwodny to inna substancja niż kwas szczawiowy, ponieważ zawiera 30% wody. Informacja ta jest kluczowa przy sporządzaniu roztworów kwasu szczawiowego.
+
+### Straty wagowe dwuwodnego kwasu szczawiowego na poziomie 80%
+
 Prażenie 4g dwuwodnego kwasu szczawiowego w temperaturze 230-240°C wytworzyło 0.7g bezwodnego kwasu szczawiowego.
 
 Ponieważ 30% dwuwodnego kwasu szczawiowego to z definicji woda, tak więc w reakcji temperaturowej brało udział 4 * 70% = 2.8g bezwodnego kwasu szczawiowego, co oznacza że 0.7 / 2.8 * 100 = 25% kwasu nie uległo dekompozycji w wyniku działania wysokiej temperatury. 25% dotyczy bezwodnego kwasu szczawiowego. Dla formy dwuwodnej jest to 0.7 / 4 * 100 = 17.5%.
 
-### Straty kwasu szczawiowego
-
 Oznacza to, że 80% z 4g dwuwodnego kwasu szczawiowego uległo dekompozycji w wyniku działania wysokiej temperatury, wytwarzając głównie tlenki węgla oraz wodę.
 
-Biorąc pod uwage taniość kwasu szczawiowego jest to wynik ekonomicznie uzasadniony.
+Biorąc pod uwage taniość kwasu szczawiowego jest to wynik ekonomicznie uzasadniony. Problemem może być wytwarzanie tlenków węgla, co dla purystów ekologicznych powinno być elementem do eliminacji.
 
-### Resublimacja i skraplanie
+### Izolacja rurki odbiorczej 
 
 Rurka odbiorcza jest chłodnicą. Nie powinna być wykonana ze metalu, który jest dobrym przewodnikiem cieplnym Dodatkowo powinna być zaizolowana, tak aby kwas nie krystalizował się na rurce, a para wodna nie skraplała się.
 
@@ -229,7 +233,7 @@ Podobnie z tyglem - ten także powinien być zaizolowany, tak aby nie wytracał 
 
 Biorąc pod uwagę, że kwas szczawiowy aplikowany jest jesienią, izolacja termiczna rurki odbierające gaz oraz tygla jest bardzo istotna.
 
-### Skutki uboczne prażenia kwasu
+### Dwutlenek węgla oraz para wodna
 
 Skutkami ubocznymi prażenia dwuwodnego kwasu szczawiowego są:
 
@@ -238,9 +242,9 @@ Skutkami ubocznymi prażenia dwuwodnego kwasu szczawiowego są:
 
 Z uwagi na przeprowadzanie odymiania przy zamkniętych wylotkach w czasie 20 minut, w/w czynniki niewątpliwie wpływają na pszczelą rodzinę oraz na dręcza. Badania wykazują, że zarówno dwutlenek węgla jak i podwyższona temperatura działają zabójczo na dręcza.
 
-### Kwas dwuwodny to inna substancja niż kwas szczawiowy
+### Temperatura spalin
 
-Kolejnym bardzo ważnym wnioskiem jest wiedza, że kwas dwuwodny to inna substancja niż kwas szczawiowy, ponieważ zawiera 30% wody. Informacja ta jest kluczowa przy sporządzaniu roztworów kwasu szczawiowego.
+Spaliny mają temperaturę 70-100°C p podnoszą więc temperaturę w ulu. O ile stopni? Nie wiem.
 
 ### Roztwór kwasu dwuwodnego
 
