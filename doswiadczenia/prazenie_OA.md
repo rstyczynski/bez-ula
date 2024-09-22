@@ -285,4 +285,6 @@ Badania bazujące na wprowadzaniu do ula gorących par powinny standardowo dokon
 
 Celowym jest przeprowadzenie badań z wykorzystaniem chromatografu gazowego tak aby definitywnie zamknąć temat produktów prażenia kwasu szczawiowego.
 
+Celowym jest wykonanie zdjęć mikroskopem skaningowym dręcza oraz pszczoły po aplikacji gorących gazów z kwasem szczawiowym tak aby zweryfikować miejsca osadzania się pyłu kwasu na ciele ubu stworzeń.
+.
 Celowym jest także badanie rozpadu termicznego kwasu mrówkowego, aby dowiedzieć się jak skutecznie rozpada się on w temperaturze 230°C tj. ile czystego kwasu mrówkowego wydostaje się z gazami, co jest skutkiem ubocznym lawinowego procesu dekompozycji termicznej.
