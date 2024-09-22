@@ -75,7 +75,7 @@ Teoria mówi, że idealna sublimacja zachodzi w temperaturze 157°C - 189°C. Pr
 
 ### Prażenie czystego dwuwodnego kwasu szczawiowego
 
-Temperatura praktykowana przez pszczelarzy to 230°C, albo jak najwyższa dostępna dla danego urządzenia. W tej sytuacji nie jest to jednak sublimacja, ale prażenie, które możemy porównać do wylania wody na gorącą blachę. Woda podskakuje, paruje, wędruję bo gorącej blasze.
+Temperatura praktykowana przez pszczelarzy to 230°C, albo jak najwyższa dostępna dla danego urządzenia. W tej sytuacji nie jest to jednak sublimacja, ale prażenie, które możemy porównać do wylania wody na gorącą blachę.
 
 Prażenie dwuwodnego kwasu szczawiowego na rozgrzanym do temperatury 230°C palenisku jest procesem daleko wychodzącym poza proces sublimacji. Z uwagi, że mówimy o związku chemicznym składającym się w 30% z wody, mamy operację gwałtownego powstania pary wodnej
 
