@@ -189,7 +189,9 @@ Gaz wydostający się z komory spalania w trakcie doświadczenia miał temperatu
 
 ### Temperatura komory prażenia
 
-W trakcie prażenia 4g dwuwodnego kwasu szczawiowego zaobserwowałem spadek temperatury komory spalania z 238°C do 187°C tj. o 51°C.
+W trakcie prażenia 4g dwuwodnego kwasu szczawiowego zaobserwowałem gwałtowny spadek temperatury komory spalania z 243°C do 178°C tj. o 65°C. Spadek silnie utrzymywał się w trakcie prażenia, wracając do wartości wyjściowej wraz ze zmniejszeniem ilości produkowanych gazów.
+
+![temp_drop](images/243_178.jpg)
 
 ### Temperatura rurki
 
@@ -270,7 +272,7 @@ Oba urządzenia stosują wodny (alkoholowy, glicerynowy?) roztwór kwasu, co pop
 
 ### Tygiel ogrzewany świeczką
 
-Pszczelarze mogą także stosować rozwiązanie najtańsze, choć wymagające otwarcie ula. Rozwiązaniem takim jest tygiel ogrzewany świeczką.
+Pszczelarze mogą także stosować rozwiązanie najtańsze, choć wymagające otwarcia ula. Rozwiązaniem takim jest tygiel ogrzewany świeczką.
 
 >[!Caution]
 > Stosując tą technikę trzeba mieć pewność, że ul nie przewróci się, co mogłoby skutkować pożarem. Tygiel ze świeczką powinien w/g producenta stać w podstawce z wodą.
@@ -286,5 +288,5 @@ Badania bazujące na wprowadzaniu do ula gorących par powinny standardowo dokon
 Celowym jest przeprowadzenie badań z wykorzystaniem chromatografu gazowego tak aby definitywnie zamknąć temat produktów prażenia kwasu szczawiowego.
 
 Celowym jest wykonanie zdjęć mikroskopem skaningowym dręcza oraz pszczoły po aplikacji gorących gazów z kwasem szczawiowym tak aby zweryfikować miejsca osadzania się pyłu kwasu na ciele ubu stworzeń.
-.
+
 Celowym jest także badanie rozpadu termicznego kwasu mrówkowego, aby dowiedzieć się jak skutecznie rozpada się on w temperaturze 230°C tj. ile czystego kwasu mrówkowego wydostaje się z gazami, co jest skutkiem ubocznym lawinowego procesu dekompozycji termicznej.
