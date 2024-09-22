@@ -225,13 +225,21 @@ Oznacza to, że 80% z 4g dwuwodnego kwasu szczawiowego uległo dekompozycji w wy
 
 Biorąc pod uwage taniość kwasu szczawiowego jest to wynik ekonomicznie uzasadniony. Problemem może być wytwarzanie tlenków węgla, co dla purystów ekologicznych powinno być elementem do eliminacji.
 
+### Temperatura spalin
+
+Spaliny mają temperaturę 70-100°C p podnoszą więc temperaturę w ulu. O ile stopni? Nie wiem.
+
 ### Izolacja rurki odbiorczej 
 
 Rurka odbiorcza jest chłodnicą. Nie powinna być wykonana ze metalu, który jest dobrym przewodnikiem cieplnym Dodatkowo powinna być zaizolowana, tak aby kwas nie krystalizował się na rurce, a para wodna nie skraplała się.
 
 Podobnie z tyglem - ten także powinien być zaizolowany, tak aby nie wytracał ciepła poprzez oddanie go do otoczenia.
 
-Biorąc pod uwagę, że kwas szczawiowy aplikowany jest jesienią, izolacja termiczna rurki odbierające gaz oraz tygla jest bardzo istotna.
+Biorąc pod uwagę, że kwas szczawiowy aplikowany jest jesienią, izolacja termiczna rurki odbierające gaz jest bardzo istotna.
+
+### Izolacja tygla
+
+Tygiel oddaje ciepło do otoczenia. Biorąc pod uwagę, że kwas szczawiowy aplikowany jest jesienią, izolacja termiczna tygla jest bardzo istotna.
 
 ### Dwutlenek węgla oraz para wodna
 
@@ -241,10 +249,6 @@ Skutkami ubocznymi prażenia dwuwodnego kwasu szczawiowego są:
 2. zwiększenie stężenia dwutlenku węgla w ulu
 
 Z uwagi na przeprowadzanie odymiania przy zamkniętych wylotkach w czasie 20 minut, w/w czynniki niewątpliwie wpływają na pszczelą rodzinę oraz na dręcza. Badania wykazują, że zarówno dwutlenek węgla jak i podwyższona temperatura działają zabójczo na dręcza.
-
-### Temperatura spalin
-
-Spaliny mają temperaturę 70-100°C p podnoszą więc temperaturę w ulu. O ile stopni? Nie wiem.
 
 ### Roztwór kwasu dwuwodnego
 
