@@ -175,7 +175,7 @@ Pomiędzy pomiarami przepłukiwałem prażnik wodą oraz spirytusem a także prz
 Po każdym z eksperymentów odczekiwałem nieco czasu, aż w kolbie zniknie mgła, co oznacza, że całe opary osiadły na jej ściankach. Kolba po zakończonym doświadczeniu zawierała skropliny pary wodnej oraz mokry kwas szczawiowy.
 
 >[!NOTE]
-> Początkowy zestaw zawierał chłodnicę, jednak okazało się, że nie jest to zupełnie potrzebne z uwagi na wystarczający zestaw z kolbą odbiorczą zanurzoną w zimnej wodzie. Opary kwasu szczawiowego niezmiernie szubko krystalizują, osadzając się na każdej zimniejszej powierzchni.
+> Początkowy zestaw zawierał chłodnicę, jednak okazało się, że nie jest to zupełnie potrzebne z uwagi na wystarczający zestaw z kolbą odbiorczą zanurzoną w zimnej wodzie. Opary kwasu szczawiowego niezmiernie szybko krystalizują, osadzając się na każdej zimniejszej powierzchni.
 
 ### Odczyn pH
 
