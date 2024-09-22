@@ -3,13 +3,13 @@ Ryszard Styczyński, wrzesień 2024, rstyczynski@gmail.com, wersja 0.1
 
 ## Wstęp
 
-Jedną technik walki z dręczem pszczelim jest sublimacja dwuwodnego kwasu szczawiowego. Proces ten polega na prażeniu najczęściej 2 lub 4 gram dwuwodnego kwasu szczawiowego w temperaturze 230°C.
+Jedną technik walki z dręczem pszczelim jest sublimacja dwuwodnego kwasu szczawiowego. Proces ten polega na prażeniu 1-4g dwuwodnego kwasu szczawiowego w temperaturze 230°C.
 
 ## Teoria
 
-Kwas szczawiowy dwuwodny jest kwasem organicznym o symbolu H2C2O4'2H2O o temperaturze przejścia do formy gazowej 100°C. W temperaturze tej dochodzi do utraty cząstek wody z dwuwodnego kwasu szczawiowego.
+Kwas szczawiowy dwuwodny jest silnym kwasem organicznym o symbolu H2C2O4'2H2O o temperaturze przejścia do formy gazowej 100°C. W temperaturze tej dochodzi do utraty cząstek wody z dwuwodnego kwasu szczawiowego.
 
-Pozbawiony wody kwas szczawiowy sublimuje (przejście do formy gazowej) w 157°C, natomiast w temperaturze 189°C dochodzi do jego dekompozycji, w trakcie którego dochodzi do rozpadu na kwas mrówkowy HCOOH oraz CO2. W temperaturze 200°C kwas mrówkowy rozpada się na H2O, oraz CO.
+Pozbawiony wody kwas szczawiowy sublimuje (przejście do formy gazowej) w 157°C, natomiast w temperaturze 189°C dochodzi do jego dekompozycji, w trakcie której rozpada się na kwas mrówkowy HCOOH oraz dwutlenek węgla CO2. W temperaturze 200°C kwas mrówkowy rozpada się na wodę H2O, oraz tlenek węgla CO.
 
 Teoria prowadzi więc do wniosku, że w trakcie prażenia dwuwodnego kwasu szczawiowego dochodzi do powstania pary wodnej oraz dekompozycji bezwodnego już kwasu szczawiowego do HCOOH, H2O, CO, oraz CO2.
 
@@ -24,11 +24,11 @@ Udział wody: 2 * 18.016 / 126.06 * 100 = 29 %
 
 Sprawdzenie: 29 + 71 = 100. Obliczenie są prawidłowe.
 
-Oznacza to, że 1/3 dwuwodnego kwasu szczawiowego to woda, a 2/3 to bezwodny kwas szczawiowy.
+Oznacza to, że 30% dwuwodnego kwasu szczawiowego to woda, a 70% to bezwodny kwas szczawiowy.
 
 ### para wodna
 
-Wiedząc, że 1/3 dwuwodnego kwasu szczawiowego to woda, mamy pewność, że w trakcie prażenia tego związku otrzymujemy z co najmniej 1/3 wagi gorącą parę wodną.
+Wiedząc, że 30% dwuwodnego kwasu szczawiowego to woda, mamy pewność, że w trakcie prażenia tego związku otrzymujemy z co najmniej 30% wagi gorącą parę wodną.
 
 Dodatkowa para wodna powstaje wskutek dekompozycji bezwodnego kwasu szczawiowego do kwasu mrówkowego, który dekomponuje się do wody oraz tlenku węgla. Obliczenia idealnej dekompozycji 1g bezwodnego kwasu szczawiowego wskazują, że jest to 0.2 g wody.
 
@@ -77,7 +77,7 @@ Teoria mówi, że idealna sublimacja zachodzi w temperaturze 157°C - 189°C. Pr
 
 Temperatura praktykowana przez pszczelarzy to 230°C, albo jak najwyższa dostępna dla danego urządzenia. W tej sytuacji nie jest to jednak sublimacja, ale prażenie, które możemy porównać do wylania wody na gorącą blachę. Woda podskakuje, paruje, wędruję bo gorącej blasze.
 
-Prażenie dwuwodnego kwasu szczawiowego na rozgrzanym do temperatury 230°C palenisku jest procesem daleko wychodzącym poza proces sublimacji. Z uwagi, że mówimy o związku chemicznym składającym się w 1/3 z wody, mamy operację gwałtownego powstania pary wodnej
+Prażenie dwuwodnego kwasu szczawiowego na rozgrzanym do temperatury 230°C palenisku jest procesem daleko wychodzącym poza proces sublimacji. Z uwagi, że mówimy o związku chemicznym składającym się w 30% z wody, mamy operację gwałtownego powstania pary wodnej
 
 ### Prażenie roztworu dwuwodnego kwasu szczawiowego
 
@@ -129,7 +129,7 @@ Dręcz w porównaniu do pszczoły jest "łysy" co oznacza, że drobinki kwasu mo
 
 ![dręcz_łysina](images/dręcz_wymiary.jpg)
 
-Wiedząc, że szerokość samicy dręcza (a tylko samica znajduje się na pszczołach) to 1.6mm możemy przyjąć, że odległość pomiędzy włoskami wynosi 0.04-0.08mm tj. 40-80µm. To jest oczywiści hipoteza, ale możliwe, że właśnie z tego powodu drobinki kwasu szczawiowego osiadają na pancerzu drecza - włoski go nie chronią.
+Wiedząc, że szerokość samicy dręcza (a tylko samica znajduje się na pszczołach) to 1.6mm możemy przyjąć, że odległość pomiędzy włoskami wynosi 0.04-0.08mm tj. 40-80µm. To jest oczywiście hipoteza, ale możliwe, że właśnie z tego powodu drobinki kwasu szczawiowego osiadają na pancerzu drecza - włoski go nie chronią.
 
 ![dręcz_łysina2](images/dręcz_wloski.jpg)
 Żródło: https://journal.bee.or.kr/_common/do.php?a=full&b=12&bidx=403&aidx=5142
@@ -163,10 +163,10 @@ Opary odbierane były przez owiniętą taśmą termiczną rurkę silikonową o d
 
 Prażenie rozpocząłem od 1g co wskazało, że jest to zbyt mała ilość, z uwagi na znikomą produkcję gazów.
 
-Po przeglądzie filmów na YT zrozumiałem, że standardem jest prażenie 4g. Ilość ta wytwarzała zauważalnie istotną ilość gazów - w głównej mierze pary wodnej. 
+Po przeglądzie filmów na YT zrozumiałem, że standardem jest prażenie 4g. Ilość ta wytwarzała zauważalnie istotną ilość gazów - w głównej mierze pary wodnej.
 
 > [!Note]
-> Lotny kwas szczawiowy jest słabo lub niewidoczny. To co widzimy w trakcie prażenia to głównie para wodna.
+> Lotny kwas szczawiowy jest słabo lub niewidoczny. To co widzimy w trakcie prażenia to moim zdaniem głównie para wodna.
 
 Przed pomiarami zważyłem kolbę, zapisując że waży 81.37g. Pomiędzy pomiarami przepłukiwałem prażnik wodą oraz spirytusem a także przedmuchiwałem sprężonym powietrzem, mając na celu oczyszczenie prażnika oraz rurki odbierającej gaz.
 
