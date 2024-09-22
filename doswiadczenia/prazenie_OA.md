@@ -121,7 +121,7 @@ W ulu jest powietrze, para wodna oraz dwutlenek węgla, do których dodajmy doda
 Gorący gazowy roztwór kwasu szczawiowego natychmiast krystalizuje się na każdej zimniejszej powierzchni, pokrywając wszystko co znajduje się w ulu drobinkami kwasu szczawiowego. Jak duże są te drobinki - nie wiem; mogę jednak przypuszczać, że jest to pył rzędu 1-10µm.
 
 ![waroza](https://upload.wikimedia.org/wikipedia/commons/6/6a/Varroa_destructor_on_honeybee_host.jpg)
-Source: https://pl.wikipedia.org/wiki/Warroza
+Żródło: https://pl.wikipedia.org/wiki/Warroza
 
 ### Włoski
 
@@ -132,12 +132,12 @@ Dręcz w porównaniu do pszczoły jest "łysy" co oznacza, że drobinki kwasu mo
 Wiedząc, że szerokość samicy dręcza (a tylko samica znajduje się na pszczołach) to 1.6mm możemy przyjąć, że odległość pomiędzy włoskami wynosi 0.04-0.08mm tj. 40-80µm. To jest oczywiści hipoteza, ale możliwe, że właśnie z tego powodu drobinki kwasu szczawiowego osiadają na pancerzu drecza - włoski go nie chronią.
 
 ![dręcz_łysina2](images/dręcz_wloski.jpg)
-Source: https://journal.bee.or.kr/_common/do.php?a=full&b=12&bidx=403&aidx=5142
+Żródło: https://journal.bee.or.kr/_common/do.php?a=full&b=12&bidx=403&aidx=5142
 
 W przypadku pszczoły drobinki kwasu szczawiowego osiądą na włoskach, co chroni jej odwłok przed działaniem kwasu. Możliwe, że jest to czynnikiem który powoduje, że dręcz ginie, a pszczoła nie doznaje poparzenia silnym kwasem.
 
 ![psczoła](https://scientificbeekeeping.com/scibeeimages/OA-crystals-on-abdomen-reduced.png)
-Source: https://scientificbeekeeping.com/oxalic-acid-heat-vaporization-and-other-methods-part-2-of-2-parts/
+Żródło: https://scientificbeekeeping.com/oxalic-acid-heat-vaporization-and-other-methods-part-2-of-2-parts/
 
 ## Wątpliwości
 
