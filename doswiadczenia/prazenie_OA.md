@@ -123,11 +123,15 @@ Gorący gazowy roztwór kwasu szczawiowego natychmiast krystalizuje się na każ
 ![waroza](https://upload.wikimedia.org/wikipedia/commons/6/6a/Varroa_destructor_on_honeybee_host.jpg)
 Source: https://pl.wikipedia.org/wiki/Warroza
 
-Dręcz w porównaniu do pszczoły jest "łysy" co oznacza, że drobinki kwasu moga osadzać się na jego ciele. Analiza zdjęcia dręcza wskazuje, że ma on od 20 do 40 włosków wzdłuż swojego jestestwa. Włoski te są bardzo krótkie, mając około 0.1mm długości, co powoduje, że nie przykrywają ciała dręcza, umożliwiając drobinkom kwasu osiadanie na pancerzu.
+### Włoski
+
+Dręcz w porównaniu do pszczoły jest "łysy" co oznacza, że drobinki kwasu moga osadzać się na jego ciele. Analiza zdjęcia dręcza wskazuje, że ma on od 20 do 40 włosków wzdłuż swojego 1.6mm jestestwa. Włoski te są bardzo krótkie, mając około 0.1mm długości, co powoduje, że nie przykrywają ciała dręcza, umożliwiając drobinkom kwasu osiadanie na pancerzu.
 
 ![dręcz_łysina](images/dręcz_wymiary.jpg)
 
 Wiedząc, że szerokość samicy dręcza (a tylko samica znajduje się na pszczołach) to 1.6mm możemy przyjąć, że odległość pomiędzy włoskami wynosi 0.04-0.08mm tj. 40-80µm. To jest oczywiści hipoteza, ale możliwe, że właśnie z tego powodu drobinki kwasu szczawiowego osiadają na pancerzu drecza - włoski go nie chronią.
+
+![dręcz_łysina2](images/dręcz_wloski.jpg)
 
 W przypadku pszczoły drobinki kwasu szczawiowego osiądą na włoskach, co chroni jej odwłok przed działaniem kwasu. Możliwe, że jest to czynnikiem który powoduje, że dręcz ginie, a pszczoła nie doznaje poparzenia silnym kwasem.
 
