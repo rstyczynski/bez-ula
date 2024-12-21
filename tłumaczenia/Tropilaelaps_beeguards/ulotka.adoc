@@ -18,9 +18,6 @@ Symptomy są podobne do warrozy, obejmując objawy zarówno na poziomie indywidu
 
 image::image_6.jpg[]
 
-image::qrcode_2.jpg[]
-
-
 == Wykrywanie
 
 Chociaż niektóre metody stosowane do wykrywania roztoczy Varroa są użyteczne, Tropilaelaps może być trudniejszy do wykrycia. Roztocza Tropilaelaps są mniejsze i lżejsze niż Varroa i nie spadają łatwo przez siatkowe dennice. Mają długie nogi i mogą pozostawać zaplątane w umytych pszczołach, co daje niższe wyniki liczenia. Skuteczne metody wykrywania obejmują:
@@ -30,8 +27,6 @@ Chociaż niektóre metody stosowane do wykrywania roztoczy Varroa są użyteczne
 •	metodę “Bump”, polegającą na energicznym uderzeniu otwartego czerwiu o twardą powierzchnię w celu usunięcia roztoczy.
 
 Nowatorskie podejście wykorzystuje paski wosku do szybkiego odkrywania komórek i obserwacji roztoczy Tropilaelaps opuszczających odkryte komórki czerwiu. Proces ten można nagrać i odtworzyć dla lepszej dokładności, z minimalnym wpływem na rodzinę pszczelą.
-
-image::qrcome_1.jpg[]
 
 == Kontrola
 
