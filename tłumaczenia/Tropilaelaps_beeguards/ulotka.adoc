@@ -65,3 +65,7 @@ Ilustracje: Irakli Janashia i Aleksandar Uzunov.
 Finansowane przez Unię Europejską w ramach umowy GA nr 101082073. Poglądy i opinie wyrażone są wyłącznie autorów i niekoniecznie odzwierciedlają stanowisko Unii Europejskiej. Unia Europejska ani organ przyznający nie ponoszą za nie odpowiedzialności.
 
 image::logo_2.jpg[]
+
+== Tłumaczenie
+
+R.Styczynski z pomocą ChatGPT. Źródło: https://beeguards.eu/wp-content/uploads/2024/12/Tropilaelaps-flyer-BeeGuards-5.32-komprimeret.pdf
