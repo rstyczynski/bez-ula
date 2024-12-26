@@ -1,0 +1,399 @@
+= Metoda bezchamiczna Leoš Dvorský
+
+Tłumaczenie z pomocą ChatGPT R.Styczynski: https://jjvcela.cz/LD/CLANKY/Moje_provozni_metoda_a_jak_se_vyvijela.pdf
+
+
+== Moja metoda prowadzenia pasieki dziś i jak się rozwijała
+
+Moja metoda prowadzenia pasieki ewoluowała i nadal się rozwija od 1963 roku, kiedy to zacząłem pszczelarzyć razem z moim ojcem.
+
+Na początku korzystaliśmy z ula typu BUDEČÁK. Był to wówczas najbardziej rozpowszechniony typ ula. Był to ul dwukomorowy, dostosowany do zewnętrznej ramki o wymiarach 39x24 cm. Praktycznie od samego początku stosowaliśmy system 2-4-3-2. W maju rodziny pszczele dzielono z dwóch na cztery. Latem, po zbiorach miodu, zmniejszano ich liczbę z czterech do trzech, a przed bardzo późnym pożytkiem (wówczas wrzosowym) wracano do pierwotnej liczby rodzin. Ten system można stosować w praktycznie wszystkich rodzajach uli i w pewnym stopniu wspomaga on rzeczywistą selekcję. Częściowo stosuję go do dziś.
+
+Szczęśliwym przypadkiem było to, że w 1967 roku poznałem referenta ds. hodowli w młodobolesławskim związku pszczelarskim, pana Bedřicha Šráma. Był to wybitny hodowca matek pszczelich, niestrudzony innowator i pasjonat badań pszczelarskich.
+
+== Ul jako narzędzie zmiany metody prowadzenia pasieki
+Po różnych wcześniejszych próbach w 1970 roku wykonałem ul niskokorpusowy o zewnętrznych wymiarach ramki 39x16 cm. Ul był cienkościenny, z grubością ścian wynoszącą 22 mm, a korpus mieścił 10 ramek. Później zbudowałem taki sam ul z 5-centymetrowego polistyrenu, o kwadratowej podstawie (na 11 ramek), a także cienkościenną wersję tego kwadratowego korpusu. Po kilku latach testów zdecydowałem się na cienkościenne ule.
+
+Pierwszy 10-ramkowy ul w 1978 roku wyposażyłem w szybki i zamontowałem w nim termometry. W tym samym roku wykonałem serię 22 niskokorpusowych uli o kwadratowej podstawie i zacząłem na nich pszczelarzyć. Wersję 10-ramkową również zachowałem. W tamtym czasie liczba rodzin pszczelich wynosiła ponad 30. Ule typu BUDEČÁK zostały całkowicie wycofane z użytku.
+
+Obecnie prowadzę pasiekę w ulach typu Langstroth 2/3 o grubości ścian 22 mm, mieszczących 10 lub 9 ramek. Używam także otworów wylotowych (oczek), które znacznie ułatwiają hodowlę matek i wpływanie na rozwój rodzin pszczelich, bez konieczności stresowania ich rozbieraniem. Oczka te znacząco wspomagają również zastosowanie biotechnicznych metod, na przykład w zwalczaniu warrozy i CCD, bez potrzeby rozbierania ula. Szczegóły mojego przejścia na ule korpusowe można znaleźć tutaj:http://dvorsky.leos.sweb.cz/CLANKY/od_budecaku.htm
+
+== Konstrukcja ramek
+Przez długi czas uważałem, że ramki to najgorsze, co ludzie mogli wymyślić dla pszczół. Jednak po przeprowadzeniu pomiarów temperatury w ulu zrozumiałem, że wcale tak być nie musi. Kluczem jest postrzeganie ramki jako integralnej części całej przestrzeni ula, a nie jedynie narzędzia dla człowieka do wykonywania zabiegów, które według niego są potrzebne, lecz niekoniecznie służą pszczołom.
+
+Nawet w ulach z ramkami można stworzyć warunki zbliżone do tych, jakie rodzina pszczela ma w naturalnym środowisku. Oznacza to umożliwienie pszczołom zabudowy szczelin między korpusami oraz budowy wokół górnej i dolnej beleczki ramki. W ten sposób powstaje praktycznie jednolity plaster z galeriami (wolnymi przejściami), podobnie jak w naturze.
+
+Dlatego stopniowo przeszedłem na ramki z górną beleczką o szerokości 2 cm, wyprofilowaną w kształt trójkąta (ze ściętym brzegiem). Dolna beleczka ma szerokość 1 cm. Taka konstrukcja pozwala pszczołom na swobodne budowanie, a ramki nie przeszkadzają im lub przeszkadzają jedynie minimalnie.
+
+== Rozszerzanie rodzin pszczelich
+
+Na początku swojej działalności stosowałem w ulach korpusowych zamiany i później również rotacje korpusów, podobnie jak zalecał profesor Farrar. Dziś jednak wiem, że takie praktyki są jedną z przyczyn naruszania równowagi w rodzinie pszczelej, a także, między innymi, niekontrolowanego rozmnażania się warrozy. Metodę zamian czy rotacji zastąpiłem metodą przesuwania.
+
+Metoda ta polega na tym, że nie naruszam czerwiowego gniazda – traktuję je jako świętość. Ponieważ gniazdo jest zanurzone w zapasach miodu, zapewnia to odmienny, stabilny reżim termiczny, co odpowiada pszczołom. Na wiosnę wykonuję tylko jedno znaczące rozszerzenie, które łączę z innymi koniecznymi pracami. Podstawowe rozszerzenie odbywa się w dół, w kierunku wylotka. Pod gniazdo czerwiowe dokładam 1–3 niskich korpusów (NN), w zależności od siły rodziny. W środku zawsze umieszczam ramki z suszem (2–3 sztuki), a po bokach ramki do wolnej zabudowy. Dzięki temu pszczoły mogą rozwijać się w sposób naturalny, bez ingerencji człowieka.
+
+Pierwszy korpus nad gniazdo umieszczam zazwyczaj jednocześnie, ale nie jest to regułą. Jeśli rodzina nie jest jeszcze gotowa na rozszerzenie, nowo dodane korpusy oddzielam folią od istniejących, zajętych przez pszczoły. Folia nie jest dociśnięta do wylotka, pozostawiając kilka centymetrów wolnej przestrzeni. Usuwam ją dopiero, gdy pszczoły zaczynają wykorzystywać nową przestrzeń. Samo usunięcie folii zajmuje kilka sekund.
+
+W dodanych korpusach otwieram oczka, podczas gdy w górnych są one zazwyczaj zamknięte, aby przekierować rodzinę na pracę z dolnym wylotkiem. Rozszerzenie w górę, w kierunku wylotka, nie jest konieczne, ale czasem również je stosuję.
+
+Starsi pszczelarze wiedzieli, że pszczelarstwo z górnym wylotkiem sprzyja rojom, a z dolnym wylotkiem sprzyja produkcji miodu. Ponieważ prawie nie używam dymu do uspokajania pszczół, zamiast tego korzystając z wody, pszczoły są minimalnie zestresowane.
+
+Zaletą tej metody rozszerzania jest to, że rodzina pszczela od samego początku ma możliwość dostosowania się do warunków, w jakich będzie się rozwijać, a gniazdo czerwiowe pozostaje nietknięte przez cały rok. Reżim termiczny rodziny jest stabilny, co uważam za kluczowe dla zachowania jej naturalnej struktury społecznej.
+
+Oczywiście stosuję różne warianty metod w zależności od siły rodziny (czy jest to rodzina produkcyjna, odkład, rój czy smeteniec) oraz fazy rozwoju w ciągu roku. Doświadczenia z zamianą korpusów, które stosowałem regularnie do końca lat 80., nadal są przydatne. Trzeba jednak zdawać sobie sprawę z ich negatywnych skutków.
+
+Dopiero po wprowadzeniu wolnej zabudowy i metody przesuwania gniazda czerwiowego w pełni zrozumiałem, jak ważne jest tworzenie warunków jak najbardziej zbliżonych do naturalnych. Obecnie traktuję korpusy jako moduły, dzięki czemu pszczoły mogą budować architekturę plastra według swoich potrzeb, co pomaga w utrzymaniu równowagi w rodzinie. To jeden z kluczowych elementów mojej metody prowadzenia pasieki.
+
+Na wszystkie niezbędne prace przy rodzinach potrzebuję zazwyczaj 2–3 ingerencje w ciągu roku, wliczając w to ewentualne działania biotechniczne i odbiór nadmiaru miodu.
+
+== Komora miodowa
+
+W latach osiemdziesiątych XX wieku zacząłem dostrzegać, że pszczoły potrzebują czegoś zupełnie innego, niż powszechnie twierdzili pszczelarze. Coraz bardziej zbliżałem się do naturalnego prowadzenia rodzin pszczelich. Rezultatem było to, że w 1992 roku „odkryłem” u pszczół komorę miodową (KM) i przestawiłem rodziny na ten system pszczelarstwa.
+
+Od tego czasu do dziś moja potrzeba cukru jest minimalna i używam go głównie do budowania odkładów oraz nowych rodzin pszczelich. Rodziny produkcyjne żyją praktycznie wyłącznie na miodzie. Moje pszczoły są zatem przez cały rok gotowe na zimę, ponieważ zawsze mają wystarczającą ilość naturalnego pokarmu – miodu. Oczywiście zdarzają się lata, w których trzeba dokarmiać również rodziny produkcyjne, ale dla mnie kluczowe jest to, że żadna rodzina w ciągu roku nie głoduje.
+
+Zimowa konsumpcja rodzin pszczelich zimujących na miodzie jest o 25–30% niższa. Szczegóły tego podejścia można znaleźć tutaj.
+
+Tym, którzy nie zostawiają swoim rodzinom pszczelim wystarczających zapasów miodu, polecam spróbować karmić swoje zwierzęta domowe wyłącznie kiszonymi ogórkami. Wtedy przekonają się, jakie efekty osiągną i jakie będą miały ich zwierzęta potomstwo. To brak zrozumienia i chciwość prowadzą pszczelarzy do obecnych metod gospodarki pasiecznej, które opierają się na głodzeniu i stresowaniu rodzin pszczelich. Dlatego określam je mianem metod przemysłowo-apokaliptycznych.
+
+== Miód bartny
+
+Mój miód jest wynikiem naturalnego podejścia do pszczelarstwa, w którym nie stosuję chemii, a selekcję prowadzę pod kątem odporności pszczół, eliminując stresowanie rodzin pszczelich. Badania przeprowadzone w Rosji, Polsce i Arabii Saudyjskiej potwierdziły, że taki miód zawiera wielokrotnie więcej biologicznie aktywnych substancji niż miód pochodzący z tradycyjnych metod pszczelarskich.
+
+Zbieram jedynie nadwyżki zgromadzone przez pszczoły, zazwyczaj 1–2 razy w roku. Większość niezbędnych prac przy rodzinach pszczelich łączę w jedno działanie, aby minimalizować ingerencje i unikać stresowania pszczół. Nie zajmuję się natychmiastowymi potrzebami pszczół, jak to jest w powszechnych metodach pszczelarstwa, ale pracuję w perspektywie długoterminowej, tak aby później nie musieć ponownie zakłócać ich spokoju.
+
+W rzeczywistości nie prowadzę klasycznego pszczelarstwa, lecz tworzę dla pszczół odpowiednie warunki, co pozwala na eliminację ciągłego stresu. Najczęściej zbieram nadwyżki z wiosennych pożytków, które są kluczowe na moich stanowiskach. W rezultacie mój miód nie jest typowym miodem jednorodnym, lecz mieszanym, będącym całorocznym wynikiem pracy pszczół. Zbiory odbywają się zwykle w czerwcu lub październiku, czasem łączę je z rozszerzaniem rodzin pszczelich wiosną następnego roku.
+
+Dzięki zastosowaniu komory miodowej można pozyskiwać również miody jednorodne, jednak nie jest to moim celem. Wolę pozostawić pszczołom swobodę pracy i zbierać to, co stworzyły w sposób naturalny.
+
+== Przyjaźń z warrozą
+
+W 1996 roku na jednym z leśnych stanowisk padło mi 12 z 14 rodzin pszczelich. Prawdopodobną przyczyną było nadmierne rozmnożenie warrozy (Varroa destructor) i związane z tym infekcje wirusowe. Przeżyły jedynie rodziny wywodzące się z linii B. Šráma, oznaczonej jako BŠ-7. Był to miejscowy materiał pszczeli, pochodzący z lokalnej pszczoły, która została stopniowo ulepszona trutniami z linii Sklenar 47, głównie od pana Seidla ze Slavičína (linia Hungrovka).
+
+Do tego celu wykorzystywano księżycowe parowanie matek, które opanowałem w wieku 11 lat i od tego czasu stosuję. Ten genofond nadal jest obecny na moich pasiekach, choć został wzbogacony o inne linie kraińskie oraz inne rasy pszczół, przy czym wykorzystuję własną metodę hodowlaną. Moja metoda opiera się na zupełnie innych zasadach niż te stosowane przez komercyjnych hodowców.
+
+Obecnie zwalczanie warrozy nie jest dla mnie głównym celem, mimo że prowadzę pszczelarstwo całkowicie bez chemii. Skupiam się na selekcji i utrzymaniu zdrowych, odpornych rodzin pszczelich, co pozwala na utrzymanie równowagi w pasiece bez konieczności intensywnego zwalczania pasożyta.
+
+== Od “warrozy” do CCD
+
+Od 1996 roku na każdym stanowisku pozostawiałem 1–5 rodzin pszczelich bez chemicznego leczenia jako grupę kontrolną. Efektem było to, że od 2003 roku prowadzę pasiekę z jedną linią pszczół odpornych na warrozę, bez chemicznego leczenia. Pozostałe rodziny zaczęły być leczone wyłącznie kwasem mrówkowym. W 2003 roku pozostawiłem 30% rodzin bez leczenia nawet kwasem mrówkowym, w 2004 roku już 50%, a w latach 2005–2006 praktycznie 100%. Wprowadziłem wtedy tzw. punktowe leczenie kwasem mrówkowym – polegało ono na diagnozowaniu rodzin źródłowych zakażenia pod koniec maja i na początku czerwca, a następnie leczeniu tylko tych rodzin.
+
+Rezultaty były zaskakujące – czasami wystarczyło wyleczyć jedną rodzinę na 14 (lub jedną na 30 w innym miejscu), aby problem został rozwiązany na cały rok. Od tamtego czasu uważam masowe leczenie rodzin pszczelich za podejście “antypszczelarskie”. Diagnostyki oparte na liczeniu roztoczy na wkładce dennicy uznałem za nieistotne. Zrozumiałem, że bardziej istotne jest to, ile roztoczy pozostaje na pszczołach lub czerwiu i jakie szkody faktycznie powodują w rodzinie.
+
+W 2005 roku opracowałem własną metodę diagnozowania na podstawie uszkodzeń pszczół, którą stosuję do dziś. Metoda ta pozwala ocenić rzeczywisty wpływ pasożyta na pszczoły i przewidywać dalszy rozwój infekcji. Wiele lat testów i obserwacji pozwoliło mi lepiej zrozumieć, że Varroa destructor nie jest jedyną ani najważniejszą przyczyną śmierci rodzin pszczelich.
+
+Uważam, że uproszczone postrzeganie “warrozy” prowadzi do coraz większego użycia toksyn w pasiekach, co paradoksalnie zwiększa liczbę strat rodzin pszczelich. Warroza jest często końcowym ogniwem w łańcuchu negatywnych czynników, a nie ich przyczyną. Współczesne podejście nie dostrzega tego i przez to cofa rozwój pszczelarstwa o 30 lat.
+
+Z moich badań wynika, że u większości pszczół w padłych rodzinach można znaleźć grzyba Nosema apis, ale nie zawsze roztocza Varroa destructor. Mimo to warrozę uważa się za głównego sprawcę. Moja metoda diagnozowania na podstawie uszkodzeń pszczół jest kompleksowa i pozwala dokładnie ocenić przyczyny problemu, w tym różne warianty CCD.
+
+Rozróżniłem warrozę na trzy typy:
+	•	Typ A: Klasyczna warroza – problemy związane bezpośrednio z roztoczem.
+	•	Typ B: Warroza powiązana z CCD – czynniki prowadzące do osłabienia odporności pszczół i nasilenia szkód wywoływanych przez warrozę.
+	•	Typ C (CCD): Colony Collapse Disorder – wieloczynnikowy problem, gdzie warroza jest jedynie jednym z elementów.
+
+Dzięki tej klasyfikacji oraz diagnostyce mogę nie tylko rozpoznać problem, ale również podejmować odpowiednie działania zapobiegawcze i naprawcze, w tym biotechniczne oraz hodowlane. Kluczowe jest jednak zrozumienie, że CCD to problem wielowątkowy, którego nie da się sprowadzić tylko do obecności warrozy.
+
+Najważniejszym wnioskiem z mojej pracy jest to, że praktyczne doświadczenie i obserwacja są niezastąpione. Wiedza książkowa bez weryfikacji w praktyce pozostaje tylko teorią. Tylko poprzez codzienną pracę z pszczołami można zdobyć rzeczywiste umiejętności i zrozumienie.
+
+== Typ A
+Dziś praktycznie nie występuje w czystej postaci. Warto jednak o nim przypomnieć. W tym przypadku jest on spowodowany rzeczywiście wysoką liczbą Varroa destructor (V.d.). Prowadzi to do obniżenia długości życia i kondycji pszczół. W tej odmianie rodzina pszczela zazwyczaj ginęła po 3–4–5 latach od zakażenia.
+
+Rodzina pszczela stopniowo nie tworzy wystarczającej rezerwy pszczół długowiecznych i średniowiecznych. Znacząco przyczyniają się do tego klasyczne metody pielęgnacji rodzin pszczelich, które systematycznie zakłócają ustaloną wewnętrzną równowagę rodziny pszczelej, zmniejszając jej społeczną odporność.
+
+Ludzie błędnie sądzą, że rodzina pszczela potrzebuje pszczół długowiecznych tylko do zimowli i nie rozumieją, że w normalnej rodzinie pszczelej ta grupa społeczna jest obecna zawsze. Obecne, powszechnie stosowane metody dosłownie programowo temu zapobiegają. W normalnej rodzinie pszczelej grupy pszczół długowiecznych, średniowiecznych i krótkowiecznych są zawsze obecne, choć w różnych proporcjach. Są one jednak naczyniami połączonymi.
+
+Rodzina pszczela przy tym typie ginie praktycznie z powodu niedożywienia od listopada do końca roku, kiedy w rodzinie giną ostatnie pszczoły krótkowieczne, a pszczół długowiecznych brakuje.
+
+Ten typ można łatwo rozwiązać za pomocą biotechnicznego działania opartego na zasadzie rozcieńczenia lub ewentualnie skoncentrowania roztoczy w określonym miejscu i ich usunięcia (choć nie zawsze jest to konieczne). Rodziny pszczele w naturze radzą sobie w ten sposób, np. poprzez rojenie lub umieszczanie plastrów trutowych na obrzeżach gniazda czerwiowego. Bardzo często pomaga również przerwa w czerwieniu w odpowiednim momencie, itp.
+
+Istnieje wiele biotechnicznych metod, które każdy pszczelarz z pewnością natychmiast sobie przypomni, wystarczy trochę się nad tym zastanowić. Nie ma w tym nic skomplikowanego. Moim zdaniem wystarczy tylko jedno działanie w ciągu roku, aby problem został rozwiązany na cały rok. Mam to potwierdzone w praktyce. Jeśli jakaś rodzina pszczela nie spełnia tego kryterium (często z mojej winy), eliminuję ją z hodowli.
+
+U mnie rodziny pszczele, które są prowadzone zgodnie z logiką rodzin w naturze, nie wymagają żadnych działań, aby tłumić ten typ warrozy. W przypadku typu A monitorowanie i szacowanie liczby V.d. w rodzinie jest całkowicie uzasadnione. Ma to jednak większy sens w sezonie, a nie na podstawie analizy zimowego osypu (zimní měl).
+
+Choć sezonowe monitorowanie populacji roztoczy również ma swoje słabości, gdyż często dostarcza opóźnionych informacji o 2 tygodnie do 2 miesięcy. Trzeba to uwzględnić w analizie stanu rodziny i prognozach na przyszłość. Jeśli badanie zimowego osypu ma mieć sens dla pszczelarza, jego struktura musi być inna niż obecnie przyjęta.
+
+== Typ B
+
+Jakby wyrasta z typu A. Ze względu na osłabioną odporność rodzina pszczela cierpi przede wszystkim z powodu wirusa zdeformowanych skrzydeł (DWV). Jednak nie zawsze jest to jedyna przyczyna. Może to również wynikać z innych zakłóceń równowagi i osłabienia odporności rodziny pszczelej.
+
+Pszczoły giną w ciągu roku przed ulami. W rodzinie pszczelej poszczególne grupy społeczne pszczół zaczynają stopniowo zanikać, co prowadzi do takiego rozpadu relacji społecznych, że rodzina traci swoją spójność. Pszczoły przestają dbać o matkę i czerw, który staje się niejednolity. Podczas lotów młodych pszczół przed ulami można zauważyć wiele pszczół z uszkodzonymi skrzydłami. Czasami pszczoły same wynoszą z ula żywe lub martwe osobniki.
+
+Rodziny pszczele są atakowane przez różnego rodzaju drapieżniki, a ich śmierć zwykle kończy się niszczącymi rabunkami pod koniec lata. Wśród drapieżników należy uwzględnić także pszczoły rabujące, które ostatecznie kończą żywot rodziny. Zazwyczaj dzieje się to pod koniec lata, najczęściej w sierpniu, a czasami do końca września.
+
+Te problemy są w dużej mierze wynikiem obecnie stosowanych metod pszczelarstwa, które uważam za przestarzałe. Ten typ można rozpoznać już na początku czerwca. Jeśli rodzina pszczela nie jest właściwie prowadzona lub nie ma rozwiniętych specjalnych mechanizmów do tłumienia V.d., ginie zwykle w ciągu 4–10 tygodni od wystąpienia pierwszych objawów uszkodzeń pszczół z DWV.
+
+W tym przypadku monitorowanie liczby V.d. oraz uszkodzonych pszczół ma znaczenie. Jeśli opad roztoczy jest wysoki, a uszkodzone pszczoły występują regularnie, oznacza to fazę krytyczną. Aby zapobiec niekontrolowanemu rozprzestrzenianiu się V.d., konieczna jest interwencja. Można to zrobić np. poprzez skoncentrowanie roztoczy w określonym miejscu na czerwiu i ich późniejsze usunięcie.
+
+Czasami wystarczy niewiele, a pszczoły radzą sobie same. Eleganckim rozwiązaniem jest metoda fałszywego gniazda czerwiowego. Polega ona na skoncentrowaniu roztoczy w określonym miejscu i ich późniejszym usunięciu – technika wykonania jest mniej istotna. Skuteczne może być także wzmocnienie rodziny przez odkład z odporniejszym genotypem.
+
+Ostatnim terminem, kiedy biotechniczne działania mają sens i dają gwarancję przetrwania rodziny, jest początek lipca. Po tym terminie los rodziny jest praktycznie przesądzony, a jej ratowanie wiąże się z wysokimi kosztami i niepewnym wynikiem. W takich przypadkach lepiej zaakceptować zimowe straty tych rodzin, które i tak nie przetrwałyby.
+
+W mojej praktyce takie sytuacje zdarzają się rzadko. Zwykle wystarczy interwencja u jednej rodziny na stanowisku na początku czerwca, aby rozwiązać problem na cały rok bez użycia chemii. W przeszłości stosowałem na takie rodziny także kwas mrówkowy (KM), ale obecnie tego nie robię. KM według mnie zaburza wewnętrzną równowagę rodziny pszczelej, osłabia jej odporność społeczną i komórkową, niszczy mikroflorę i mikrofaunę w przestrzeni ula. Istnieją także inne powody, dla których zrezygnowałem z KM.
+
+Typ B warrozy jest łatwy do zdiagnozowania i rozwiązania już na początku czerwca. Jeśli infekcja zostanie zidentyfikowana i odpowiednio wcześnie opanowana, problem można rozwiązać na cały rok bez użycia chemii. To moja osobista praktyka i doświadczenie.
+
+== CCD (typ C)
+
+Ten typ jest od dawna opisywany jako zjawisko wieloczynnikowe. To, że niektórzy z nas nie chcą tego zauważyć, to inna sprawa. Na początku całego łańcucha problemów i patogenów nie znajduje się Varroa destructor (chyba że do CCD włączymy również typ B, patrz tabela). Są to różne wpływy zmian środowiskowych, neonikotynoidy, glifosaty, pestycydy, insektycydy i inne chemiczne środki stosowane głównie w rolnictwie. Dalej są to przede wszystkim grzyby Nosema ceranae, Nosema apis, a także klasyczne metody zarządzania rodzinami pszczelimi, gdzie normą jest stosowanie chemii każdego rodzaju, w tym kwasów organicznych. Wszystko jest ze sobą powiązane.
+
+Na przykład obecność grzyba Nosema ceranae znacznie zwiększa wrażliwość rodzin pszczelich na różne chemikalia. Kwas organiczny wielu uważa za tzw. „łagodną chemię”. Moje doświadczenia przekonały mnie jednak, że często są one jeszcze gorsze niż klasyczna chemia. Ponadto bardzo zniekształcają kryteria selekcji przy hodowli pszczół na większą odporność na choroby. Chemia działa jak kosiarka – wyrównuje wszystko na jednym poziomie i nie dostrzega różnic, które są kluczowe przy selekcji i hodowli.
+
+Istnieje wiele wariantów śmierci rodzin pszczelich. Sam rozpoznaję ich 9. Różnią się one stopniem zakłócenia wewnętrznej równowagi, co najlepiej można poznać właśnie na podstawie stopnia i rodzaju uszkodzeń pszczół. Opisywanie poszczególnych wariantów byłoby zbyt długie i dla większości osób prawdopodobnie mało zrozumiałe. Podam jednak jeden przykład.
+
+Około osiem lat temu opisałem przypadek, kiedy na początku sierpnia matka opuszcza ul wraz z grupą pszczół. W ulu nie pozostaje żaden czerw ani młoda matka. Rodzina pszczela na pierwszy rzut oka wydaje się zwarta i nie jest atakowana przez pszczoły rabujące. Jednak po około dwóch miesiącach pada pod naporem drapieżników, w tym innych rodzin pszczelich. Znam tę odmianę od dawna, ale opublikowałem ją dopiero wtedy, gdy potwierdzili ją niezależnie inni pszczelarze z różnych regionów w kraju i za granicą. Według moich statystyk w ten sposób ginie około 15% rodzin pszczelich. To nie jest mało.
+
+O innych wariantach nie będę pisał, ponieważ nie jest to celem artykułu, a pozostaną one na razie w moich notatkach laboratoryjnych.
+
+=== Zapobieganie CCD
+Ważne jest jednak to, że można i da się zapobiegać CCD. Można to osiągnąć dzięki odpowiedniemu prowadzeniu rodzin pszczelich, które jest zbliżone do natury. Można również wykorzystać różne środki biotechniczne dostosowane do konkretnego wariantu spośród wspomnianych dziewięciu.
+
+Niektóre szczegóły są omówione w tabeli poniżej (“Jak pszczelarzyć bez chemii”), która została skrócona ze względu na ograniczoną przestrzeń. Z całego łańcucha niekorzystnych wpływów, które wymieniłem, moją metodą prowadzenia rodzin pszczelich można wyeliminować większość, co zazwyczaj wystarcza do utrzymania równowagi.
+
+=== Moje podejście
+Skupiam się na tym, co mogę kontrolować, zarówno bezpośrednio, jak i pośrednio. Co dzieje się wokół mnie, nie analizuję, zakładam najgorszy scenariusz. Szczęście sprzyja przygotowanym.
+
+Ważną rolę odgrywa u mnie nie tylko twarda selekcja, ale także dążenie do spełnienia potrzeb pszczół. Specjalne cechy pszczół czasami odgrywają istotną rolę. Twierdzę jednak, że w 80% przypadków wszystko można opanować, wykorzystując zdolności pszczół oraz odpowiednio zastosowane środki biotechniczne w ramach metody zarządzania. To podejście może wdrożyć każdy, osiągając przy tym porównywalne zyski.
+
+== Diagnostyka na podstawie uszkodzonych pszczół
+
+Tę metodę opracowywałem od 2005 roku, kiedy po raz pierwszy ją zastosowałem. Zanim jednak zacząłem ją wykorzystywać, przez około dwa lata prowadziłem obserwacje. W tym czasie monitorowałem około 70 rodzin pszczelich 3 razy dziennie na pięciu stanowiskach. Nie było to łatwe, ale się opłaciło. Jak już wspomniałem, metoda ta odzwierciedla rzeczywiste uszkodzenia rodziny pszczelej spowodowane przez Varroa destructor, wirusy i Nosema ceranae. Za jej pomocą można łatwo obliczyć, w jaki sposób choroba będzie się rozwijać. Podam prosty przykład:
+	1.	Podczas lotu młodych pszczół około godziny 13:00 obserwuję rodzinę pszczelą przez 15 minut na wylotku (im dłużej, tym lepiej) oraz przed ulem, na przedniej ścianie.
+	2.	W tym czasie ul opuszczają na przykład 3 uszkodzone pszczoły.
+	3.	Ustalam liczbę uszkodzonych pszczół na minutę: 3:15 = 0,2 na minutę.
+	4.	Dzień ma 1440 minut, więc: 0,2 × 1440 = 288 uszkodzonych pszczół dziennie.
+	5.	Jeśli ktoś ma problem ze zrozumieniem tego obliczenia, wyjaśniam, że monitorowałem rodziny pszczele 3 razy dziennie przez około 2,5 miesiąca. Metoda ta, mimo swojej prostoty, jest bardzo bliska rzeczywistości. Dlatego ją polecam i najczęściej stosuję.
+
+Dalsze obliczenia:
+30 × 288 = 8640 uszkodzonych pszczół miesięcznie.
+
+Co dalej? Jak wykorzystać te dane? Jeśli mamy wiedzę o stanie czerwiu (liczbie komórek), możemy przeprowadzić bardzo precyzyjne szacunki. Znamy przecież liczbę komórek w 1 dm² czerwiu w zależności od ich rozmiaru, również w przypadku czerwiu trutowego. Znamy również liczbę pszczół w poszczególnych generacjach.
+
+Przykładowo, jeśli takie uszkodzenia stwierdzimy 1 czerwca, to do końca czerwca i lipca stracimy co najmniej 17 276 pszczół, co odpowiada ponad 1,5 kg. Czy taka rodzina ma szansę przetrwać? Ile zdrowych, długowiecznych pszczół będzie w stanie wyhodować? Można to obliczyć, o ile znamy dokładną liczbę komórek czerwiu otwartego i zasklepionego – najlepiej obu.
+
+Załóżmy, że matka w tym okresie składa dziennie 1000 jaj. W takim przypadku 288 uszkodzonych pszczół oznacza stratę około jednej czwartej. To już sytuacja krytyczna.
+
+Stopień zagrożenia zależy jednak od wariantu CCD. Można to ocenić na podstawie rodzaju uszkodzeń pszczół. Inaczej wygląda pszczoła uszkodzona przez wirusa ostrej paralizy, inaczej przez Nosema ceranae lub Nosema apis. W praktyce najczęściej mamy do czynienia z mieszanką kilku czynników, z których jeden jest dominujący.
+
+Na początku stosowałem bardziej skomplikowane wzory, ale ostatecznie postawiłem na prostotę, szybkość i wystarczającą dokładność z możliwością dalszego prognozowania stanu zdrowia. To ważne dla kolejnych interwencji i selekcji.
+
+=== Podsumowanie
+Metoda ta w pełni odpowiada mojemu podejściu do problematyki tzw. warrozy. Varroa destructor nie jest głównym wrogiem, lecz jednym z czynników zakłócających równowagę w rodzinie pszczelej i obniżających jej odporność. Mam liczne obserwacje, które potwierdzają, że rodziny pszczele niemal bez roztoczy lub z ich niewielką liczbą potrafią zapaść, zgodnie z moimi prognozami opartymi na tej metodzie. Z drugiej strony rodziny z dużą liczbą roztoczy, które pozbyły się ich np. poprzez grooming (nawet w tysiącach), bez problemu przetrwały zimę i prosperowały.
+
+Nie wiem, dlaczego wpływ roztocza na śmiertelność rodzin pszczelich jest tak demonizowany. Według moich doświadczeń nie jest to prawdą, a takie podejście cofa wiedzę o 30 lat. Nie zamierzam jednak dyskutować – dla mnie ważne są wyniki, a z nich jestem zadowolony. Jeśli ktoś skupia się na uzyskiwaniu dochodów z rzekomych badań i grantów, rozumiem taki model biznesowy, ale nie ma to wiele wspólnego z pszczelarstwem.
+
+== Mój podział varrozy
+
+(tabela iminęta)
+
+== Varroza jako pszczeli Covid-19
+
+Obecna sytuacja w pszczelarstwie, nie tylko u nas, przypomina mi histerię wywołaną pandemią Covid-19. Wszystko niemal przypisuje się temu wirusowi, nawet złamaną nogę. Bagatelizuje się inne choroby, ich przyczyny i skutki. Zarówno Covid-19, jak i Varroa destructor, wirusy oraz Nosema ceranae są nadmiernie demonizowane, zamiast podejmować wysiłki, by zrozumieć problem, rozwiązywać go i mu zapobiegać. Przede wszystkim powinniśmy polegać na sobie.
+
+Mój ojciec zawsze mówił: „Jeśli czegoś się boisz, idź i dotknij tego”. Problemem nie są choroby pszczół, lecz pszczelarze i ich metody zarządzania pasieką. Według mnie, metody te mają co najmniej taką samą wagę w stratach rodzin pszczelich jak Nosema ceranae, Nosema apis, Varroa destructor i inne patogeny.
+
+To właśnie metoda zarządzania pasieką pozwala szybko wpłynąć na pszczelarstwo, zdrowie, odporność i kondycję rodzin pszczelich. Na otoczenie mogę wpływać w minimalnym stopniu. Ja na przykład wpływam na nie poprzez trutnie, które przeszły przez moje sito selekcyjne i mogą dalej przekazywać swoje geny o wyższej odporności.
+
+Metoda zarządzania pasieką i selekcja to klucz do szybkiego rozwiązania problemu CCD, a nie ogromne ilości chemikaliów. Jednak metoda zarządzania nie jest towarem, który można sprzedać, dlatego najprawdopodobniej nie poświęca się jej uwagi.
+
+== Wolna zabudowa i przestrzeń
+
+Od 2005 roku prowadzę pasiekę wyłącznie na wolnej zabudowie, czyli bez stosowania węzy. W tym czasie posiadałem 100 rodzin pszczelich. Ten krok otworzył przede mną nowe perspektywy w zrozumieniu życia pszczół. Bardzo ważne było zrozumienie całej architektury plastra, dlaczego pszczoły go budują w określony sposób i jak go wykorzystują.
+
+Pszczeli plaster można porównać do ludzkiego szkieletu – bez niego pszczoły nie byłyby w stanie funkcjonować, podobnie jak człowiek bez kości nie utrzymałby swojej postawy. Jednak plaster w rodzinie pszczelej pełni również rolę informacyjną, zarówno dla pszczół, jak i dla pszczelarza. Można to wykorzystać na przykład przy rozszerzaniu gniazda.
+
+Każdy rój, wybierając nowe miejsce na gniazdo, ma pewną wizję przestrzeni, którą kieruje się przy wyborze. Od tej wizji zależy późniejsza konstrukcja plastra, czyli jego architektura. Architektura plastra to nie tylko rodzaj komórek (robotnicze, trutowe, przejściowe, magazynowe) i ich rozmieszczenie. Obejmuje również długość, wysokość, orientację plastrów oraz odległości między nimi. W pracy z węzą te aspekty są niewidoczne, a przez to niewykorzystane.
+
+Dziś wolna zabudowa jest częścią mojego podejścia, które pozwala rodzinom pszczelim żyć bez chemii, podobnie jak pszczoły żyjące na wolności. Pszczoły potrafią wykorzystać wolną zabudowę do ograniczania populacji Varroa destructor. Na przykład plastry trutowe budowane są na obrzeżach gniazda czerwiowego, gdzie presja infekcji jest największa. Wystarczy umożliwić pszczołom robienie tego, co od dawna wiedzą, jak robić.
+
+Od 2013 roku nie stosuję żadnych chemikaliów, a problem z Varroa destructor uważam za rozwiązany. Zajmuję się intensywnie innymi aspektami pszczelarstwa. Mimo to moje roczne straty rodzin pszczelich wynoszą około 5%.
+
+== Biotechniczne metody
+
+Często pytają mnie, jak radzę sobie z warrozą, czyli Varroa destructor (zgodnie z moją klasyfikacją warrozy typu A i B). Szczerze mówiąc, dziś już praktycznie „wcale”. Moim celem nie jest pozbycie się roztoczy, ale posiadanie zdrowych rodzin pszczelich, które same radzą sobie z presją infekcji i innymi niekorzystnymi czynnikami środowiskowymi.
+
+Jeśli któraś z moich rodzin nie potrafi przezwyciężyć słabego punktu, stosuję biotechniczne metody, po czym wymieniam matkę. Matki wymieniam zazwyczaj całymi odkładami pod koniec września lub w październiku, co jednocześnie pozwala na rewitalizację rodziny. Metodę tę zacząłem stosować już w latach 80., a w nowym tysiącleciu zauważyłem, że można nią również wzmacniać rodziny osłabione przez warrozę. Opisałem to w artykule „Z odkładami przeciwko warrozie” opublikowanym w 2003 roku (http://dvorsky.leos.sweb.cz/CLANKY/seznam.htm).
+
+=== Źródła inspiracji i praktyka
+
+Biotechniczne metody opierają się na obserwacjach pszczół Apis cerana (pszczoły wschodniej) oraz Apis mellifera żyjących w naturze. Opisałem je w artykule „Czy można bez chemii?” (2015), dostępnym na mojej stronie internetowej (http://dvorsky.leos.sweb.cz/CLANKY/seznam.htm).
+
+Biotechniczne działania nie są niczym nowym – naśladują naturalne mechanizmy, które pszczoły wypracowały przez długi czas, aby radzić sobie z pasożytami i patogenami. Polegają one przede wszystkim na rozcieńczaniu populacji patogenów lub ich koncentracji z późniejszym usunięciem. Takie mechanizmy można łatwo zastosować w metodach zarządzania rodzinami pszczelimi.
+
+Przykłady działań biotechnicznych:
+	•	Użycie nadstawek, izolatorów, mateczników, czy otworów wentylacyjnych, aby wpływać na biorytm rodziny pszczelej.
+	•	Wspieranie naturalnych mechanizmów obronnych pszczół, takich jak grooming, skracanie cyklu rozwoju, czy VSH (higieniczne usuwanie zainfekowanego czerwiu).
+
+Od 2013 roku nie stosuję żadnych chemikaliów, a problem z warrozą uważam za rozwiązany. Roczne straty w mojej pasiece wynoszą około 5%.
+
+=== Obserwacje i analiza
+
+Zauważyłem, że w naturze pszczoły giną głównie z głodu, a nie z powodu chorób. Warroza nie jest pasożytem, który w naturalnych warunkach unicestwiłby swojego żywiciela – to nie leży w jego interesie. Niestety, w naszych ulach sytuacja wygląda inaczej, głównie z powodu niewłaściwego odżywiania pszczół i metod pszczelarskich, które wprowadzają stres i zakłócają równowagę rodzin pszczelich.
+
+Na przykład:
+	•	Wiosenne błędne zarządzanie (rozszerzanie, zamiana czerwiu i korpusów) zwiększa populację roztoczy.
+	•	Chemiczne zwalczanie w lecie i dokarmianie w pod koniec sezonu powoduje, że rodziny pszczele ponownie rozpoczynają czerwienie, co zakłóca ich naturalny rytm.
+
+W rezultacie pszczoły i roztocza zachowują się inaczej niż w naturalnych warunkach, co prowadzi do dalszych problemów i osłabienia odporności rodzin.
+
+Naturalne podejście
+
+Biotechniczne podejście i bliskie naturze metody prowadzenia rodzin pszczelich pozwalają:
+	•	Zredukować koszty chemikaliów.
+	•	Poprawić zdrowotność pszczół.
+	•	Uzyskać lepszej jakości produkty pszczele (miód, wosk, propolis).
+
+Zamiast dążyć wyłącznie do „pszczół odpornych na warrozę”, bardziej efektywne jest wprowadzenie metod pszczelarskich tolerujących warrozę. Te metody można dostosować do konkretnych pasiek, biorąc pod uwagę naturalne instynkty pszczół.
+
+=== Podsumowanie
+
+Kluczem do sukcesu jest równowaga i zrozumienie praw natury. Parazyt i żywiciel stale się do siebie dostosowują, co wymaga ciągłego doskonalenia metod pszczelarskich. Biotechniczne podejście daje realną szansę na zdrowe rodziny pszczele i naturalne produkty, jednocześnie minimalizując ingerencję człowieka.
+
+== Jak pszczelarzyć bez chemii
+
+(tabela ominięta)
+
+Dalsze informacje znajdują się tutaj: http://dvorsky.leos.sweb.cz/CLANKY/Bez_jedu_to_nejde4.editace.s.obrazky.pdf
+
+== Hodowla matek, selekcja i hodowla
+
+Hodowla i selekcja to według mnie nie to samo. Opieram się na zasadach selekcji, jakie stosuje sama natura. Rodziny pszczele w naturze (ale także te prowadzone przez pszczelarza) codziennie poddawane są testom ewolucyjnym. Tak samo postępuję ja, stosując praktycznie ciągłe testy (bezpośrednie i pośrednie) oraz oceniając poszczególne cechy, które są częścią określonej sekwencji. Jest to zupełnie inne podejście niż to, które stosują komercyjni hodowcy matek pszczelich.
+
+Prawa selekcji naturalnej są bardzo surowe i osoby nastawione na zysk komercyjny nie mogą ich stosować. Na przykład żaden z komercyjnych hodowców nie odważyłby się poddać hodowanych matek rocznym testom, a następnie wyeliminować około 70% z nich z użytku. To oczywiste, że nie byłoby to dla nich opłacalne, i nie można ich za to winić.
+
+Co oceniam przede wszystkim
+
+(Poniższa kolejność nie odzwierciedla znaczenia poszczególnych cech, ale wyraża pewną sekwencję. Kluczowe jest to, jaką strategię przetrwania stosuje dany genotyp.)
+
+a) Zalatywanie się pszczół.
+b) Instynkt obronny.
+c) Zdolność koncentracji Varroa destructor w określonych miejscach.
+d) Zdolność eliminacji i tłumienia pasożytów.
+e) Czas rozwoju czerwiu pszczół i trutni.
+f) Zdolność rozcieńczania populacji pasożytów i patogenów.
+g) Odporność na wirusy.
+h) Odporność na Nosema ceranae.
+i) Wrażliwość na Nosema apis.
+j) Skrócenie cyklu rozwoju.
+k) Grooming.
+l) Zachowania VSH (higieniczne usuwanie zainfekowanego czerwiu).
+m) Sposób budowy plastrów.
+n) Ogólna zdolność przetrwania i adaptacji (witalność czerwiu i pszczół).
+o) Dopiero na końcu oceniam pozostałe cechy użytkowe, jednak wszystko musi być zrównoważone.
+p) Dużą uwagę poświęcam również badaniu i weryfikacji strategii przetrwania różnych linii pszczół, ich biorytmu i “mentalności” rodzin pszczelich, co staram się wykorzystywać podobnie jak dawni pszczelarze i bartnicy przy tworzeniu warunków życia dla moich pszczół. Respektowanie zasady równowagi jest dla mnie oczywistością, a testowe metody są do niej dostosowane.
+
+Stosowana skala tolerancji na warrozę (na początku pracy)
+	1.	Brak leczenia.
+	2.	Jedno działanie (biotechniczne) na 4 lata.
+	3.	Jedno działanie (biotechniczne) na 3 lata.
+	4.	Jedno działanie (biotechniczne) na 2 lata.
+	5.	Jedno działanie (biotechniczne) na rok.
+	6.	I tak dalej, aż do poziomu 10, który odpowiada standardowym metodom zwalczania warrozy, powszechnie zalecanym pszczelarzom.
+
+Obecnie ta skala nie jest dla mnie istotna, ponieważ większość moich rodzin pszczelich spełnia kryteria poziomów 1–3. Rodziny, które wymagają choćby jednej interwencji w pierwszym roku życia matki, są zwykle eliminowane.
+
+=== Obecnie hoduję następujące linie:
+	
+    1.	MBR – bez chemicznego leczenia od 2003 roku.
+	2.	Dičko 1 (pochodzenie z roju w naturze) – bez chemicznego leczenia przez 5 lat.
+	3.	Projekt 110 – bez chemicznego leczenia przez 8 lat.
+	4.	Projekt WPW – bez chemicznego leczenia przez 4 lata.
+
+Wszystkie inne linie i szczepy, które nie przeszły selekcji naturalnej w moich warunkach i według mojej metody pszczelarskiej, zostały bezwzględnie wyeliminowane z pasieki lub przekazane innym pszczelarzom. W zasadzie zostały wykluczone przez samą naturę.
+
+Oczywiście są to wyniki osiągnięte w moich warunkach i przy moim sposobie pszczelarstwa. Nie twierdzę, że tak musi być w innych miejscach czy przy innych metodach prowadzenia pasieki. Dla mnie kluczowe jest to, aby nie zagrażać otoczeniu, a tego jestem pewien w 100%.
+
+== Hodowla matek, selekcja i metoda „działania przez niedziałanie”
+
+Jak widać, moje podejście nie polega wyłącznie na pozostawieniu rodzin pszczelich samym sobie, lecz jest zorganizowanym procesem testowania właściwości pszczół, m.in. poprzez zwiększanie presji infekcyjnej. To zasadnicza różnica w porównaniu z tzw. testami Bond, które również wypróbowałem (nieumyślnie w 1996 roku). Wszystko w moim systemie jest zorganizowane w określone kaskady czasowe i przestrzenne.
+
+Hodowla matek i trutni
+
+Stosuję zarówno wczesną hodowlę matek i trutni (pierwsze matki są gotowe już pod koniec kwietnia), jak i późną (sierpień i wrzesień), a także wieczorne krycie, które można stosować jedynie w określonej części roku.
+
+Trutnie odgrywają w moim systemie kluczową rolę. Nie są obecne w ulu wyłącznie w celu przekazywania genów – ich obecność ma znacznie większe znaczenie. W moich rodzinach hodowlanych plastry trutowe stanowią nawet 1/3 gniazda. Utrzymuję rodziny trutniowe w sile do 10 korpusów (NN).
+
+W naturze nie każdy truteń jest zdolny do zapłodnienia matki. Do krycia dochodzi zazwyczaj tylko w przypadku fizycznie zdatnych trutni, które przeszły naturalny proces selekcji. W inseminacji tego procesu nie ma, dlatego staram się wysyłać do przestrzeni wyłącznie trutnie wyselekcjonowane pod kątem zdolności do krycia i odpowiedniej ilości nasienia.
+
+Selekcja krewniacza i „szczepienia”
+
+Chociaż czasami korzystam z hodowli krewniaczej (brat × siostra), robię to bardzo ostrożnie. Hodowla krewniacza jest niezbędnym narzędziem w hodowli, ale, jak powiedział Brat Adam: „Hodowla krewniacza jest drogą do piekła, ale czasami nie możemy się bez niej obejść.”
+
+Wykorzystuję także metodę, którą nazwałem „szczepieniem” rodzin pszczelich, oraz selekcję markerową. To nic nowego – szczepienie jest wynalazkiem natury, a nie ludzi. Markerowa selekcja jest kluczowa dla hodowli pszczół odpornych na choroby. Bez niej rozpoczęcie jakiejkolwiek hodowli byłoby niemożliwe.
+
+Mechanizmy naturalne i biotechniczne
+
+Pszczoły w naturze korzystają z dwóch podstawowych mechanizmów:
+	1.	Rozcieńczanie populacji patogenów – np. przez rojenie, usuwanie zainfekowanych plastrów.
+	2.	Koncentracja patogenów i ich eliminacja – np. VSH (usuwanie zainfekowanego czerwiu), grooming.
+
+Inne mechanizmy, takie jak zachowania behawioralne, są uzupełniające i zależą od strategii przetrwania danej rodziny pszczelej, jej genetyki oraz procesu hodowli. Obecni pszczelarze często skupiają się na tych właściwościach, które odpowiadają za zaledwie 20% zdrowia rodziny pszczelej, pomijając kluczowe 80%, które wynikają z podstawowych mechanizmów rozcieńczania i koncentracji patogenów.
+
+Filozofia pszczelarstwa
+
+Metoda zarządzania rodzinami pszczelimi musi opierać się na zasadach selekcji naturalnej, a nie wyłącznie na naszych życzeniach. Jednak skupienie się wyłącznie na selekcji i hodowli to podejście niepełne. Kluczem jest odpowiednia metoda zarządzania, która uwzględnia wszystkie aspekty życia pszczół, środowisko i rolę pszczelarza.
+
+Zadaniem pszczelarza jest harmonizacja środowiska, pszczół, ula i metody prowadzenia pasieki.
+
+Praktyczne podejście
+
+W mojej praktyce ograniczam interwencje do 2–3 w roku, co pozwala pszczołom funkcjonować w warunkach zbliżonych do naturalnych. Pszczoły traktuję z szacunkiem i wdzięcznością, uznając je za część bogactwa przyrody, a nie narzędzie produkcyjne.
+
+Sezony pszczelarskie
+
+„Dla mnie sezon pszczelarski to kwiecień, maj, czerwiec i zima” – to moje powiedzenie, które podkreśla istotę pracy w tych kluczowych miesiącach. Reszta to czas obserwacji i wdzięczności za to, co pszczoły oferują.
+
+== Mój skrócony rok pszczelarski wygląda tak:
+
+Zima:
+	1.	Rozpoczyna się 1 sierpnia – przygotowanie rodzin hodowlanych i trutowych na następny rok.
+	2.	Akceptacja strat zimowych już na tym etapie.
+	3.	Utrzymanie rodzin trutowych na potrzeby późnej hodowli.
+	4.	Późna hodowla matek.
+	5.	Wykorzystanie matek.
+	6.	Wymiana matek i rewitalizacja rodzin pszczelich (wrzesień, październik).
+	7.	Uzupełnianie zapasów w odkładach, zazwyczaj gotowymi zasobami.
+	8.	Zbiór nadmiarowego miodu.
+	9.	Testy na wrażliwość na różne patogeny, obserwacje przy wylotkach.
+	10.	„Szczepienie” rodzin pszczelich.
+	11.	Zabezpieczenie rodzin przed ptakami i gryzoniami, zapewnienie spokoju na stanowisku.
+	12.	Sadzenie roślin pyłkodajnych (np. wierzby).
+	13.	Kontrola zimowa stanowisk („dzięcioły i niedźwiedzie nigdy nie śpią”).
+
+Wiosna:
+	14.	Przygotowanie hodowli trutni i matek.
+	15.	Zbiór nadmiarowych zapasów miodowych pozostawionych na zimę.
+	16.	Hodowla matek.
+	17.	Sadzenie roślin i drzew pyłkodajnych.
+	18.	Rozszerzanie przestrzeni w rodzinach pszczelich, jeśli nie miały jej odpowiedniej już przed zimą.
+	19.	Rozszerzanie w dół całymi nadstawkami z plastrami (2 plastry czerwiu w środku, reszta to ramki na wolną zabudowę).
+	20.	Hodowla matek, tworzenie sztucznych rojów i odkładów.
+	21.	Brak zamiany korpusów w rodzinach produkcyjnych, zamiast tego stosowanie metody przesuwania. Żadne namnażanie Varroa destructor podczas rozszerzania lub uzupełniania zapasów.
+	22.	Wykorzystanie matek.
+	23.	Tworzenie odkładów lub sztucznych rojów w razie potrzeby.
+	24.	Zbiór nadmiarowego miodu najwyższej jakości.
+	25.	Testy i obserwacje przy wylotkach.
+
+Lato:
+	26.	Przygotowanie do późnej hodowli matek.
+	27.	Uzupełnianie zapasów w rodzinach produkcyjnych w niekorzystnym roku (do końca lipca).
+	28.	Wyznaczenie i utworzenie „kombajnów” do przetwarzania zapasów dla odkładów.
+	29.	Przygotowanie rodzin na zimę (przestrzeń, wylotki, otwory wentylacyjne).
+	30.	Obserwacje, testy, eksperymenty, notatki, analizy – nieodłączna część każdej wizyty na pasiece.
+	31.	Przy manipulacjach ściśle przestrzegam naturalnej architektury plastra z uwzględnieniem docelowej przestrzeni. Plaster jest „szkieletem” rodziny pszczelej.
+	32.	Rodziny produkcyjne wymagają 2–3 interwencji rocznie.
+	33.	Każda interwencja powinna obejmować działania, które mogą być potrzebne rodzinie w przyszłości.
+	34.	Kluczowe jest długoterminowe podejście do pszczelarstwa.
+	35.	Przy każdej interwencji zadaję sobie pytanie: jak to wygląda w naturze i co naśladuję swoimi działaniami?
+	36.	Testy i obserwacje.
+	37.	Wszystko opiera się na zasadzie równowagi, ponieważ natura zawsze dąży do jej zachowania.
+	38.	W swojej metodzie staram się naśladować naturalny cykl życia rodzin pszczelich.
+	39.	Uwzględniam strategie przetrwania różnych linii pszczół, które hoduję – to kluczowe dla mojego podejścia.
+
+=== Podsumowanie
+
+Pszczoły nie są jednolitym materiałem, jak często myślą pszczelarze. Różnią się od siebie rodziny, linie, szczepy, rasy i gatunki. Ignorowanie tego jest, moim zdaniem, największym błędem, jaki możemy popełnić wobec pszczół.
+
+Powyższe wnioski to rezultat moich 58 lat praktyki pszczelarskiej. Nie są to wyczytane informacje ani kompilacje z prac innych autorów. Nie narzucam nikomu swoich doświadczeń, ale być może komuś się przydadzą.
+
+Leoš Dvorský
+Mladá Boleslav, 15 sierpnia 2020 r.
+
