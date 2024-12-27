@@ -38,14 +38,14 @@ Rysunek nr 2. Stan po rozszerzeniu o korpus nad miodową komorę
 
 Rodzina pszczela składa zapasy w korpusie nad miodową komorą, co pozwala w ten sposób uzyskać miód odmianowy. Przez pewien czas zapasy trafiają również w dół do gniazda czerwiowego (i wokół niego), które w ten sposób jest przesuwane w dół w kierunku głównego wylotka. Otwór wentylacyjny w miodowej komorze oraz w korpusach znajdujących się nad nią pozostaje zamknięty, podobnie jak otwór w co najmniej jednym korpusie poniżej miodowej komory. W ten sposób można również wpływać na wielkość gniazda czerwiowego (szybciej się zmniejsza) i na zapasy bezpośrednio w nim.
 
-=== Reakcja rodziny pszczelej na rozszerzenie podczas pożytku
+== Reakcja rodziny pszczelej na rozszerzenie podczas pożytku
 
 image:images/Medna_komora_03.png[]
 Rysunek nr 3. Sytuacja podczas trwającego pożytku
 
 Gniazdo czerwiowe jest przesuwane bliżej wylotka. Jeśli nad nim znajduje się blok złożony z dwóch korpusów zapasowych, możliwe jest dalsze rozszerzanie nad nimi, używając wywirowanych plastrów, bez ryzyka, że matka zacznie je z powrotem zaczerwiać. Jeśli w miodowej komorze znajdują się zapasy cukrowe, należy wyraźnie oznaczyć korpus, aby uniknąć zanieczyszczenia miodu cukrem! Zasklepionych zapasów pszczoły zazwyczaj nie przenoszą.
 
-=== Reakcja rodziny pszczelej, gdy pożytku brak
+== Reakcja rodziny pszczelej, gdy pożytku brak
 
 Całkowicie inna sytuacja występuje, gdy pożytku brak, a my rozszerzamy ul nad miodową komorą.
 Rodzina pszczela z miodową komorą gospodaruje i reaguje zgodnie ze swoim genetycznym wyposażeniem. Przykłady tego zachowania przedstawiają poniższe rysunki nr 4–6, które ilustrują naturalne reakcje pszczół.
@@ -113,7 +113,7 @@ Rysunek nr 11. Przy słabszym pożytku
 Część czerwiu znajduje się w dodanym korpusie. Po wygryzieniu się czerwiu pszczoły wypełniają uwolnione miejsce nektarem.
 Czasami zdarza się to, gdy w nowym korpusie znajdują się wywirowane plastry. Jeśli nowy korpus jest budowlany, pszczoły zakładają tam nowe plastry, które są czasami zakładane przez matkę w środkowej części.
 
-=== Reakcja rodziny pszczelej, gdy pożytku brak
+== Reakcja rodziny pszczelej, gdy pożytku brak
 
 image:images/Medna_komora_12.png[]
 Rysunek nr 12. Gniazdo czerwiowe przesuwa się aż do miodowej komory
