@@ -154,7 +154,3 @@ Autor: Ing. Leoš Dvorský
 Legenda:
 image:images/Vysvetlivky.png[]
 
-== Zródło
-
-
-Tłumaczenie: R.Styczynski
