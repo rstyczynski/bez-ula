@@ -1,6 +1,10 @@
 = Jeszcze o miodowej komorze
 
-Jeszcze o miodowej komorze
+Autor: Leoš Dvorský
+Zródło: https://www.vcelarskeforum.cz/tema-Kouzla-s-mednou-komorou
+Tłumaczenie: R.Styczynski z pomocą ChatGPT
+ 
+== Wtęp 
 
 Kiedy w czasopiśmie MV opublikowano mój artykuł dotyczący wykorzystania miodowej komory w pielęgnacji rodzin pszczelich, nie spodziewałem się, jak duże zainteresowanie wzbudzi on wśród pszczelarzy rozpoczynających hodowlę pszczół w ulach wielokorpusowych. Aby uniknąć konieczności odpowiadania na liczne pytania, postanowiłem dokładniej przedstawić zastosowanie miodowej komory za pomocą rysunków.
 
@@ -149,3 +153,8 @@ Autor: Ing. Leoš Dvorský
 
 Legenda:
 image:images/Vysvetlivky.png[]
+
+== Zródło
+
+
+Tłumaczenie: R.Styczynski
