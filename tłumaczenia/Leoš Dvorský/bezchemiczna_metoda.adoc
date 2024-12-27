@@ -12,6 +12,7 @@ Na początku korzystaliśmy z ula typu BUDEČÁK. Był to wówczas najbardziej r
 Szczęśliwym przypadkiem było to, że w 1967 roku poznałem referenta ds. hodowli w młodobolesławskim związku pszczelarskim, pana Bedřicha Šráma. Był to wybitny hodowca matek pszczelich, niestrudzony innowator i pasjonat badań pszczelarskich.
 
 == Ul jako narzędzie zmiany metody prowadzenia pasieki
+
 Po różnych wcześniejszych próbach w 1970 roku wykonałem ul niskokorpusowy o zewnętrznych wymiarach ramki 39x16 cm. Ul był cienkościenny, z grubością ścian wynoszącą 22 mm, a korpus mieścił 10 ramek. Później zbudowałem taki sam ul z 5-centymetrowego polistyrenu, o kwadratowej podstawie (na 11 ramek), a także cienkościenną wersję tego kwadratowego korpusu. Po kilku latach testów zdecydowałem się na cienkościenne ule.
 
 Pierwszy 10-ramkowy ul w 1978 roku wyposażyłem w szybki i zamontowałem w nim termometry. W tym samym roku wykonałem serię 22 niskokorpusowych uli o kwadratowej podstawie i zacząłem na nich pszczelarzyć. Wersję 10-ramkową również zachowałem. W tamtym czasie liczba rodzin pszczelich wynosiła ponad 30. Ule typu BUDEČÁK zostały całkowicie wycofane z użytku.
@@ -19,6 +20,7 @@ Pierwszy 10-ramkowy ul w 1978 roku wyposażyłem w szybki i zamontowałem w nim 
 Obecnie prowadzę pasiekę w ulach typu Langstroth 2/3 o grubości ścian 22 mm, mieszczących 10 lub 9 ramek. Używam także otworów wylotowych (oczek), które znacznie ułatwiają hodowlę matek i wpływanie na rozwój rodzin pszczelich, bez konieczności stresowania ich rozbieraniem. Oczka te znacząco wspomagają również zastosowanie biotechnicznych metod, na przykład w zwalczaniu warrozy i CCD, bez potrzeby rozbierania ula. Szczegóły mojego przejścia na ule korpusowe można znaleźć tutaj:http://dvorsky.leos.sweb.cz/CLANKY/od_budecaku.htm
 
 == Konstrukcja ramek
+
 Przez długi czas uważałem, że ramki to najgorsze, co ludzie mogli wymyślić dla pszczół. Jednak po przeprowadzeniu pomiarów temperatury w ulu zrozumiałem, że wcale tak być nie musi. Kluczem jest postrzeganie ramki jako integralnej części całej przestrzeni ula, a nie jedynie narzędzia dla człowieka do wykonywania zabiegów, które według niego są potrzebne, lecz niekoniecznie służą pszczołom.
 
 Nawet w ulach z ramkami można stworzyć warunki zbliżone do tych, jakie rodzina pszczela ma w naturalnym środowisku. Oznacza to umożliwienie pszczołom zabudowy szczelin między korpusami oraz budowy wokół górnej i dolnej beleczki ramki. W ten sposób powstaje praktycznie jednolity plaster z galeriami (wolnymi przejściami), podobnie jak w naturze.
@@ -51,7 +53,7 @@ W latach osiemdziesiątych XX wieku zacząłem dostrzegać, że pszczoły potrze
 
 Od tego czasu do dziś moja potrzeba cukru jest minimalna i używam go głównie do budowania odkładów oraz nowych rodzin pszczelich. Rodziny produkcyjne żyją praktycznie wyłącznie na miodzie. Moje pszczoły są zatem przez cały rok gotowe na zimę, ponieważ zawsze mają wystarczającą ilość naturalnego pokarmu – miodu. Oczywiście zdarzają się lata, w których trzeba dokarmiać również rodziny produkcyjne, ale dla mnie kluczowe jest to, że żadna rodzina w ciągu roku nie głoduje.
 
-Zimowa konsumpcja rodzin pszczelich zimujących na miodzie jest o 25–30% niższa. Szczegóły tego podejścia można znaleźć tutaj.
+Zimowa konsumpcja rodzin pszczelich zimujących na miodzie jest o 25–30% niższa. Szczegóły tego podejścia można znaleźć tutaj: http://dvorsky.leos.sweb.cz/CLANKY/kouzla_s_MK.htm
 
 Tym, którzy nie zostawiają swoim rodzinom pszczelim wystarczających zapasów miodu, polecam spróbować karmić swoje zwierzęta domowe wyłącznie kiszonymi ogórkami. Wtedy przekonają się, jakie efekty osiągną i jakie będą miały ich zwierzęta potomstwo. To brak zrozumienia i chciwość prowadzą pszczelarzy do obecnych metod gospodarki pasiecznej, które opierają się na głodzeniu i stresowaniu rodzin pszczelich. Dlatego określam je mianem metod przemysłowo-apokaliptycznych.
 
