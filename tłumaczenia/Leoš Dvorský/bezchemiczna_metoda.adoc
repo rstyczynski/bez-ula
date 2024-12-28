@@ -88,9 +88,10 @@ Uważam, że uproszczone postrzeganie “warrozy” prowadzi do coraz większego
 Z moich badań wynika, że u większości pszczół w padłych rodzinach można znaleźć grzyba Nosema apis, ale nie zawsze roztocza Varroa destructor. Mimo to warrozę uważa się za głównego sprawcę. Moja metoda diagnozowania na podstawie uszkodzeń pszczół jest kompleksowa i pozwala dokładnie ocenić przyczyny problemu, w tym różne warianty CCD.
 
 Rozróżniłem warrozę na trzy typy:
-	•	Typ A: Klasyczna warroza – problemy związane bezpośrednio z roztoczem.
-	•	Typ B: Warroza powiązana z CCD – czynniki prowadzące do osłabienia odporności pszczół i nasilenia szkód wywoływanych przez warrozę.
-	•	Typ C (CCD): Colony Collapse Disorder – wieloczynnikowy problem, gdzie warroza jest jedynie jednym z elementów.
+
+* Typ A: Klasyczna warroza – problemy związane bezpośrednio z roztoczem.
+* Typ B: Warroza powiązana z CCD – czynniki prowadzące do osłabienia odporności pszczół i nasilenia szkód wywoływanych przez warrozę.
+* Typ C (CCD): Colony Collapse Disorder – wieloczynnikowy problem, gdzie warroza jest jedynie jednym z elementów.
 
 Dzięki tej klasyfikacji oraz diagnostyce mogę nie tylko rozpoznać problem, ale również podejmować odpowiednie działania zapobiegawcze i naprawcze, w tym biotechniczne oraz hodowlane. Kluczowe jest jednak zrozumienie, że CCD to problem wielowątkowy, którego nie da się sprowadzić tylko do obecności warrozy.
 
