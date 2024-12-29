@@ -1,6 +1,6 @@
 :toc: macro
 :toc-title: Spis treści
-:toclevels: 3
+:toclevels: 4
 
 = Zmień się w hodowcę pszczół odpornych na warrozę
 
@@ -55,7 +55,7 @@ W każdym przypadku ważne jest jednak monitorowanie poziomu roztoczy i podejmow
 
 == Porady dotyczące realizacji każdej opcji
 
-== 1.	Nie leczyć i pozwolić pszczołom samodzielnie rozwiązać problem
+=== 1.	Nie leczyć i pozwolić pszczołom samodzielnie rozwiązać problem
 
 Zalety:
 
@@ -73,7 +73,7 @@ Wady:
 
 Ponieważ ta opcja nie jest realna dla pszczelarzy w Wielkiej Brytanii, nie warto omawiać jej zbyt szczegółowo. Jedyny przypadek, w którym może działać, to sytuacja, gdy pszczelarz posiada kilkadziesiąt kolonii, a część z nich zostaje umieszczona w oddzielnych pasiekach i nie jest leczona. Każdą kolonię, która upadnie, należy usunąć i zastąpić, dzieląc najsilniejsze przetrwałe kolonie. Proces ten trwa do momentu, gdy roczna śmiertelność kolonii zrówna się z tą w koloniach leczonych. Ponieważ ta metoda leży między opcjami 1 i 3, jest omawiana w obu kontekstach.
 
-== 2. Zbieranie lub kupowanie odpornych pszczół
+=== 2. Zbieranie lub kupowanie odpornych pszczół
 
 Zalety:
 
@@ -94,7 +94,7 @@ Jest to dobrze ugruntowana, powszechna i prawdopodobnie najłatwiejsza metoda ro
 
 We wszystkich powyższych przykładach pszczelarze mieli dostęp do lokalnych, dobrze ugruntowanych dzikich kolonii. Wiosną 2010 roku przeprowadzono badanie dzikich kolonii w całej Anglii. Sugerowano, że głównym źródłem dzikich kolonii były zarządzane kolonie, co stanowi problem. W obszarach, gdzie dzikie kolonie przewyższają liczebnie kolonie zarządzane, stają się one odporne poprzez naturalną selekcję, jak miało to miejsce w wielu miejscach. Podobnie w regionach, gdzie zarządzane pszczoły są głównie odporne, dzikie kolonie również będą odporne. Sukces tej metody zależy od lokalizacji. Jedną z opcji jest zebranie dzikiego roju i poszukiwanie oznak odporności. Poziomy roztoczy powinny być monitorowane, a jeśli staną się wysokie, należy podjąć działania w celu zarządzania nimi.
 
-== Kupowanie odpornych pszczół
+==== Kupowanie odpornych pszczół
 
 Kupowanie lokalnych pszczół powinno być zawsze preferowaną opcją.
 
@@ -102,7 +102,7 @@ Obecnie w Wielkiej Brytanii można kupić pszczoły uznawane za „odporne”, a
 
 Jeśli kupisz odporne pszczoły i przeniesiesz je na obszar, gdzie otaczająca populacja pszczół nie jest odporna, musisz monitorować przyszłe pokolenia, aby upewnić się, że radzą sobie z roztoczami. Odporność na warrozę wydaje się być bardzo dziedziczna, ale większość pszczelarzy nie ma kontroli nad lokalną populacją trutni, które będą wpływać na geny przyszłych pokoleń.
 
-== 3. Stopniowe zmniejszanie leczenia
+=== 3. Stopniowe zmniejszanie leczenia
 
 Zalety:
 
@@ -151,17 +151,17 @@ Podsumowanie:
 
 Poniżej znajduje się seria przykładów napisanych przez pszczelarzy, opisujących, jak zaczęli zarządzać odpornymi pszczołami.
 
-== Szwecja
+=== Szwecja
 
 Erik Osterlund
 Erik jest główną siłą napędową w działaniach mających na celu rozwój pszczół miodnych odpornych na warrozę w Szwecji. Najnowsze informacje na temat sytuacji w Szwecji zostały przedstawione podczas ostatniego spotkania pszczelarzy nie stosujących leczenia, które odbyło się 9 listopada 2024 roku. Aby zobaczyć aktualizację, kliknij w poniższy link: kliknij tutaj: https://www.varroaresistant.uk/wp-content/uploads/go-x/u/13e9d47f-e711-4582-a1bc-ecb71aaba357/Swedish-conf-summary.pdf
 
-== Wielka Brytania
+=== Wielka Brytania
 
 Joe Ibberston
 Joe nie leczy swoich pszczół od 14 lat i prowadzi badania nad dzikimi koloniami na posiadłości Broughton Estate. Joe napisał szczegółowy artykuł, poparty danymi, który został opublikowany w magazynie Bee Craft w październiku 2024 roku. Aby przeczytać pełny artykuł, kliknij w poniższy link: kliknij tutaj: https://www.varroaresistant.uk/wp-content/uploads/go-x/u/9c8c9a64-c59d-4edc-9fbe-e9e76100860a/Joe-BeeCraft-Article-Version-3.pdf
 
-== Przykłady pszczelarzy z Walii
+=== Walia
 
 Clive i Shân Hudson (Lleyn & Eifionydd BKA)
 
@@ -194,7 +194,7 @@ Rozmnażam rodziny, które dobrze sobie radzą, radzą sobie z warrozą, mają n
 Sprzedaję miód oraz odkłady bez leczenia na miejscu.
 Kontakt: John E Owen – eifionow@gmail.com.
 
-== Przykłady pszczelarzy z Anglii
+=== Anglia
 
 Rhona Toft (Foragers Bee & Honey Co, Worcestershire)
 
@@ -255,7 +255,7 @@ Od początku obserwacji w 2011 roku, 23 kolonie przetrwały co najmniej dwie zim
 
 Więcej szczegółów: Kliknij tutaj: https://www.varroaresistant.uk/wp-content/uploads/go-x/u/8cd06fbf-6fc9-4210-a23c-e009bd67f0ad/Broadstone-Bees-case-study-2024.pdf
 
-== Norwegia
+=== Norwegia
 
 Dr. Melissa Oddie – Norweskie Stowarzyszenie Pszczelarzy
 
