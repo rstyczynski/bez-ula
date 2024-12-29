@@ -1,5 +1,4 @@
 :toc: macro
-:toc-title: Spis treści
 :toclevels: 4
 
 = Zmień się w hodowcę pszczół odpornych na warrozę
@@ -7,12 +6,11 @@
 Autor: www.varroaresistant.uk
 Zródło: https://www.varroaresistant.uk/advice/
 Tłumaczenie: R.Styczynski z pomocą ChatGPT
- 
-
-toc::[]
-
 
 Uwaga: Porady mogą ulegać zmianie, ale poniższe wskazówki opierają się na najnowszych wynikach badań naukowych i doświadczeniach pszczelarzy.
+
+== Spis treści
+toc::[]
 
 == Historia odporności na warrozę
 
