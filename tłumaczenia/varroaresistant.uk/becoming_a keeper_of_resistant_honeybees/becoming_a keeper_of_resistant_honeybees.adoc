@@ -41,8 +41,8 @@ Dla pszczelarzy, którzy nie mają dostępu do odpornych dzikich lub zarządzany
 
 Obecne podstawowe zalecenie to zmniejszenie intensywności leczenia poprzez:
 
-* Zredukowanie liczby zabiegów o połowę w stosunku do tego, co obecnie stosujesz.
-* Przejście na mniej intensywne metody leczenia, np. zastąpienie leczenia kwasem szczawiowym posypywaniem cukrem pudrem, lub zmiana leczenia rocznego na półroczne.
+- Zredukowanie liczby zabiegów o połowę w stosunku do tego, co obecnie stosujesz.
+- Przejście na mniej intensywne metody leczenia, np. zastąpienie leczenia kwasem szczawiowym posypywaniem cukrem pudrem, lub zmiana leczenia rocznego na półroczne.
 
 W każdym przypadku ważne jest jednak monitorowanie poziomu roztoczy i podejmowanie działań (leczenie lub usunięcie kolonii) w przypadku wykrycia wysokiego poziomu roztoczy.
 
@@ -51,29 +51,29 @@ W każdym przypadku ważne jest jednak monitorowanie poziomu roztoczy i podejmow
 == 1.	Nie leczyć i pozwolić pszczołom samodzielnie rozwiązać problem
 
 Zalety:
-* Łatwe
-* Wystarczy czekać
-* Naśladuje to, co dzieje się (lub dzieje się obecnie) w naszych dzikich koloniach
-* Może się zdarzyć przypadkowo
+- Łatwe
+- Wystarczy czekać
+- Naśladuje to, co dzieje się (lub dzieje się obecnie) w naszych dzikich koloniach
+- Może się zdarzyć przypadkowo
 
 Wady:
-* Musi być stosowane na dużą skalę
-* Potencjalnie lata wysokich strat rodzin pszczelich
-* Mało prawdopodobne, aby działało w Wielkiej Brytanii
-* Całkowicie nieodpowiednie dla jakichkolwiek operacji komercyjnych
+- Musi być stosowane na dużą skalę
+- Potencjalnie lata wysokich strat rodzin pszczelich
+- Mało prawdopodobne, aby działało w Wielkiej Brytanii
+- Całkowicie nieodpowiednie dla jakichkolwiek operacji komercyjnych
 
 Ponieważ ta opcja nie jest realna dla pszczelarzy w Wielkiej Brytanii, nie warto omawiać jej zbyt szczegółowo. Jedyny przypadek, w którym może działać, to sytuacja, gdy pszczelarz posiada kilkadziesiąt kolonii, a część z nich zostaje umieszczona w oddzielnych pasiekach i nie jest leczona. Każdą kolonię, która upadnie, należy usunąć i zastąpić, dzieląc najsilniejsze przetrwałe kolonie. Proces ten trwa do momentu, gdy roczna śmiertelność kolonii zrówna się z tą w koloniach leczonych. Ponieważ ta metoda leży między opcjami 1 i 3, jest omawiana w obu kontekstach.
 
 == 2. Zbieranie lub kupowanie odpornych pszczół
 
 Zalety:
-* Brak czasu oczekiwania.
-* Darmowe, jeśli zbiera się dziki rój lub otrzymuje się odporne pszczoły lub matkę.
+- Brak czasu oczekiwania.
+- Darmowe, jeśli zbiera się dziki rój lub otrzymuje się odporne pszczoły lub matkę.
 
 Wady:
-* Brak wiarygodnego sposobu na stwierdzenie, czy dzika kolonia jest odporna.
-* Obecnie brak dostawców ustabilizowanych odpornych pszczół w Wielkiej Brytanii (oczekuje się, że to się zmieni).
-* Koszt, jeśli pszczoły lub matki są kupowane.
+- Brak wiarygodnego sposobu na stwierdzenie, czy dzika kolonia jest odporna.
+- Obecnie brak dostawców ustabilizowanych odpornych pszczół w Wielkiej Brytanii (oczekuje się, że to się zmieni).
+- Koszt, jeśli pszczoły lub matki są kupowane.
 
 Zbieranie odpornych pszczół
 
@@ -94,13 +94,13 @@ Jeśli kupisz odporne pszczoły i przeniesiesz je na obszar, gdzie otaczająca p
 == 3. Stopniowe zmniejszanie leczenia
 
 Zalety:
-* Używasz swoich własnych rodzin pszczelich.
-* Możesz dostosować proces – uczynić go prostym lub bardziej złożonym, w zależności od swoich preferencji.
-* Redukujesz koszty i czas poświęcony na leczenie.
+- Używasz swoich własnych rodzin pszczelich.
+- Możesz dostosować proces – uczynić go prostym lub bardziej złożonym, w zależności od swoich preferencji.
+- Redukujesz koszty i czas poświęcony na leczenie.
 
 Wady:
-* Proces trwa kilka lat.
-* Wymaga zwiększonego monitorowania roztoczy.
+- Proces trwa kilka lat.
+- Wymaga zwiększonego monitorowania roztoczy.
 
 Badania wykazały, że każda populacja pszczół, niezależnie od rasy, środowiska, typu ula itp., może stać się odporna. Wszystko, czego Twoje pszczoły potrzebują, to CZAS, aby nauczyć się kojarzyć unikalny zapach zainfekowanej komórki z obecnością Varroa. Tak jak wszystkie wyuczone zachowania, robotnice potrzebują czasu, aby dokonać tego skojarzenia. Wiemy od francuskiego zespołu badawczego, że wszystkie pszczoły są w stanie wykryć unikalne związki chemiczne produkowane w zainfekowanych komórkach, ale tylko pszczoły odporne otwierają komórki, aby je zbadać.
 
@@ -108,25 +108,25 @@ Jeśli wybierasz to podejście, Twoją rolą jako pszczelarza jest zmniejszenie 
 
 Ogólne wskazówki:
 1.	Zredukuj leczenie:
-* Jeśli stosujesz kwas szczawiowy lub mrówkowy, przejdź na mniej efektywne biotechniczne metody, takie jak:
-* Posypywanie cukrem pudrem.
-* Izolacja matki.
-* Usuwanie trutowiny.
-* Alternatywnie zmniejsz liczbę zabiegów chemicznych o połowę.
+- Jeśli stosujesz kwas szczawiowy lub mrówkowy, przejdź na mniej efektywne biotechniczne metody, takie jak:
+- Posypywanie cukrem pudrem.
+- Izolacja matki.
+- Usuwanie trutowiny.
+- Alternatywnie zmniejsz liczbę zabiegów chemicznych o połowę.
 
 2.	Zrezygnuj z leczenia zimowego:
-* Zabiegi zimowe nie mają wpływu na przeżywalność zimowli, ponieważ jest ona zdeterminowana przez stopień inwazji czerwia przeznaczonego na pszczoły zimowe jesienią poprzedniego roku.
+- Zabiegi zimowe nie mają wpływu na przeżywalność zimowli, ponieważ jest ona zdeterminowana przez stopień inwazji czerwia przeznaczonego na pszczoły zimowe jesienią poprzedniego roku.
 
 3.	Zmniejsz częstotliwość zabiegów:
-* Jeśli leczysz raz w roku, przejdź na leczenie co dwa lata.
+- Jeśli leczysz raz w roku, przejdź na leczenie co dwa lata.
 
 4.	Monitoruj poziomy roztoczy:
-* Szczególnie przed produkcją czerwia zimowego pod koniec sierpnia i lecz tylko w razie potrzeby.
+- Szczególnie przed produkcją czerwia zimowego pod koniec sierpnia i lecz tylko w razie potrzeby.
 
 Podsumowanie:
-* Podwój liczbę kontroli Varroa.
-* Zredukuj liczbę zabiegów Varroa o połowę.
-* Zarządzaj rodzinami, które mają wysokie poziomy roztoczy.
+- Podwój liczbę kontroli Varroa.
+- Zredukuj liczbę zabiegów Varroa o połowę.
+- Zarządzaj rodzinami, które mają wysokie poziomy roztoczy.
 
 == Przykłady pszczelarzy
 
