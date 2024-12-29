@@ -51,12 +51,14 @@ W każdym przypadku ważne jest jednak monitorowanie poziomu roztoczy i podejmow
 == 1.	Nie leczyć i pozwolić pszczołom samodzielnie rozwiązać problem
 
 Zalety:
+
 - Łatwe
 - Wystarczy czekać
 - Naśladuje to, co dzieje się (lub dzieje się obecnie) w naszych dzikich koloniach
 - Może się zdarzyć przypadkowo
 
 Wady:
+
 - Musi być stosowane na dużą skalę
 - Potencjalnie lata wysokich strat rodzin pszczelich
 - Mało prawdopodobne, aby działało w Wielkiej Brytanii
@@ -67,10 +69,12 @@ Ponieważ ta opcja nie jest realna dla pszczelarzy w Wielkiej Brytanii, nie wart
 == 2. Zbieranie lub kupowanie odpornych pszczół
 
 Zalety:
+
 - Brak czasu oczekiwania.
 - Darmowe, jeśli zbiera się dziki rój lub otrzymuje się odporne pszczoły lub matkę.
 
 Wady:
+
 - Brak wiarygodnego sposobu na stwierdzenie, czy dzika kolonia jest odporna.
 - Obecnie brak dostawców ustabilizowanych odpornych pszczół w Wielkiej Brytanii (oczekuje się, że to się zmieni).
 - Koszt, jeśli pszczoły lub matki są kupowane.
@@ -83,7 +87,7 @@ Jest to dobrze ugruntowana, powszechna i prawdopodobnie najłatwiejsza metoda ro
 
 We wszystkich powyższych przykładach pszczelarze mieli dostęp do lokalnych, dobrze ugruntowanych dzikich kolonii. Wiosną 2010 roku przeprowadzono badanie dzikich kolonii w całej Anglii. Sugerowano, że głównym źródłem dzikich kolonii były zarządzane kolonie, co stanowi problem. W obszarach, gdzie dzikie kolonie przewyższają liczebnie kolonie zarządzane, stają się one odporne poprzez naturalną selekcję, jak miało to miejsce w wielu miejscach. Podobnie w regionach, gdzie zarządzane pszczoły są głównie odporne, dzikie kolonie również będą odporne. Sukces tej metody zależy od lokalizacji. Jedną z opcji jest zebranie dzikiego roju i poszukiwanie oznak odporności. Poziomy roztoczy powinny być monitorowane, a jeśli staną się wysokie, należy podjąć działania w celu zarządzania nimi.
 
-Kupowanie odpornych pszczół
+== Kupowanie odpornych pszczół
 
 Kupowanie lokalnych pszczół powinno być zawsze preferowaną opcją.
 
@@ -94,11 +98,13 @@ Jeśli kupisz odporne pszczoły i przeniesiesz je na obszar, gdzie otaczająca p
 == 3. Stopniowe zmniejszanie leczenia
 
 Zalety:
+
 - Używasz swoich własnych rodzin pszczelich.
 - Możesz dostosować proces – uczynić go prostym lub bardziej złożonym, w zależności od swoich preferencji.
 - Redukujesz koszty i czas poświęcony na leczenie.
 
 Wady:
+
 - Proces trwa kilka lat.
 - Wymaga zwiększonego monitorowania roztoczy.
 
@@ -107,7 +113,9 @@ Badania wykazały, że każda populacja pszczół, niezależnie od rasy, środow
 Jeśli wybierasz to podejście, Twoją rolą jako pszczelarza jest zmniejszenie liczby zabiegów w taki sposób, aby pozostawić wystarczającą liczbę roztoczy, aby pszczoły mogły się uczyć, ale nie na tyle, aby wpłynąć na zdrowie kolonii. Jak osiągniesz ten cel, zależy od wielu czynników, takich jak liczba rodzin, czas zabiegów i ich rodzaj.
 
 Ogólne wskazówki:
+
 1.	Zredukuj leczenie:
+
 - Jeśli stosujesz kwas szczawiowy lub mrówkowy, przejdź na mniej efektywne biotechniczne metody, takie jak:
 - Posypywanie cukrem pudrem.
 - Izolacja matki.
@@ -115,15 +123,19 @@ Ogólne wskazówki:
 - Alternatywnie zmniejsz liczbę zabiegów chemicznych o połowę.
 
 2.	Zrezygnuj z leczenia zimowego:
+
 - Zabiegi zimowe nie mają wpływu na przeżywalność zimowli, ponieważ jest ona zdeterminowana przez stopień inwazji czerwia przeznaczonego na pszczoły zimowe jesienią poprzedniego roku.
 
 3.	Zmniejsz częstotliwość zabiegów:
+
 - Jeśli leczysz raz w roku, przejdź na leczenie co dwa lata.
 
 4.	Monitoruj poziomy roztoczy:
+
 - Szczególnie przed produkcją czerwia zimowego pod koniec sierpnia i lecz tylko w razie potrzeby.
 
 Podsumowanie:
+
 - Podwój liczbę kontroli Varroa.
 - Zredukuj liczbę zabiegów Varroa o połowę.
 - Zarządzaj rodzinami, które mają wysokie poziomy roztoczy.
