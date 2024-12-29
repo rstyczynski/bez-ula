@@ -1,0 +1,1126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN"
+    "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=UTF-8" />
+<meta name="generator" content="AsciiDoc 10.2.1" />
+<title>Zmień się w hodowcę pszczół odpornych na warrozę</title>
+<style type="text/css">
+/* Shared CSS for AsciiDoc xhtml11 and html5 backends */
+
+/* Default font. */
+body {
+  font-family: Georgia,serif;
+}
+
+/* Title font. */
+h1, h2, h3, h4, h5, h6,
+div.title, caption.title,
+thead, p.table.header,
+#toctitle,
+#author, #revnumber, #revdate, #revremark,
+#footer {
+  font-family: Arial,Helvetica,sans-serif;
+}
+
+body {
+  margin: 1em 5% 1em 5%;
+}
+
+a {
+  color: blue;
+  text-decoration: underline;
+}
+a:visited {
+  color: fuchsia;
+}
+
+em {
+  font-style: italic;
+  color: navy;
+}
+
+strong {
+  font-weight: bold;
+  color: #083194;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #527bbd;
+  margin-top: 1.2em;
+  margin-bottom: 0.5em;
+  line-height: 1.3;
+}
+
+h1, h2, h3 {
+  border-bottom: 2px solid silver;
+}
+h2 {
+  padding-top: 0.5em;
+}
+h3 {
+  float: left;
+}
+h3 + * {
+  clear: left;
+}
+h5 {
+  font-size: 1.0em;
+}
+
+div.sectionbody {
+  margin-left: 0;
+}
+
+hr {
+  border: 1px solid silver;
+}
+
+p {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+}
+
+ul, ol, li > p {
+  margin-top: 0;
+}
+ul > li     { color: #aaa; }
+ul > li > * { color: black; }
+
+.monospaced, code, pre {
+  font-family: "Courier New", Courier, monospace;
+  font-size: inherit;
+  color: navy;
+  padding: 0;
+  margin: 0;
+}
+pre {
+  white-space: pre-wrap;
+}
+
+#author {
+  color: #527bbd;
+  font-weight: bold;
+  font-size: 1.1em;
+}
+#email {
+}
+#revnumber, #revdate, #revremark {
+}
+
+#footer {
+  font-size: small;
+  border-top: 2px solid silver;
+  padding-top: 0.5em;
+  margin-top: 4.0em;
+}
+#footer-text {
+  float: left;
+  padding-bottom: 0.5em;
+}
+#footer-badges {
+  float: right;
+  padding-bottom: 0.5em;
+}
+
+#preamble {
+  margin-top: 1.5em;
+  margin-bottom: 1.5em;
+}
+div.imageblock, div.exampleblock, div.verseblock,
+div.quoteblock, div.literalblock, div.listingblock, div.sidebarblock,
+div.admonitionblock {
+  margin-top: 1.0em;
+  margin-bottom: 1.5em;
+}
+div.admonitionblock {
+  margin-top: 2.0em;
+  margin-bottom: 2.0em;
+  margin-right: 10%;
+  color: #606060;
+}
+
+div.content { /* Block element content. */
+  padding: 0;
+}
+
+/* Block element titles. */
+div.title, caption.title {
+  color: #527bbd;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 1.0em;
+  margin-bottom: 0.5em;
+}
+div.title + * {
+  margin-top: 0;
+}
+
+td div.title:first-child {
+  margin-top: 0.0em;
+}
+div.content div.title:first-child {
+  margin-top: 0.0em;
+}
+div.content + div.title {
+  margin-top: 0.0em;
+}
+
+div.sidebarblock > div.content {
+  background: #ffffee;
+  border: 1px solid #dddddd;
+  border-left: 4px solid #f0f0f0;
+  padding: 0.5em;
+}
+
+div.listingblock > div.content {
+  border: 1px solid #dddddd;
+  border-left: 5px solid #f0f0f0;
+  background: #f8f8f8;
+  padding: 0.5em;
+}
+
+div.quoteblock, div.verseblock {
+  padding-left: 1.0em;
+  margin-left: 1.0em;
+  margin-right: 10%;
+  border-left: 5px solid #f0f0f0;
+  color: #888;
+}
+
+div.quoteblock > div.attribution {
+  padding-top: 0.5em;
+  text-align: right;
+}
+
+div.verseblock > pre.content {
+  font-family: inherit;
+  font-size: inherit;
+}
+div.verseblock > div.attribution {
+  padding-top: 0.75em;
+  text-align: left;
+}
+/* DEPRECATED: Pre version 8.2.7 verse style literal block. */
+div.verseblock + div.attribution {
+  text-align: left;
+}
+
+div.admonitionblock .icon {
+  vertical-align: top;
+  font-size: 1.1em;
+  font-weight: bold;
+  text-decoration: underline;
+  color: #527bbd;
+  padding-right: 0.5em;
+}
+div.admonitionblock td.content {
+  padding-left: 0.5em;
+  border-left: 3px solid #dddddd;
+}
+
+div.exampleblock > div.content {
+  border-left: 3px solid #dddddd;
+  padding-left: 0.5em;
+}
+
+div.imageblock div.content { padding-left: 0; }
+span.image img { border-style: none; vertical-align: text-bottom; }
+a.image:visited { color: white; }
+
+dl {
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
+}
+dt {
+  margin-top: 0.5em;
+  margin-bottom: 0;
+  font-style: normal;
+  color: navy;
+}
+dd > *:first-child {
+  margin-top: 0.1em;
+}
+
+ul, ol {
+    list-style-position: outside;
+}
+ol.arabic {
+  list-style-type: decimal;
+}
+ol.loweralpha {
+  list-style-type: lower-alpha;
+}
+ol.upperalpha {
+  list-style-type: upper-alpha;
+}
+ol.lowerroman {
+  list-style-type: lower-roman;
+}
+ol.upperroman {
+  list-style-type: upper-roman;
+}
+
+div.compact ul, div.compact ol,
+div.compact p, div.compact p,
+div.compact div, div.compact div {
+  margin-top: 0.1em;
+  margin-bottom: 0.1em;
+}
+
+tfoot {
+  font-weight: bold;
+}
+td > div.verse {
+  white-space: pre;
+}
+
+div.hdlist {
+  margin-top: 0.8em;
+  margin-bottom: 0.8em;
+}
+div.hdlist tr {
+  padding-bottom: 15px;
+}
+dt.hdlist1.strong, td.hdlist1.strong {
+  font-weight: bold;
+}
+td.hdlist1 {
+  vertical-align: top;
+  font-style: normal;
+  padding-right: 0.8em;
+  color: navy;
+}
+td.hdlist2 {
+  vertical-align: top;
+}
+div.hdlist.compact tr {
+  margin: 0;
+  padding-bottom: 0;
+}
+
+.comment {
+  background: yellow;
+}
+
+.footnote, .footnoteref {
+  font-size: 0.8em;
+}
+
+span.footnote, span.footnoteref {
+  vertical-align: super;
+}
+
+#footnotes {
+  margin: 20px 0 20px 0;
+  padding: 7px 0 0 0;
+}
+
+#footnotes div.footnote {
+  margin: 0 0 5px 0;
+}
+
+#footnotes hr {
+  border: none;
+  border-top: 1px solid silver;
+  height: 1px;
+  text-align: left;
+  margin-left: 0;
+  width: 20%;
+  min-width: 100px;
+}
+
+div.colist td {
+  padding-right: 0.5em;
+  padding-bottom: 0.3em;
+  vertical-align: top;
+}
+div.colist td img {
+  margin-top: 0.3em;
+}
+
+@media print {
+  #footer-badges { display: none; }
+}
+
+#toc {
+  margin-bottom: 2.5em;
+}
+
+#toctitle {
+  color: #527bbd;
+  font-size: 1.1em;
+  font-weight: bold;
+  margin-top: 1.0em;
+  margin-bottom: 0.1em;
+}
+
+div.toclevel0, div.toclevel1, div.toclevel2, div.toclevel3, div.toclevel4 {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+div.toclevel2 {
+  margin-left: 2em;
+  font-size: 0.9em;
+}
+div.toclevel3 {
+  margin-left: 4em;
+  font-size: 0.9em;
+}
+div.toclevel4 {
+  margin-left: 6em;
+  font-size: 0.9em;
+}
+
+span.aqua { color: aqua; }
+span.black { color: black; }
+span.blue { color: blue; }
+span.fuchsia { color: fuchsia; }
+span.gray { color: gray; }
+span.green { color: green; }
+span.lime { color: lime; }
+span.maroon { color: maroon; }
+span.navy { color: navy; }
+span.olive { color: olive; }
+span.purple { color: purple; }
+span.red { color: red; }
+span.silver { color: silver; }
+span.teal { color: teal; }
+span.white { color: white; }
+span.yellow { color: yellow; }
+
+span.aqua-background { background: aqua; }
+span.black-background { background: black; }
+span.blue-background { background: blue; }
+span.fuchsia-background { background: fuchsia; }
+span.gray-background { background: gray; }
+span.green-background { background: green; }
+span.lime-background { background: lime; }
+span.maroon-background { background: maroon; }
+span.navy-background { background: navy; }
+span.olive-background { background: olive; }
+span.purple-background { background: purple; }
+span.red-background { background: red; }
+span.silver-background { background: silver; }
+span.teal-background { background: teal; }
+span.white-background { background: white; }
+span.yellow-background { background: yellow; }
+
+span.big { font-size: 2em; }
+span.small { font-size: 0.6em; }
+
+span.underline { text-decoration: underline; }
+span.overline { text-decoration: overline; }
+span.line-through { text-decoration: line-through; }
+
+div.unbreakable { page-break-inside: avoid; }
+
+
+/*
+ * xhtml11 specific
+ *
+ * */
+
+div.tableblock {
+  margin-top: 1.0em;
+  margin-bottom: 1.5em;
+}
+div.tableblock > table {
+  border: 3px solid #527bbd;
+}
+thead, p.table.header {
+  font-weight: bold;
+  color: #527bbd;
+}
+p.table {
+  margin-top: 0;
+}
+/* Because the table frame attribute is overridden by CSS in most browsers. */
+div.tableblock > table[frame="void"] {
+  border-style: none;
+}
+div.tableblock > table[frame="hsides"] {
+  border-left-style: none;
+  border-right-style: none;
+}
+div.tableblock > table[frame="vsides"] {
+  border-top-style: none;
+  border-bottom-style: none;
+}
+
+
+/*
+ * html5 specific
+ *
+ * */
+
+table.tableblock {
+  margin-top: 1.0em;
+  margin-bottom: 1.5em;
+}
+thead, p.tableblock.header {
+  font-weight: bold;
+  color: #527bbd;
+}
+p.tableblock {
+  margin-top: 0;
+}
+table.tableblock {
+  border-width: 3px;
+  border-spacing: 0px;
+  border-style: solid;
+  border-color: #527bbd;
+  border-collapse: collapse;
+}
+th.tableblock, td.tableblock {
+  border-width: 1px;
+  padding: 4px;
+  border-style: solid;
+  border-color: #527bbd;
+}
+
+table.tableblock.frame-topbot {
+  border-left-style: hidden;
+  border-right-style: hidden;
+}
+table.tableblock.frame-sides {
+  border-top-style: hidden;
+  border-bottom-style: hidden;
+}
+table.tableblock.frame-none {
+  border-style: hidden;
+}
+
+th.tableblock.halign-left, td.tableblock.halign-left {
+  text-align: left;
+}
+th.tableblock.halign-center, td.tableblock.halign-center {
+  text-align: center;
+}
+th.tableblock.halign-right, td.tableblock.halign-right {
+  text-align: right;
+}
+
+th.tableblock.valign-top, td.tableblock.valign-top {
+  vertical-align: top;
+}
+th.tableblock.valign-middle, td.tableblock.valign-middle {
+  vertical-align: middle;
+}
+th.tableblock.valign-bottom, td.tableblock.valign-bottom {
+  vertical-align: bottom;
+}
+
+
+/*
+ * manpage specific
+ *
+ * */
+
+body.manpage h1 {
+  padding-top: 0.5em;
+  padding-bottom: 0.5em;
+  border-top: 2px solid silver;
+  border-bottom: 2px solid silver;
+}
+body.manpage h2 {
+  border-style: none;
+}
+body.manpage div.sectionbody {
+  margin-left: 3em;
+}
+
+@media print {
+  body.manpage div#toc { display: none; }
+}
+
+
+</style>
+<script type="text/javascript">
+/*<![CDATA[*/
+var asciidoc = {  // Namespace.
+
+/////////////////////////////////////////////////////////////////////
+// Table Of Contents generator
+/////////////////////////////////////////////////////////////////////
+
+/* Author: Mihai Bazon, September 2002
+ * http://students.infoiasi.ro/~mishoo
+ *
+ * Table Of Content generator
+ * Version: 0.4
+ *
+ * Feel free to use this script under the terms of the GNU General Public
+ * License, as long as you do not remove or alter this notice.
+ */
+
+ /* modified by Troy D. Hanson, September 2006. License: GPL */
+ /* modified by Stuart Rackham, 2006, 2009. License: GPL */
+
+// toclevels = 1..4.
+toc: function (toclevels) {
+
+  function getText(el) {
+    var text = "";
+    for (var i = el.firstChild; i != null; i = i.nextSibling) {
+      if (i.nodeType == 3 /* Node.TEXT_NODE */) // IE doesn't speak constants.
+        text += i.data;
+      else if (i.firstChild != null)
+        text += getText(i);
+    }
+    return text;
+  }
+
+  function TocEntry(el, text, toclevel) {
+    this.element = el;
+    this.text = text;
+    this.toclevel = toclevel;
+  }
+
+  function tocEntries(el, toclevels) {
+    var result = new Array;
+    var re = new RegExp('[hH]([1-'+(toclevels+1)+'])');
+    // Function that scans the DOM tree for header elements (the DOM2
+    // nodeIterator API would be a better technique but not supported by all
+    // browsers).
+    var iterate = function (el) {
+      for (var i = el.firstChild; i != null; i = i.nextSibling) {
+        if (i.nodeType == 1 /* Node.ELEMENT_NODE */) {
+          var mo = re.exec(i.tagName);
+          if (mo && (i.getAttribute("class") || i.getAttribute("className")) != "float") {
+            result[result.length] = new TocEntry(i, getText(i), mo[1]-1);
+          }
+          iterate(i);
+        }
+      }
+    }
+    iterate(el);
+    return result;
+  }
+
+  var toc = document.getElementById("toc");
+  if (!toc) {
+    return;
+  }
+
+  // Delete existing TOC entries in case we're reloading the TOC.
+  var tocEntriesToRemove = [];
+  var i;
+  for (i = 0; i < toc.childNodes.length; i++) {
+    var entry = toc.childNodes[i];
+    if (entry.nodeName.toLowerCase() == 'div'
+     && entry.getAttribute("class")
+     && entry.getAttribute("class").match(/^toclevel/))
+      tocEntriesToRemove.push(entry);
+  }
+  for (i = 0; i < tocEntriesToRemove.length; i++) {
+    toc.removeChild(tocEntriesToRemove[i]);
+  }
+
+  // Rebuild TOC entries.
+  var entries = tocEntries(document.getElementById("content"), toclevels);
+  for (var i = 0; i < entries.length; ++i) {
+    var entry = entries[i];
+    if (entry.element.id == "")
+      entry.element.id = "_toc_" + i;
+    var a = document.createElement("a");
+    a.href = "#" + entry.element.id;
+    a.appendChild(document.createTextNode(entry.text));
+    var div = document.createElement("div");
+    div.appendChild(a);
+    div.className = "toclevel" + entry.toclevel;
+    toc.appendChild(div);
+  }
+  if (entries.length == 0)
+    toc.parentNode.removeChild(toc);
+},
+
+
+/////////////////////////////////////////////////////////////////////
+// Footnotes generator
+/////////////////////////////////////////////////////////////////////
+
+/* Based on footnote generation code from:
+ * http://www.brandspankingnew.net/archive/2005/07/format_footnote.html
+ */
+
+footnotes: function () {
+  // Delete existing footnote entries in case we're reloading the footnodes.
+  var i;
+  var noteholder = document.getElementById("footnotes");
+  if (!noteholder) {
+    return;
+  }
+  var entriesToRemove = [];
+  for (i = 0; i < noteholder.childNodes.length; i++) {
+    var entry = noteholder.childNodes[i];
+    if (entry.nodeName.toLowerCase() == 'div' && entry.getAttribute("class") == "footnote")
+      entriesToRemove.push(entry);
+  }
+  for (i = 0; i < entriesToRemove.length; i++) {
+    noteholder.removeChild(entriesToRemove[i]);
+  }
+
+  // Rebuild footnote entries.
+  var cont = document.getElementById("content");
+  var spans = cont.getElementsByTagName("span");
+  var refs = {};
+  var n = 0;
+  for (i=0; i<spans.length; i++) {
+    if (spans[i].className == "footnote") {
+      n++;
+      var note = spans[i].getAttribute("data-note");
+      if (!note) {
+        // Use [\s\S] in place of . so multi-line matches work.
+        // Because JavaScript has no s (dotall) regex flag.
+        note = spans[i].innerHTML.match(/\s*\[([\s\S]*)]\s*/)[1];
+        spans[i].innerHTML =
+          "[<a id='_footnoteref_" + n + "' href='#_footnote_" + n +
+          "' title='View footnote' class='footnote'>" + n + "</a>]";
+        spans[i].setAttribute("data-note", note);
+      }
+      noteholder.innerHTML +=
+        "<div class='footnote' id='_footnote_" + n + "'>" +
+        "<a href='#_footnoteref_" + n + "' title='Return to text'>" +
+        n + "</a>. " + note + "</div>";
+      var id =spans[i].getAttribute("id");
+      if (id != null) refs["#"+id] = n;
+    }
+  }
+  if (n == 0)
+    noteholder.parentNode.removeChild(noteholder);
+  else {
+    // Process footnoterefs.
+    for (i=0; i<spans.length; i++) {
+      if (spans[i].className == "footnoteref") {
+        var href = spans[i].getElementsByTagName("a")[0].getAttribute("href");
+        href = href.match(/#.*/)[0];  // Because IE return full URL.
+        n = refs[href];
+        spans[i].innerHTML =
+          "[<a href='#_footnote_" + n +
+          "' title='View footnote' class='footnote'>" + n + "</a>]";
+      }
+    }
+  }
+},
+
+install: function(toclevels) {
+  var timerId;
+
+  function reinstall() {
+    asciidoc.footnotes();
+    if (toclevels) {
+      asciidoc.toc(toclevels);
+    }
+  }
+
+  function reinstallAndRemoveTimer() {
+    clearInterval(timerId);
+    reinstall();
+  }
+
+  timerId = setInterval(reinstall, 500);
+  if (document.addEventListener)
+    document.addEventListener("DOMContentLoaded", reinstallAndRemoveTimer, false);
+  else
+    window.onload = reinstallAndRemoveTimer;
+}
+
+}
+asciidoc.install();
+/*]]>*/
+</script>
+</head>
+<body class="article">
+<div id="header">
+<h1>Zmień się w hodowcę pszczół odpornych na warrozę</h1>
+</div>
+<div id="content">
+<div id="preamble">
+<div class="sectionbody">
+<div class="paragraph"><p>Autor: www.varroaresistant.uk
+Zródło: <a href="https://www.varroaresistant.uk/advice/">https://www.varroaresistant.uk/advice/</a>
+Tłumaczenie: R.Styczynski z pomocą ChatGPT</p></div>
+<div class="paragraph"><p>Uwaga: Porady mogą ulegać zmianie, ale poniższe wskazówki opierają się na najnowszych wynikach badań naukowych i doświadczeniach pszczelarzy.</p></div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_historia_odporności_na_warrozę">Historia odporności na warrozę</h2>
+<div class="sectionbody">
+<div class="paragraph"><p>Odporność na warrozę poza Azją po raz pierwszy pojawiła się u pszczół afrykanizowanych (Africanised Honeybees, AHB) w Brazylii. Początkowo uważano, że jest to związane z mniej zjadliwym typem Varroa, jednak później tę teorię obalono. AHB szybko rozprzestrzeniły się na północ przez Ameryki, docierając do Stanów Zjednoczonych. Badania przeprowadzone w Meksyku i Brazylii w latach 90. wykazały wysoki poziom niepłodności roztoczy w koloniach AHB, choć przyczyna tego zjawiska była nieznana. Inne sugerowane mechanizmy odporności, takie jak „grooming” (czyszczenie), zyskały popularność, ale cierpiały z powodu wad w projektach badań. Pomijano również fakt, że Varroa stosuje chemiczne naśladownictwo zapachu pszczół.</p></div>
+<div class="paragraph"><p>W koloniach Rona Hoskinsa sugerowano, że wirus zdeformowanych skrzydeł typu B (DWV-B) powoduje odporność przez mechanizm „superinfekcyjnego wykluczenia”, ale i ta teoria została obalona, ponieważ szeroko zakrojone badania wykazały obecność DWV-B w większości kolonii w Wielkiej Brytanii. Hodowcy pszczół próbowali selekcjonować pszczoły odporne na warrozę, ale większość prób zakończyła się niepowodzeniem, ponieważ mechanizm odporności wciąż pozostawał nieznany. Niektórzy hodowcy stosowali test nakłuwania szpilką lub test zamrażania czerwia, aby sprawdzić, które kolonie usuwają martwy czerw. Głównym błędem w tym podejściu było to, że Varroa nie zabija czerwia, więc chemiczne sygnały od martwego i żywego zainfekowanego czerwia są różne. Hodowcy wybierali pszczoły wykrywające martwy czerw, a nie roztocza Varroa.</p></div>
+<div class="paragraph"><p>W okresie poprzedzającym odkrycie związku między ponownym zasklepianiem komórek a odpornością w 2018 roku zaczęto badać populacje odpornych pszczół. W RPA i na Kubie decyzje o zaprzestaniu leczenia spowodowały pojawienie się odpornych populacji w ciągu 5–8 lat. W lesie Arnot w stanie Nowy Jork Tom Seeley monitorował powrót odpornych dzikich pszczół miodnych, a we Francji badano dwie inne populacje odporne. W Wielkiej Brytanii i innych krajach niewielka liczba pszczelarzy zarządzała swoimi koloniami bez leczenia, w tym Hudsonowie z północnej Walii oraz Ron Hoskins z grupy Swindon Honey Bee Conservation.</p></div>
+<div class="paragraph"><p>Po przełomowym badaniu z 2018 roku możemy teraz wyjaśnić, jak trzy cechy związane z odpornością są powiązane oraz jak tłumaczą odporność we wszystkich wspomnianych przypadkach. Liczba pszczelarzy w Wielkiej Brytanii, którzy nie stosują leczenia od ponad 6 lat, nadal rośnie. Jeśli chcesz do nich dołączyć i uniezależnić się od leczenia chemicznego, czytaj dalej.</p></div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_1_nie_leczyć_i_pozwolić_pszczołom_samodzielnie_rozwiązać_problem">1. Nie leczyć i pozwolić pszczołom samodzielnie rozwiązać problem</h2>
+<div class="sectionbody">
+<div class="paragraph"><p><span class="image">
+<img src="image1.jpg" alt="image1.jpg" />
+</span></p></div>
+<div class="paragraph"><p>To podejście może działać bardzo dobrze na dużą skalę, jak to miało miejsce na Kubie i w RPA, ale w Wielkiej Brytanii charakteryzuje się wysokim wskaźnikiem niepowodzeń, szczególnie w przypadku małej liczby uli. Istnieją w Wielkiej Brytanii przypadki, gdzie to podejście zadziałało – na przykład kolonie, które zostały opuszczone z powodu choroby pszczelarza lub innych przyczyn, a następnie odkryte jako wciąż żywe po kilku latach. Nie zawsze jednak można mieć pewność, czy jest to ta sama kolonia, czy też nowy rój, który osiedlił się w ulu.</p></div>
+<div class="paragraph"><p>Ron Hoskins ze Swindon Honeybee Conservation Group jest jedyną znaną osobą w Wielkiej Brytanii, która odniosła sukces stosując to podejście, mimo początkowych strat w koloniach. Jednak równocześnie dziesiątki, a nawet setki pszczelarzy, którzy zdecydowali się nie stosować leczenia, stracili wszystkie swoje kolonie.</p></div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_2_zbieranie_kupowanie_odpornych_pszczół">2. Zbieranie/kupowanie odpornych pszczół</h2>
+<div class="sectionbody">
+<div class="paragraph"><p><span class="image">
+<img src="image2.jpg" alt="image2.jpg" />
+</span></p></div>
+<div class="paragraph"><p>Zbieranie dzikich rojów odpornych pszczół to doskonały sposób na uzyskanie odpornych kolonii i jest często stosowane. Tak rozpoczęła działalność grupa z północnej Walii, a także wielu pszczelarzy na Hawajach. Kluczem jest dostęp do lokalizacji, gdzie dzikie kolonie przetrwały przez wiele lat. Należy jednak pamiętać, że nie wszystkie kolonie żyjące w drzewach lub budynkach przebywały tam przez długi czas.</p></div>
+<div class="paragraph"><p>Innym sposobem jest zakup rodziny pszczelej, odkładu lub matek od lokalnego pszczelarza, który posiada dobrze ugruntowaną populację odpornych pszczół, czyli takich, które nie były leczone przez 10 lub więcej lat. Chociaż obecnie nikt nie oferuje takiej usługi, mamy nadzieję, że w przyszłości sytuacja się zmieni.</p></div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_3_stopniowe_redukowanie_leczenia">3. Stopniowe redukowanie leczenia</h2>
+<div class="sectionbody">
+<div class="paragraph"><p><span class="image">
+<img src="image3.jpg" alt="image3.jpg" />
+</span></p></div>
+<div class="paragraph"><p>Dla pszczelarzy, którzy nie mają dostępu do odpornych dzikich lub zarządzanych kolonii, jest to najlepsza opcja. Jeden z członków naszej grupy (Steve Riley) skutecznie stosuje to podejście. Nie istnieje jednak uniwersalny sposób, który będzie odpowiedni dla każdego pszczelarza.</p></div>
+<div class="paragraph"><p>Obecne podstawowe zalecenie to zmniejszenie intensywności leczenia poprzez:</p></div>
+<div class="ulist"><ul>
+<li>
+<p>
+Zredukowanie liczby zabiegów o połowę w stosunku do tego, co obecnie stosujesz.
+</p>
+</li>
+<li>
+<p>
+Przejście na mniej intensywne metody leczenia, np. zastąpienie leczenia kwasem szczawiowym posypywaniem cukrem pudrem, lub zmiana leczenia rocznego na półroczne.
+</p>
+</li>
+</ul></div>
+<div class="paragraph"><p>W każdym przypadku ważne jest jednak monitorowanie poziomu roztoczy i podejmowanie działań (leczenie lub usunięcie kolonii) w przypadku wykrycia wysokiego poziomu roztoczy.</p></div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_porady_dotyczące_realizacji_każdej_opcji">Porady dotyczące realizacji każdej opcji</h2>
+<div class="sectionbody">
+</div>
+</div>
+<div class="sect1">
+<h2 id="_1_nie_leczyć_i_pozwolić_pszczołom_samodzielnie_rozwiązać_problem_2">1.   Nie leczyć i pozwolić pszczołom samodzielnie rozwiązać problem</h2>
+<div class="sectionbody">
+<div class="paragraph"><p>Zalety:</p></div>
+<div class="ulist"><ul>
+<li>
+<p>
+Łatwe
+</p>
+</li>
+<li>
+<p>
+Wystarczy czekać
+</p>
+</li>
+<li>
+<p>
+Naśladuje to, co dzieje się (lub dzieje się obecnie) w naszych dzikich koloniach
+</p>
+</li>
+<li>
+<p>
+Może się zdarzyć przypadkowo
+</p>
+</li>
+</ul></div>
+<div class="paragraph"><p>Wady:</p></div>
+<div class="ulist"><ul>
+<li>
+<p>
+Musi być stosowane na dużą skalę
+</p>
+</li>
+<li>
+<p>
+Potencjalnie lata wysokich strat rodzin pszczelich
+</p>
+</li>
+<li>
+<p>
+Mało prawdopodobne, aby działało w Wielkiej Brytanii
+</p>
+</li>
+<li>
+<p>
+Całkowicie nieodpowiednie dla jakichkolwiek operacji komercyjnych
+</p>
+</li>
+</ul></div>
+<div class="paragraph"><p>Ponieważ ta opcja nie jest realna dla pszczelarzy w Wielkiej Brytanii, nie warto omawiać jej zbyt szczegółowo. Jedyny przypadek, w którym może działać, to sytuacja, gdy pszczelarz posiada kilkadziesiąt kolonii, a część z nich zostaje umieszczona w oddzielnych pasiekach i nie jest leczona. Każdą kolonię, która upadnie, należy usunąć i zastąpić, dzieląc najsilniejsze przetrwałe kolonie. Proces ten trwa do momentu, gdy roczna śmiertelność kolonii zrówna się z tą w koloniach leczonych. Ponieważ ta metoda leży między opcjami 1 i 3, jest omawiana w obu kontekstach.</p></div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_2_zbieranie_lub_kupowanie_odpornych_pszczół">2. Zbieranie lub kupowanie odpornych pszczół</h2>
+<div class="sectionbody">
+<div class="paragraph"><p>Zalety:</p></div>
+<div class="ulist"><ul>
+<li>
+<p>
+Brak czasu oczekiwania.
+</p>
+</li>
+<li>
+<p>
+Darmowe, jeśli zbiera się dziki rój lub otrzymuje się odporne pszczoły lub matkę.
+</p>
+</li>
+</ul></div>
+<div class="paragraph"><p>Wady:</p></div>
+<div class="ulist"><ul>
+<li>
+<p>
+Brak wiarygodnego sposobu na stwierdzenie, czy dzika kolonia jest odporna.
+</p>
+</li>
+<li>
+<p>
+Obecnie brak dostawców ustabilizowanych odpornych pszczół w Wielkiej Brytanii (oczekuje się, że to się zmieni).
+</p>
+</li>
+<li>
+<p>
+Koszt, jeśli pszczoły lub matki są kupowane.
+</p>
+</li>
+</ul></div>
+<div class="paragraph"><p>Zbieranie odpornych pszczół</p></div>
+<div class="paragraph"><p>Kolonie żyjące na wolności mogą stanowić rezerwuar odpornych na warrozę pszczół, które można wykorzystać w pszczelarstwie.</p></div>
+<div class="paragraph"><p>Jest to dobrze ugruntowana, powszechna i prawdopodobnie najłatwiejsza metoda rozpoczęcia pszczelarstwa z odpornymi pszczołami. Stephen widział na Hawajach pszczelarza, który w ciągu kilku lat zwiększył liczbę uli z 5 do 200, rozmieszczając skrzynki na roje w pobliskich górskich lasach. Największa grupa pszczelarzy w Wielkiej Brytanii, którzy nie stosują leczenia, również zaczęła, gdy Clive i Shan Hudson zbierali roje z otaczającego lasu, a następnie dzielili kolonie i przekazywali je innym członkom lokalnego stowarzyszenia pszczelarskiego. Obecnie około 100 pszczelarzy na półwyspie Llyn w północnej Walii zarządza ponad 500 koloniami bez leczenia warrozy. Innym przykładem jest Joe Ibbertson, który badał i zbierał roje z długoletnich dzikich kolonii.</p></div>
+<div class="paragraph"><p>We wszystkich powyższych przykładach pszczelarze mieli dostęp do lokalnych, dobrze ugruntowanych dzikich kolonii. Wiosną 2010 roku przeprowadzono badanie dzikich kolonii w całej Anglii. Sugerowano, że głównym źródłem dzikich kolonii były zarządzane kolonie, co stanowi problem. W obszarach, gdzie dzikie kolonie przewyższają liczebnie kolonie zarządzane, stają się one odporne poprzez naturalną selekcję, jak miało to miejsce w wielu miejscach. Podobnie w regionach, gdzie zarządzane pszczoły są głównie odporne, dzikie kolonie również będą odporne. Sukces tej metody zależy od lokalizacji. Jedną z opcji jest zebranie dzikiego roju i poszukiwanie oznak odporności. Poziomy roztoczy powinny być monitorowane, a jeśli staną się wysokie, należy podjąć działania w celu zarządzania nimi.</p></div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_kupowanie_odpornych_pszczół">Kupowanie odpornych pszczół</h2>
+<div class="sectionbody">
+<div class="paragraph"><p>Kupowanie lokalnych pszczół powinno być zawsze preferowaną opcją.</p></div>
+<div class="paragraph"><p>Obecnie w Wielkiej Brytanii można kupić pszczoły uznawane za „odporne”, ale niepotwierdzone przez hodowców. Z dostępnych informacji wynika, że większość hodowców stosuje testy usuwania martwego czerwia lub reklamuje pszczoły selekcjonowane pod kątem VSH. Jak wspomniano wcześniej, testy zamrażania czerwia i nakłuwania nie wybierają pszczół odpornych na warrozę. Sprawdź źródło i dowiedz się, czy oferują wiarygodne dowody na to, że ich kolonie przetrwały co najmniej 6 lat bez leczenia przed zakupem. Uważamy, że to minimalny wymóg, aby można było twierdzić, że pszczoły są odporne. Szacujemy na podstawie ostatnich badań, że około 3 000 pszczelarzy w całej Anglii i Walii zarządza odpornymi koloniami przez 6 lat lub dłużej. Obecnie bardzo niewielu sprzedaje matki lub odkłady lokalnym pszczelarzom, ale mamy nadzieję, że w najbliższej przyszłości to się zmieni.</p></div>
+<div class="paragraph"><p>Jeśli kupisz odporne pszczoły i przeniesiesz je na obszar, gdzie otaczająca populacja pszczół nie jest odporna, musisz monitorować przyszłe pokolenia, aby upewnić się, że radzą sobie z roztoczami. Odporność na warrozę wydaje się być bardzo dziedziczna, ale większość pszczelarzy nie ma kontroli nad lokalną populacją trutni, które będą wpływać na geny przyszłych pokoleń.</p></div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_3_stopniowe_zmniejszanie_leczenia">3. Stopniowe zmniejszanie leczenia</h2>
+<div class="sectionbody">
+<div class="paragraph"><p>Zalety:</p></div>
+<div class="ulist"><ul>
+<li>
+<p>
+Używasz swoich własnych rodzin pszczelich.
+</p>
+</li>
+<li>
+<p>
+Możesz dostosować proces – uczynić go prostym lub bardziej złożonym, w zależności od swoich preferencji.
+</p>
+</li>
+<li>
+<p>
+Redukujesz koszty i czas poświęcony na leczenie.
+</p>
+</li>
+</ul></div>
+<div class="paragraph"><p>Wady:</p></div>
+<div class="ulist"><ul>
+<li>
+<p>
+Proces trwa kilka lat.
+</p>
+</li>
+<li>
+<p>
+Wymaga zwiększonego monitorowania roztoczy.
+</p>
+</li>
+</ul></div>
+<div class="paragraph"><p>Badania wykazały, że każda populacja pszczół, niezależnie od rasy, środowiska, typu ula itp., może stać się odporna. Wszystko, czego Twoje pszczoły potrzebują, to CZAS, aby nauczyć się kojarzyć unikalny zapach zainfekowanej komórki z obecnością Varroa. Tak jak wszystkie wyuczone zachowania, robotnice potrzebują czasu, aby dokonać tego skojarzenia. Wiemy od francuskiego zespołu badawczego, że wszystkie pszczoły są w stanie wykryć unikalne związki chemiczne produkowane w zainfekowanych komórkach, ale tylko pszczoły odporne otwierają komórki, aby je zbadać.</p></div>
+<div class="paragraph"><p>Jeśli wybierasz to podejście, Twoją rolą jako pszczelarza jest zmniejszenie liczby zabiegów w taki sposób, aby pozostawić wystarczającą liczbę roztoczy, aby pszczoły mogły się uczyć, ale nie na tyle, aby wpłynąć na zdrowie kolonii. Jak osiągniesz ten cel, zależy od wielu czynników, takich jak liczba rodzin, czas zabiegów i ich rodzaj.</p></div>
+<div class="paragraph"><p>Ogólne wskazówki:</p></div>
+<div class="olist arabic"><ol class="arabic">
+<li>
+<p>
+Zredukuj leczenie:
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+Jeśli stosujesz kwas szczawiowy lub mrówkowy, przejdź na mniej efektywne biotechniczne metody, takie jak:
+</p>
+</li>
+<li>
+<p>
+Posypywanie cukrem pudrem.
+</p>
+</li>
+<li>
+<p>
+Izolacja matki.
+</p>
+</li>
+<li>
+<p>
+Usuwanie trutowiny.
+</p>
+</li>
+<li>
+<p>
+Alternatywnie zmniejsz liczbę zabiegów chemicznych o połowę.
+</p>
+</li>
+</ul></div>
+</li>
+<li>
+<p>
+Zrezygnuj z leczenia zimowego:
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+Zabiegi zimowe nie mają wpływu na przeżywalność zimowli, ponieważ jest ona zdeterminowana przez stopień inwazji czerwia przeznaczonego na pszczoły zimowe jesienią poprzedniego roku.
+</p>
+</li>
+</ul></div>
+</li>
+<li>
+<p>
+Zmniejsz częstotliwość zabiegów:
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+Jeśli leczysz raz w roku, przejdź na leczenie co dwa lata.
+</p>
+</li>
+</ul></div>
+</li>
+<li>
+<p>
+Monitoruj poziomy roztoczy:
+</p>
+<div class="ulist"><ul>
+<li>
+<p>
+Szczególnie przed produkcją czerwia zimowego pod koniec sierpnia i lecz tylko w razie potrzeby.
+</p>
+</li>
+</ul></div>
+</li>
+</ol></div>
+<div class="paragraph"><p>Podsumowanie:</p></div>
+<div class="ulist"><ul>
+<li>
+<p>
+Podwój liczbę kontroli Varroa.
+</p>
+</li>
+<li>
+<p>
+Zredukuj liczbę zabiegów Varroa o połowę.
+</p>
+</li>
+<li>
+<p>
+Zarządzaj rodzinami, które mają wysokie poziomy roztoczy.
+</p>
+</li>
+</ul></div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_przykłady_pszczelarzy">Przykłady pszczelarzy</h2>
+<div class="sectionbody">
+<div class="paragraph"><p>Poniżej znajduje się seria przykładów napisanych przez pszczelarzy, opisujących, jak zaczęli zarządzać odpornymi pszczołami.</p></div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_szwecja">Szwecja</h2>
+<div class="sectionbody">
+<div class="paragraph"><p>Erik Osterlund
+Erik jest główną siłą napędową w działaniach mających na celu rozwój pszczół miodnych odpornych na warrozę w Szwecji. Najnowsze informacje na temat sytuacji w Szwecji zostały przedstawione podczas ostatniego spotkania pszczelarzy nie stosujących leczenia, które odbyło się 9 listopada 2024 roku. Aby zobaczyć aktualizację, kliknij w poniższy link: kliknij tutaj: <a href="https://www.varroaresistant.uk/wp-content/uploads/go-x/u/13e9d47f-e711-4582-a1bc-ecb71aaba357/Swedish-conf-summary.pdf">https://www.varroaresistant.uk/wp-content/uploads/go-x/u/13e9d47f-e711-4582-a1bc-ecb71aaba357/Swedish-conf-summary.pdf</a></p></div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_wielka_brytania">Wielka Brytania</h2>
+<div class="sectionbody">
+<div class="paragraph"><p>Joe Ibberston
+Joe nie leczy swoich pszczół od 14 lat i prowadzi badania nad dzikimi koloniami na posiadłości Broughton Estate. Joe napisał szczegółowy artykuł, poparty danymi, który został opublikowany w magazynie Bee Craft w październiku 2024 roku. Aby przeczytać pełny artykuł, kliknij w poniższy link: kliknij tutaj: <a href="https://www.varroaresistant.uk/wp-content/uploads/go-x/u/9c8c9a64-c59d-4edc-9fbe-e9e76100860a/Joe-BeeCraft-Article-Version-3.pdf">https://www.varroaresistant.uk/wp-content/uploads/go-x/u/9c8c9a64-c59d-4edc-9fbe-e9e76100860a/Joe-BeeCraft-Article-Version-3.pdf</a></p></div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_przykłady_pszczelarzy_z_walii">Przykłady pszczelarzy z Walii</h2>
+<div class="sectionbody">
+<div class="paragraph"><p>Clive i Shân Hudson (Lleyn &amp; Eifionydd BKA)</p></div>
+<div class="paragraph"><p>Mieszkamy w Snowdonii, w północno-zachodniej Walii, i jesteśmy entuzjastycznymi pszczelarzami od 1985 roku. Warrozę znaleźliśmy w naszych ulach w 1998 roku i stosowaliśmy leczenie chemiczne, dopóki nie zauważyliśmy dwóch rzeczy:
+        1.      Liczba roztoczy w naszych ulach zmniejszała się z roku na rok.
+        2.      Znaleźliśmy długowieczne kolonie w budynkach i drzewach, które przetrwały bez leczenia.</p></div>
+<div class="paragraph"><p>Na początku stosowaliśmy paski Bayvarol przez dziewięć sezonów, aż roztocza uodporniły się na chemikalia. Następnie zaczęliśmy używać 2 łyżeczek kryształów tymolu na szmatce umieszczonej na ramkach z czerwiem. W 2009 roku leczono tymolem niektóre ule, a inne pozostawiono bez leczenia. Nie zauważyliśmy różnicy między koloniami, więc od tego czasu nie stosujemy żadnego leczenia. Nadal widzimy warrozę w ulach, ale coraz rzadziej; nie stanowi ona problemu, a my cieszymy się pszczelarstwem tak samo jak przed pojawieniem się warrozy.</p></div>
+<div class="paragraph"><p>Jesteśmy członkami Lleyn &amp; Eifionydd BKA, gdzie większość członków nie stosuje środków przeciw warrozie. Więcej informacji o naszych doświadczeniach bez leczenia można znaleźć na naszej stronie: <a href="https://beemonitor.org">https://beemonitor.org</a>.</p></div>
+<div class="paragraph"><p>James McMullon (Lleyn &amp; Eifionydd BKA)</p></div>
+<div class="paragraph"><p>Zainteresowałem się pszczelarstwem i jako pierwszy krok dołączyłem do lokalnego stowarzyszenia Lleyn &amp; Eifionydd Beekeepers, uczestnicząc w moim pierwszym spotkaniu w październiku 2018 roku. W 2019 roku otrzymałem mentora, George’a Burgessa, który miał 50 lat doświadczenia. Spotykaliśmy się w pasiece stowarzyszenia na kilku sesjach szkoleniowych w sezonie, a także pomagałem mu w jego trzech pasiekach przy każdej okazji.</p></div>
+<div class="paragraph"><p>Zauważyłem od czasu do czasu pszczoły z wirusem zdeformowanych skrzydeł i kredowy czerw w słabszych rodzinach. Na szczęście w naszym regionie od ponad 10 lat nie stosuje się leczenia warrozy, a kolonie są w stanie same sobie z nią poradzić. Latem 2019 roku otrzymałem swoją pierwszą rodzinę jako odkład z pasieki stowarzyszenia, a drugą jako pełny ul od George’a. Dwie kolonie wyprodukowały około 15 funtów miodu w pierwszym roku i przetrwały zimę z syropem na jesień i ciastem cukrowym w styczniu/lutym 2020.</p></div>
+<div class="paragraph"><p>W sezonie 2020 podzieliłem jedną z kolonii, aby kontrolować rojenie (druga została odnowiona pod koniec roku), a także kupiłem dwie kolejne kolonie od lokalnego pszczelarza, który rezygnował. Wszystkie pięć rodzin przetrwało zimę. Nigdy nie leczyłem warrozy i nie wiem, jak to robić. Gdybym zauważył kolonię poważnie cierpiącą na wirus zdeformowanych skrzydeł, nie ratowałbym jej chemikaliami, tylko pozwoliłbym pszczołom samej sobie poradzić lub wyginąć.</p></div>
+<div class="paragraph"><p>W zeszłym roku miałem 14 uli w dwóch pasiekach (przejąłem pięć istniejących kolonii w drugiej pasiece) i wyprodukowałem około 400 funtów miodu. Zredukowałem liczbę kolonii do 10 na zimę. W połowie lutego 2023 wszystkie były wciąż aktywne.</p></div>
+<div class="paragraph"><p>John E Owen (Glamorgan do Haverfordwest)</p></div>
+<div class="paragraph"><p>Pszczoły hoduję od 50 lat i prowadzę ponad 80 rodzin w sześciu pasiekach od Vale of Glamorgan do Haverfordwest w Walii. Od 6 lat nie stosuję leczenia.</p></div>
+<div class="paragraph"><p>Zainspirowało mnie do tego spotkanie pasiekowe prowadzone przez Clive’a i Shân Hudson z Llyn &amp; Eifionydd Beekeepers w północno-zachodniej Walii oraz informacja, że pszczelarze w RPA nigdy nie rozpoczęli leczenia warrozy, a obecnie nie stanowi ona tam większego problemu. Monitorowanie warrozy i leczenie zajmowało mi tyle czasu i nie przynosiło efektów, że postanowiłem przestać. Przez pierwsze trzy lata straty zimowe wynosiły do 20%, ale teraz ustabilizowały się na poziomie około 10%. Większy problem stanowi dla mnie kredowy czerw w jednej z pasiek, prawdopodobnie z powodu pszczół sprowadzonych na ten teren.</p></div>
+<div class="paragraph"><p>Rozmnażam rodziny, które dobrze sobie radzą, radzą sobie z warrozą, mają niską skłonność do rojenia i są łagodne w obsłudze. Ważne dla mnie jest to, aby były to pszczoły rodzime lub bliskie rodzimym, dostosowane do walijskich warunków. Rodziny, które nie spełniają tych kryteriów, są przez mnie wymieniane na matki z odpowiednich linii. Używam głównie uli narodowych z pełnymi dennymi deskami, co pomaga w rozwoju czerwiu w chłodniejszych warunkach.</p></div>
+<div class="paragraph"><p>Sprzedaję miód oraz odkłady bez leczenia na miejscu.
+Kontakt: John E Owen – <a href="mailto:eifionow@gmail.com">eifionow@gmail.com</a>.</p></div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_przykłady_pszczelarzy_z_anglii">Przykłady pszczelarzy z Anglii</h2>
+<div class="sectionbody">
+<div class="paragraph"><p>Rhona Toft (Foragers Bee &amp; Honey Co, Worcestershire)</p></div>
+<div class="paragraph"><p>Mój mąż Richard i ja mieszkamy w południowej części Worcestershire i zaczęliśmy pszczelarstwo jako hobby w 2000 roku. Warroza była już dobrze zadomowiona w Wielkiej Brytanii, więc stosowaliśmy się do zaleceń i używaliśmy środków chemicznych do zwalczania Varroa. W tym czasie uczyłam ekologicznego ogrodnictwa i stosowanie chemii w ulach mi nie odpowiadało. Zaczęłam także zauważać dziko żyjące kolonie w budynkach i często byłam wzywana do zbierania rojów z takich miejsc. Jak te pszczoły przetrwały bez środków chemicznych?</p></div>
+<div class="paragraph"><p>W 2007 roku przestaliśmy stosować środki chemiczne i wszystkie nasze kolonie przetrwały pierwszą zimę. To przekonało mnie do pracy nad rozwojem odpornej populacji. Zwiększyliśmy monitorowanie i stosowaliśmy biotechniczne metody kontroli, takie jak posypywanie cukrem pudrem. Kolonie z dużą liczbą roztoczy były przeszczepiane na czyste ramki, a trutowina była usuwana. Kolonie z niską liczbą roztoczy były używane do hodowli matek i trutni.</p></div>
+<div class="paragraph"><p>Dziś rzadko monitorujemy roztocza i podejmujemy działania wobec Varroa. Regularnie obserwujemy odkrywanie komórek, kanibalizm poczwarek i wysoką częstotliwość ponownego zasklepiania czerwiu. W 2022 roku interweniowaliśmy tylko w przypadku jednej kolonii. Obecnie prowadzimy do 80 uli jako małą firmę: www.foragershoney.co.uk.</p></div>
+<div class="paragraph"><p>Steve Riley (Westerham Beekeepers)</p></div>
+<div class="paragraph"><p>Grupa siedmiu pszczelarzy z Westerham rozpoczęła w 2017 roku projekt poszukiwania pszczół odpornych na warrozę. „Zawsze czuliśmy się niekomfortowo stosując chemiczne środki w naszych ulach i coraz bardziej interesowało nas, dlaczego pszczoły miodne potrafią przetrwać bez interwencji pszczelarzy”. Aby przeczytać pełną historię, kliknij tutaj: <a href="https://westerham.kbka.org.uk">https://westerham.kbka.org.uk</a>.</p></div>
+<div class="paragraph"><p>Grace Evans (Lincolnshire)</p></div>
+<div class="paragraph"><p>Zebrałam rój z komina, gdzie pszczoły, według właściciela, mieszkały przez około 20 lat. Było to we wrześniu; nie leczyłam ich, a one przetrwały zimę bez problemu. Od tamtej pory hoduję pszczoły z tego źródła i obecnie mam ponad 100 uli. Nie leczyłam warrozy przez 10 lat. Nie muszę martwić się leczeniem, mogę zbierać miód, kiedy chcę, bez obawy o chemikalia w ulu. Zauważam czasami odkrywanie komórek i martwe poczwarki przy wejściu. Bardzo rzadko widuję Varroa. Jestem także członkiem Bee Farmers Association: Fenapiaries.com.</p></div>
+<div class="paragraph"><p>Joe Ibbertson – Historia bez leczenia</p></div>
+<div class="paragraph"><p>Nigdy nie leczyłem pszczół i to z kilku powodów. Mieszkając w Niemczech w pobliżu dużych obszarów naturalnych, jako młody człowiek obserwowałem dziko żyjące kolonie. Wiedziałem, że pszczoły muszą adaptować się do nowych szkodników i patogenów, inaczej nie przetrwałyby.</p></div>
+<div class="paragraph"><p>Moje podejście było proste – naśladować naturę. Zbierając roje z dzikich kolonii w moim rejonie, szybko zbudowałem populację. Straty w zimie zdarzały się, ale w ostatnich sześciu latach średnia wyniosła 12,6% (w porównaniu z 18,4% w moim regionie). Najbardziej fascynujące było obserwowanie takich zachowań jak odkrywanie komórek, usuwanie poczwarek, niska liczba roztoczy i ponowne zasklepianie czerwiu.</p></div>
+<div class="paragraph"><p>Moje pierwsze kolonie pochodziły z dzikiego gniazda w drzewie. Naturalna selekcja w dzikich koloniach oraz świadomość zdrowia moich kolonii pozwoliły mi osiągnąć sukces w pszczelarstwie.</p></div>
+<div class="paragraph"><p>Przykłady pszczelarzy z Anglii</p></div>
+<div class="paragraph"><p>Gareth Trehearn (Manchester)</p></div>
+<div class="paragraph"><p>Zacząłem swoją przygodę z pszczelarstwem, uczestnicząc w dwudniowym kursie zorganizowanym przez lokalne stowarzyszenie pszczelarskie. Skontaktowałem się z lokalnym pszczelarzem i zaoferowałem pomoc w zamian za naukę. Kilka miesięcy później, kiedy zacząłem pomagać w jego pasiece, nagle zachorował, a ja przejąłem opiekę nad jego ulami na resztę sezonu. To mnie wciągnęło!</p></div>
+<div class="paragraph"><p>Zdobyłem miejsce na nieużytkach, aby trzymać pszczoły, i postanowiłem pozyskać pszczoły przez zbieranie rojów zamiast kupowania odkładów. W krótkim czasie miałem cztery ule. Moim pierwotnym celem, by nie stosować chemii ani karmienia cukrem, było produkowanie czystego miodu dla rodziny. Obecnie mam 100 uli, które pochodzą z rojów lub podziałów moich najmocniejszych rodzin, i nie zauważam niepokojących strat ani chorób.</p></div>
+<div class="paragraph"><p>Strona internetowa: www.manchesterhoneycompany.com</p></div>
+<div class="paragraph"><p>Dr Fred J Ayres (Lune Valley, Lancashire)</p></div>
+<div class="paragraph"><p>Pszczelarstwem zainteresowałem się w 2000 roku, uczestnicząc w kilku kursach. W 2006 roku przestałem stosować środki chemiczne, widząc, że lokalne dzikie kolonie dobrze radzą sobie z Varroa bez leczenia. Utrzymuję 8 rodzin w mojej pasiece domowej, gdzie straty były minimalne.</p></div>
+<div class="paragraph"><p>W 2016 roku pomogłem założyć klub Lune Valley Beekeepers, promujący minimalną ingerencję i pszczelarstwo bez leczenia w dobrze izolowanych ulach. Klub liczy ponad 60 członków, z których żaden nie stosuje leczenia. Prowadzimy monitorowanie strat rodzin i promujemy lokalną hodowlę zdrowych pszczół.</p></div>
+<div class="paragraph"><p>Strona internetowa: www.lunevalleybeekeepers.co.uk</p></div>
+<div class="paragraph"><p>Patrick Laslett (Norfolk)</p></div>
+<div class="paragraph"><p>Prowadzę 40-50 rodzin w Norfolk bez leczenia. Jedna z moich pasiek nie była leczona od niemal 10 lat, a reszta od pięciu. W latach 90. zacząłem od chemicznych metod, ale z czasem zrezygnowałem z leczenia i skupiłem się na metodzie przeszczepiania czerwiu, aby kontrolować Varroa.</p></div>
+<div class="paragraph"><p>Od kilku lat zauważam „łysy czerw” w moich rodzinach i zaczynam wybierać pszczoły z takimi cechami. Zbieram i oceniam wszystkie roje, które mogą pochodzić zarówno od pszczół sąsiadów, jak i od dzikich kolonii.</p></div>
+<div class="paragraph"><p>Strona internetowa: www.miteout.co.uk
+Kanał YouTube: Honey Bees For Sale</p></div>
+<div class="paragraph"><p>Monica Barlow (Broadstone Bees, South Wales)</p></div>
+<div class="paragraph"><p>Prowadzę badania nad pszczołami w naturalnej pasiece od 2011 roku. Kolonie są dziko żyjące, ale ich gniazda są sztucznie stworzone. Badamy ich aktywność, przeżywalność i rojenie, starając się zrozumieć, czy odporne pszczoły mogą przetrwać w typowym krajobrazie Walii Południowej.</p></div>
+<div class="paragraph"><p>Od początku obserwacji w 2011 roku, 23 kolonie przetrwały co najmniej dwie zimy. Projekt potwierdza, że pszczoły miodne w Walii Południowej mogą przeżyć warrozę bez leczenia i dokarmiania.</p></div>
+<div class="paragraph"><p>Więcej szczegółów: Kliknij tutaj: <a href="https://www.varroaresistant.uk/wp-content/uploads/go-x/u/8cd06fbf-6fc9-4210-a23c-e009bd67f0ad/Broadstone-Bees-case-study-2024.pdf">https://www.varroaresistant.uk/wp-content/uploads/go-x/u/8cd06fbf-6fc9-4210-a23c-e009bd67f0ad/Broadstone-Bees-case-study-2024.pdf</a></p></div>
+</div>
+</div>
+<div class="sect1">
+<h2 id="_norwegia">Norwegia</h2>
+<div class="sectionbody">
+<div class="paragraph"><p>Dr. Melissa Oddie – Norweskie Stowarzyszenie Pszczelarzy</p></div>
+<div class="paragraph"><p>Dr Melissa Oddie jest pierwszą osobą, która powiązała ponowne zasklepianie czerwiu (recapping) z odpornością na Varroa. Odkrycie to stało się kluczowe dla zrozumienia mechanizmu odporności na roztocza. Jej osobista droga odkrywania i zrozumienia odporności na Varroa to fascynująca historia.</p></div>
+<div class="paragraph"><p>Kliknij tutaj, aby przeczytać pełną historię: <a href="https://www.varroaresistant.uk/wp-content/uploads/go-x/u/44485551-8c9f-4938-a9a9-5af503ecb4da/Oddie_2023_Breeding-Balance_Martinws.docx">https://www.varroaresistant.uk/wp-content/uploads/go-x/u/44485551-8c9f-4938-a9a9-5af503ecb4da/Oddie_2023_Breeding-Balance_Martinws.docx</a></p></div>
+</div>
+</div>
+</div>
+<div id="footnotes"><hr /></div>
+<div id="footer">
+<div id="footer-text">
+Last updated
+ 2024-12-29 12:41:02 CET
+</div>
+</div>
+</body>
+</html>
