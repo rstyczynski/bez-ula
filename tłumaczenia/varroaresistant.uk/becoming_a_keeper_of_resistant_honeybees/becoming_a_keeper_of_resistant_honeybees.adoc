@@ -1,10 +1,6 @@
-ifdef::env-github[]
-:tip-caption: :bulb:
-:note-caption: :information_source:
-:important-caption: :heavy_exclamation_mark:
-:caution-caption: :fire:
-:warning-caption: :warning:
-endif::[]
+:toc: macro
+:toc-title: Spis treści
+:toclevels: 3
 
 = Zmień się w hodowcę pszczół odpornych na warrozę
 
@@ -12,8 +8,6 @@ Autor: www.varroaresistant.uk
 Zródło: https://www.varroaresistant.uk/advice/
 Tłumaczenie: R.Styczynski z pomocą ChatGPT
  
-:toc:
-:toc-placement!:
 
 toc::[]
 
