@@ -40,6 +40,7 @@ image:image3.jpg[]
 Dla pszczelarzy, którzy nie mają dostępu do odpornych dzikich lub zarządzanych kolonii, jest to najlepsza opcja. Jeden z członków naszej grupy (Steve Riley) skutecznie stosuje to podejście. Nie istnieje jednak uniwersalny sposób, który będzie odpowiedni dla każdego pszczelarza.
 
 Obecne podstawowe zalecenie to zmniejszenie intensywności leczenia poprzez:
+
 * Zredukowanie liczby zabiegów o połowę w stosunku do tego, co obecnie stosujesz.
 * Przejście na mniej intensywne metody leczenia, np. zastąpienie leczenia kwasem szczawiowym posypywaniem cukrem pudrem, lub zmiana leczenia rocznego na półroczne.
 
@@ -66,13 +67,13 @@ Ponieważ ta opcja nie jest realna dla pszczelarzy w Wielkiej Brytanii, nie wart
 == 2. Zbieranie lub kupowanie odpornych pszczół
 
 Zalety:
-	•	Brak czasu oczekiwania.
-	•	Darmowe, jeśli zbiera się dziki rój lub otrzymuje się odporne pszczoły lub matkę.
+* Brak czasu oczekiwania.
+* Darmowe, jeśli zbiera się dziki rój lub otrzymuje się odporne pszczoły lub matkę.
 
 Wady:
-	•	Brak wiarygodnego sposobu na stwierdzenie, czy dzika kolonia jest odporna.
-	•	Obecnie brak dostawców ustabilizowanych odpornych pszczół w Wielkiej Brytanii (oczekuje się, że to się zmieni).
-	•	Koszt, jeśli pszczoły lub matki są kupowane.
+* Brak wiarygodnego sposobu na stwierdzenie, czy dzika kolonia jest odporna.
+* Obecnie brak dostawców ustabilizowanych odpornych pszczół w Wielkiej Brytanii (oczekuje się, że to się zmieni).
+* Koszt, jeśli pszczoły lub matki są kupowane.
 
 Zbieranie odpornych pszczół
 
@@ -93,47 +94,50 @@ Jeśli kupisz odporne pszczoły i przeniesiesz je na obszar, gdzie otaczająca p
 == 3. Stopniowe zmniejszanie leczenia
 
 Zalety:
-	•	Używasz swoich własnych rodzin pszczelich.
-	•	Możesz dostosować proces – uczynić go prostym lub bardziej złożonym, w zależności od swoich preferencji.
-	•	Redukujesz koszty i czas poświęcony na leczenie.
+* Używasz swoich własnych rodzin pszczelich.
+* Możesz dostosować proces – uczynić go prostym lub bardziej złożonym, w zależności od swoich preferencji.
+* Redukujesz koszty i czas poświęcony na leczenie.
 
 Wady:
-	•	Proces trwa kilka lat.
-	•	Wymaga zwiększonego monitorowania roztoczy.
+* Proces trwa kilka lat.
+* Wymaga zwiększonego monitorowania roztoczy.
 
 Badania wykazały, że każda populacja pszczół, niezależnie od rasy, środowiska, typu ula itp., może stać się odporna. Wszystko, czego Twoje pszczoły potrzebują, to CZAS, aby nauczyć się kojarzyć unikalny zapach zainfekowanej komórki z obecnością Varroa. Tak jak wszystkie wyuczone zachowania, robotnice potrzebują czasu, aby dokonać tego skojarzenia. Wiemy od francuskiego zespołu badawczego, że wszystkie pszczoły są w stanie wykryć unikalne związki chemiczne produkowane w zainfekowanych komórkach, ale tylko pszczoły odporne otwierają komórki, aby je zbadać.
 
 Jeśli wybierasz to podejście, Twoją rolą jako pszczelarza jest zmniejszenie liczby zabiegów w taki sposób, aby pozostawić wystarczającą liczbę roztoczy, aby pszczoły mogły się uczyć, ale nie na tyle, aby wpłynąć na zdrowie kolonii. Jak osiągniesz ten cel, zależy od wielu czynników, takich jak liczba rodzin, czas zabiegów i ich rodzaj.
 
 Ogólne wskazówki:
-	1.	Zredukuj leczenie:
-	•	Jeśli stosujesz kwas szczawiowy lub mrówkowy, przejdź na mniej efektywne biotechniczne metody, takie jak:
-	•	Posypywanie cukrem pudrem.
-	•	Izolacja matki.
-	•	Usuwanie trutowiny.
-	•	Alternatywnie zmniejsz liczbę zabiegów chemicznych o połowę.
-	2.	Zrezygnuj z leczenia zimowego:
-	•	Zabiegi zimowe nie mają wpływu na przeżywalność zimowli, ponieważ jest ona zdeterminowana przez stopień inwazji czerwia przeznaczonego na pszczoły zimowe jesienią poprzedniego roku.
-	3.	Zmniejsz częstotliwość zabiegów:
-	•	Jeśli leczysz raz w roku, przejdź na leczenie co dwa lata.
-	4.	Monitoruj poziomy roztoczy:
-	•	Szczególnie przed produkcją czerwia zimowego pod koniec sierpnia i lecz tylko w razie potrzeby.
+1.	Zredukuj leczenie:
+* Jeśli stosujesz kwas szczawiowy lub mrówkowy, przejdź na mniej efektywne biotechniczne metody, takie jak:
+* Posypywanie cukrem pudrem.
+* Izolacja matki.
+* Usuwanie trutowiny.
+* Alternatywnie zmniejsz liczbę zabiegów chemicznych o połowę.
+
+2.	Zrezygnuj z leczenia zimowego:
+* Zabiegi zimowe nie mają wpływu na przeżywalność zimowli, ponieważ jest ona zdeterminowana przez stopień inwazji czerwia przeznaczonego na pszczoły zimowe jesienią poprzedniego roku.
+
+3.	Zmniejsz częstotliwość zabiegów:
+* Jeśli leczysz raz w roku, przejdź na leczenie co dwa lata.
+
+4.	Monitoruj poziomy roztoczy:
+* Szczególnie przed produkcją czerwia zimowego pod koniec sierpnia i lecz tylko w razie potrzeby.
 
 Podsumowanie:
-	•	Podwój liczbę kontroli Varroa.
-	•	Zredukuj liczbę zabiegów Varroa o połowę.
-	•	Zarządzaj rodzinami, które mają wysokie poziomy roztoczy.
+* Podwój liczbę kontroli Varroa.
+* Zredukuj liczbę zabiegów Varroa o połowę.
+* Zarządzaj rodzinami, które mają wysokie poziomy roztoczy.
 
 == Przykłady pszczelarzy
 
 Poniżej znajduje się seria przykładów napisanych przez pszczelarzy, opisujących, jak zaczęli zarządzać odpornymi pszczołami.
 
-Szwecja
+== Szwecja
 
 Erik Osterlund
 Erik jest główną siłą napędową w działaniach mających na celu rozwój pszczół miodnych odpornych na warrozę w Szwecji. Najnowsze informacje na temat sytuacji w Szwecji zostały przedstawione podczas ostatniego spotkania pszczelarzy nie stosujących leczenia, które odbyło się 9 listopada 2024 roku. Aby zobaczyć aktualizację, kliknij w poniższy link: kliknij tutaj: https://www.varroaresistant.uk/wp-content/uploads/go-x/u/13e9d47f-e711-4582-a1bc-ecb71aaba357/Swedish-conf-summary.pdf
 
-Wielka Brytania
+== Wielka Brytania
 
 Joe Ibberston
 Joe nie leczy swoich pszczół od 14 lat i prowadzi badania nad dzikimi koloniami na posiadłości Broughton Estate. Joe napisał szczegółowy artykuł, poparty danymi, który został opublikowany w magazynie Bee Craft w październiku 2024 roku. Aby przeczytać pełny artykuł, kliknij w poniższy link: kliknij tutaj: https://www.varroaresistant.uk/wp-content/uploads/go-x/u/9c8c9a64-c59d-4edc-9fbe-e9e76100860a/Joe-BeeCraft-Article-Version-3.pdf
