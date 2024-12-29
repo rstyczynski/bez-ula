@@ -32,7 +32,7 @@ Po przełomowym badaniu z 2018 roku możemy teraz wyjaśnić, jak trzy cechy zwi
 
 == 1. Nie leczyć i pozwolić pszczołom samodzielnie rozwiązać problem
 
-image:image1.jpg[]
+image::image1.jpg[]
 
 To podejście może działać bardzo dobrze na dużą skalę, jak to miało miejsce na Kubie i w RPA, ale w Wielkiej Brytanii charakteryzuje się wysokim wskaźnikiem niepowodzeń, szczególnie w przypadku małej liczby uli. Istnieją w Wielkiej Brytanii przypadki, gdzie to podejście zadziałało – na przykład kolonie, które zostały opuszczone z powodu choroby pszczelarza lub innych przyczyn, a następnie odkryte jako wciąż żywe po kilku latach. Nie zawsze jednak można mieć pewność, czy jest to ta sama kolonia, czy też nowy rój, który osiedlił się w ulu.
 
@@ -40,7 +40,7 @@ Ron Hoskins ze Swindon Honeybee Conservation Group jest jedyną znaną osobą w 
 
 == 2. Zbieranie/kupowanie odpornych pszczół
 
-image:image2.jpg[]
+image::image2.jpg[]
 
 Zbieranie dzikich rojów odpornych pszczół to doskonały sposób na uzyskanie odpornych kolonii i jest często stosowane. Tak rozpoczęła działalność grupa z północnej Walii, a także wielu pszczelarzy na Hawajach. Kluczem jest dostęp do lokalizacji, gdzie dzikie kolonie przetrwały przez wiele lat. Należy jednak pamiętać, że nie wszystkie kolonie żyjące w drzewach lub budynkach przebywały tam przez długi czas.
 
@@ -48,7 +48,7 @@ Innym sposobem jest zakup rodziny pszczelej, odkładu lub matek od lokalnego psz
 
 == 3. Stopniowe redukowanie leczenia
 
-image:image3.jpg[]
+image::image3.jpg[]
 
 Dla pszczelarzy, którzy nie mają dostępu do odpornych dzikich lub zarządzanych kolonii, jest to najlepsza opcja. Jeden z członków naszej grupy (Steve Riley) skutecznie stosuje to podejście. Nie istnieje jednak uniwersalny sposób, który będzie odpowiedni dla każdego pszczelarza.
 
