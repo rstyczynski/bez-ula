@@ -40,7 +40,6 @@ image:image3.jpg[]
 Dla pszczelarzy, którzy nie mają dostępu do odpornych dzikich lub zarządzanych kolonii, jest to najlepsza opcja. Jeden z członków naszej grupy (Steve Riley) skutecznie stosuje to podejście. Nie istnieje jednak uniwersalny sposób, który będzie odpowiedni dla każdego pszczelarza.
 
 Obecne podstawowe zalecenie to zmniejszenie intensywności leczenia poprzez:
-
 * Zredukowanie liczby zabiegów o połowę w stosunku do tego, co obecnie stosujesz.
 * Przejście na mniej intensywne metody leczenia, np. zastąpienie leczenia kwasem szczawiowym posypywaniem cukrem pudrem, lub zmiana leczenia rocznego na półroczne.
 
