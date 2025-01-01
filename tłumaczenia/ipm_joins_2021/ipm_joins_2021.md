@@ -3,7 +3,7 @@
 Autorzy: Cameron J. Jack, James D. Ellis
 
 > [!NOTE]
-> Tłumaczenie z pomocą AI. Oryginał znajduje się [tutaj](https://academic.oup.com/jinsectscience/article/21/5/6/6372257)
+> Tłumaczenie z pomocą ChatGPT. Oryginał znajduje się [tutaj](https://academic.oup.com/jinsectscience/article/21/5/6/6372257)
 
 ## Abstrakt
 
