@@ -1,0 +1,64 @@
+= Kompleksowa metoda ochrona przed dręczem
+
+WORKING COPY! 
+
+== Walka z dręczem w Polsce
+
+Pszczelarstwo stosuje całą gamę technik zwalczania dręcza: 
+
+- chemię syntetyczną, 
+- kwasy organiczne,
+- metody mechaniczne, 
+- metody fizyczne, 
+- zioła, 
+- cukier puder
+
+jednocześnie stosując te metody nieco chaotycznie. Większość psczelarzy stosuje metody chemii syntetycznej, często stosując środki w sposób rutynowy i bezrefleksyjny. Od pewnego czasu widoczny jest trend stosowanie kwasów organicznych; część psczelarzy stosuje także pułapki połączone z izolacją matki.
+
+Pszczelarstwo stosuje także całą gamę technik oceny poziomu zainfekowania rodziny:
+
+- osyp,
+- metoda cukrowa,
+- metoda alkoholowa,
+- metoda CO2
+
+, nie ma jednak jednego miejsca opisującego ich stosowania. Nie spotkałem się z połączeniem decyzji o stosowaniu techniki zwalczania dręcza z oceną poziomu infekcji.
+
+W całej historii walki z pasożytem, dobór naturalny w celu wyhodowania odpornej na dręcza pszczoły jest w Polsce właściwie pomijany i tylko wąskie grono pasjonatów dba o ten obszar. 
+
+== Uporządkowanie 
+
+Agrotechnika posługuje się pojęciem Integrated Pest Management (IPM) definiując całościową metodę zarządzania szkodnikami. Metoda zrodziła się na potrzeby uprawy roślin, jednak można ją zastosować także do zwierząt, w szczególności do ochrony pszczół przed dręczem. XXX
+
+https://github.com/rstyczynski/bez-ula/blob/main/tłumaczenia/ipm_joins_2021/ipm_joins_2021.md
+
+== Kalendarz
+
+== Punkty decyzyjne w zwalczniu dręcza
+
+=== Izolacja matki
+
+Izolowanie matki na określony czas trwania rozwoju pszczelej larwy pozwala na wyeliminowanie czerwiu w rodzinie. W efekcie jedyny nowy czerw znajduje się w izolatorze, jeśli panują w nim sprzyjające warunki tzn. znajdują się w nim puste (najlepiej pczeczerwione) plastry oraz plastry z pokarmem. 
+
+W trybie tym izolator staje się de facto pułapkją na dręcza, ponieważ samice pajęczaka poszukując plastrów z odkrytum czerwiem muszą trafić do plastrów z izolatorze. Nie mają innego wyjścia, ponieważ w ulu nie ma innego czerwiu, a dla dręcza to jedyna droga do jego rozwoju.
+
+Aby spełnić rolę pułapki, plaster powinien znajdować się w izolatorze nie dłużej niż 10-20 dni, co jest okresem rozwoju pszczelej larwy. Dręcz ma maksymalnie 8-9 dni na wejście do komórki przed jej zasklepieniem, jednak z uwagi na rozłożenie w czasie czerwienia praktyczniej jest opóźnić moment zabrania plastra, tak aby jak najwięcej samic dręcza zostało zwabione do plastra pułapki. 
+
+[NOTE]
+====
+Przy prowadzeneiu pasieki zdalnie 20 dni przerwy wydaje się praktyczne z uwagi na możłiwośc rozłożenie prac w weekend. Zaczynamy pracę w sobotę aby zakończyć cykl w piątek wieczorem po trzech tygodniach.
+====
+
+Po tym okresie zaczerwiony plaster wyjmujemy aby dokończyć rozwój pszczoły w rodzinie leczniczej lub też poddać zniszczeniu. 
+
+==== Zniszczenie czerwiu
+Zniszczenie czerwiu uzasdnione jest gdy pasieka znajduje się w obszarze ze słabymi pożytkami. W tej sytuacji nowa pszczoła nie jest wskazana. 
+
+=== Wygryzienie się czerwiu
+
+Przy dbałości o rozwój pszczół w ulu leczniczym czerw doprowadzony jest do momentu wygryzienia się. Ul powinien znajdowac się w zamknięciu z dostępem psczół do pierzgi, miodu oraz wody. Rodzina lecznicza poddawana jest leczeniu.
+
+
+=== Zakończenie poyżytków
+
+
