@@ -68,7 +68,7 @@ Założyliśmy 288 kolonii pszczół miodnych na ośmiu certyfikowanych ekologic
 
 Rysunek 1. 
 
-image:images/figure1.png.webp[]
+image:https://raw.githubusercontent.com/rstyczynski/bez-ula/refs/heads/main/tłumaczenia/underwood_2023/images/figure1.png.webp[]
 
 Lokalizacje geograficzne i rozmieszczenie przestrzenne farm, pasiek i kolonii
 
@@ -102,7 +102,7 @@ Awaryjne zimowe karmienie w systemach organicznym i konwencjonalnym było zapewn
 
 Rysunek 2.
 
-image:images/figure2.png.webp[]
+image:https://raw.githubusercontent.com/rstyczynski/bez-ula/refs/heads/main/tłumaczenia/underwood_2023/images/figure2.png.webp[]
 
 Szczegóły wyposażenia i zastosowania zabiegów dla każdego systemu zarządzania
 
@@ -168,7 +168,7 @@ Wpływ systemu zarządzania na produkcję miodu różnił się w zależności od
 
 Rysunek 3.
 
-image:images/figure3.png.webp[]
+image:https://raw.githubusercontent.com/rstyczynski/bez-ula/refs/heads/main/tłumaczenia/underwood_2023/images/figure3.png.webp[]
 
 Podsumowanie wpływu systemu zarządzania na:
 
@@ -211,7 +211,7 @@ Wirus zdeformowanych skrzydeł (DWV) był pod wpływem systemu zarządzania (Tab
 
 ---
 Rysunek 4.
-image:images/figure4.png.webp[]
+image:https://raw.githubusercontent.com/rstyczynski/bez-ula/refs/heads/main/tłumaczenia/underwood_2023/images/figure4.png.webp[]
 
 Podsumowanie różnic w:
 
@@ -232,7 +232,7 @@ Ekspresja *vg* nie była jednak wpływana przez system zarządzania (Tabela 2, R
 
 Rysunek 5.
 
-image:images/figure5.png.webp[]
+image:https://raw.githubusercontent.com/rstyczynski/bez-ula/refs/heads/main/tłumaczenia/underwood_2023/images/figure5.png.webp[]
 
 Podsumowanie różnic w ekspresji genów:
 
@@ -259,7 +259,7 @@ Pomimo spójności głównych bezpośrednich efektów zarządzania na przeżywal
 
 Rysunek 6.
 
-image:images/figure6.png.webp[]
+image:https://raw.githubusercontent.com/rstyczynski/bez-ula/refs/heads/main/tłumaczenia/underwood_2023/images/figure6.png.webp[]
 
 Analiza ścieżkowa: Wpływ systemu zarządzania na biomarkery zdrowia i przeżywalność zimową kolonii pszczół miodnych
 
