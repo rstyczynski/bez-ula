@@ -37,6 +37,7 @@ W niniejszym badaniu zastosowano metodę Box-Behnken, wymagającą trzech poziom
 ==== Parametry eksperymentu
 
 Zmienne badawcze obejmowały:
+
 - **Zawartość wosku pszczelego (X1)**: 1% - 5%
 - **Czas mieszania (X2)**: 3 - 9 minut
 - **Prędkość mieszania (X3)**: 15 000 - 18 000 obr./min
