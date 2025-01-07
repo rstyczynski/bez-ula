@@ -1,0 +1,19 @@
+= arkusz XXX
+=if(miesiąc<=ten_miesiąc;if(miesiąc=ten_miesiąc;czerwienie_dziennie*30-osyp_dzienny*30-ramki_zabrane*wygryzień_dziennie;if(ten_miesiąc-miesiąc<długość_życia;czerwienie_dziennie*30-ramki_zabrane*wygryzień_dziennie;0));0)
+
+== ilości pszczół
+
+długość życia pszczoły:
+https://pasieka24.pl/index.php/pl-pl/pasieka-czasopismo-dla-pszczelarzy/75-pasieka-3-2006/781-dwa-pokolenia-pszczol-pszczoly-letnie-i-zimowe
+
+ilość pszczół:
+https://wzp-krakow.pl/powtorka-z-pszczelarskiego-abc-czesc-2/
+
+https://wzp-krakow.pl/powtorka-z-pszczelarskiego-abc-czesc-1/
+
+https://thewalrusandthehoneybee.com/crunching-numbers-to-stay-ahead-of-the-bees/
+
+
+ilość wygryzien:
+https://pasieka24.pl/index.php/pl-pl/pasieka-czasopismo-dla-pszczelarzy/88-pasieka-1-2005/959-liczba-komorek-w-plastrze-pszczelim-i-sposoby-jej-obliczenia
+

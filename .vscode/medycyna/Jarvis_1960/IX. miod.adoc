@@ -1,0 +1,357 @@
+:toc: macro
+:toc-title: 
+:toclevels: 4
+
+= Medycyna Ludowa
+
+Autor: D.C. Jarvis, 1960
+Zródło: https://biri.org/pdf/books/JARVIS-DC-Folk-Medicine-1960.pdf
+Tłumaczenie: R.Styczynski z pomocą ChatGPT
+
+== Spis treści
+toc::[]
+
+== Rozdział Dziewiąty: Przydatność Miodu
+
+=== Wprowadzenie
+
+Większość rzeczy, które robimy w życiu, wynika z nawyku. Dotyczy to również naszego sposobu odżywiania. Mamy wrodzony szacunek dla odżywczej mądrości pszczół, które wyruszają na pola, wybierając składniki do stworzenia doskonałego pożywienia. Pszczoły nie stosują nowoczesnych metod – dzięki niezawodnemu instynktowi potrafią ocenić jakość kwiatów, z których zbierają nektar. Gdy kwiaty nie spełniają ich standardów, po prostu szukają innych.
+
+Często można usłyszeć powiedzenie: „Musimy komuś zaufać – dlaczego nie pszczole?”. To zdanie jest bardziej prawdziwe niż poetyckie. Miód uzupełnia wszelkie braki, jakie mogą wystąpić w naszej codziennej diecie. Osoby świadome wartości odżywczych miodu są bardziej skłonne spożywać go regularnie niż te, które mają o nim niewielką wiedzę. Lekarz, który zapoznał się z tym, co miód może zrobić dla ludzkiego organizmu, z pewnością zaleci jego stosowanie przy układaniu diety pacjenta.
+
+=== Właściwości antybakteryjne miodu
+
+To nie jest teoria, lecz fakt: bakterie nie mogą przetrwać w obecności miodu, ponieważ jest on doskonałym źródłem potasu. Potas odbiera bakteriom wilgoć, która jest im niezbędna do życia.
+
+Dr W.G. Sackett z Colorado Agriculture College, bakteriolog, postanowił przetestować miód. Szczerze mówiąc, początkowo nie wierzył, że miód jest w stanie niszczyć bakterie chorobotwórcze. W swoim laboratorium umieścił różne drobnoustroje w czystym środowisku miodu i czekał. Wyniki go zaskoczyły. W ciągu kilku godzin, a maksymalnie kilku dni, wszystkie drobnoustroje zginęły. Na przykład bakterie wywołujące dur brzuszny zginęły w ciągu 48 godzin. Inne podobne bakterie, nazywane A i B typhosus, umierały po 24 godzinach. Mikroorganizmy znajdowane w odchodach i wodzie, przypominające pałeczki duru brzusznego, umierały w ciągu 5 godzin. Bakterie powodujące przewlekłe zapalenie płuc ginęły czwartego dnia.
+
+Podobne wyniki zaobserwowano dla bakterii związanych z różnymi schorzeniami, takimi jak zapalenie otrzewnej, zapalenie opłucnej i ropnie. Drobnoustroje wywołujące czerwonkę były niszczone w ciągu 10 godzin. Wszystkie te wyniki można przeczytać w Biuletynie nr 252 opublikowanym przez stację doświadczalną, gdzie dr Sackett przeprowadzał swoje badania.
+
+=== Potwierdzenie badań
+
+Dr Sackett nie był jedynym badaczem zajmującym się miodem. Jego eksperymenty zostały powtórzone i potwierdzone przez dr A.P. Sturtevanta, bakteriologa w Biurze Entomologii w Waszyngtonie, D.C., przez A.G. Lockheada z Wydziału Bakteriologii w Ottawie, Kanada, oraz przez wielu innych naukowców.
+
+=== Historia miodu
+
+Miód był używany przez człowieka od czasów, gdy mieszkał w jaskiniach. W pewnym momencie odkryto gniazdo pszczół, a ktoś ciekawy spróbował jego złocistej zawartości. Smak przypadł mu do gustu, więc podzielił się nim z rodziną. Kiedy i oni zachwycili się miodem, zaczął systematycznie poszukiwać miejsc, gdzie pszczoły magazynowały miód, i go zbierał.
+
+Przez wieki miód, wytwarzany przez pszczoły z nektarów kwiatowych, był jedynym czystym, naturalnym źródłem słodyczy dostępnym człowiekowi. W ostatnich latach pojawiło się wiele substytutów miodu w postaci cukrów produkowanych przemysłowo, które stopniowo zaczęły wypierać miód z naszych stołów. Jednak miód pozostaje jedyną substancją słodzącą, która oferuje właściwości odżywcze i życiodajne, niespotykane w innych słodkich produktach.
+
+=== Skład mineralny miodu
+
+Biorąc pod uwagę fakt, że organizm ludzki potrzebuje minerałów do utrzymania zdrowia, warto przyjrzeć się zawartości mineralnej miodu. Jest to istotne, ponieważ większość z nas dopiero zaczyna sobie uświadamiać, że przeciętna dieta jest znacznie zubożona w niezbędne minerały. Przyzwyczailiśmy się do spożywania produktów, które zostały pozbawione swoich naturalnych składników mineralnych w wyniku przetwarzania, przez co tracą one swoją wartość odżywczą. Z tego powodu ważne jest, abyśmy zrozumieli, jakie minerały są niedoborowe w naszej codziennej diecie i jak można je przywrócić.
+
+Miód zawiera takie minerały jak: żelazo, miedź, mangan, krzem, chlor, wapń, potas, sód, fosfor, aluminium i magnez. Wszystkie te minerały pochodzą z gleby, w której rosną rośliny, i są przekazywane przez rośliny do nektaru, który stanowi podstawowy surowiec wykorzystywany przez pszczoły do produkcji miodu. Dlatego zawartość mineralna miodu zależy od zasobów mineralnych gleby, z której pochodzi nektar.
+
+=== Znaczenie minerałów w miodzie
+
+W przeszłości dietetycy nie doceniali zawartości minerałów w miodzie, zakładając, że ich ilość jest zbyt mała, aby miały znaczenie. Obecnie wiadomo jednak, że organizm ludzki potrzebuje licznych minerałów w bardzo małych ilościach, aby utrzymać równowagę mineralną. Miód zawiera te minerały w proporcjach odpowiednich dla potrzeb przeciętnej osoby.
+
+=== Wypowiedź profesora H.A. Schuette
+
+Profesor H.A. Schuette z Wydziału Chemii Uniwersytetu Wisconsin wypowiedział się na temat zawartości minerałów w miodzie:
+
+"Z nowych niezbędnych składników, takich jak miedź, żelazo i mangan, wydaje się, że ciemne miody zawierają ich więcej niż jasne. Z punktu widzenia żywienia żelazo jest istotne ze względu na jego związek z hemoglobiną, czyli barwnikiem krwi. Hemoglobinę budujemy z naszego pożywienia, a ona posiada niezwykłą zdolność przenoszenia tlenu do tkanek naszego ciała. Gdyby nie zawartość żelaza, hemoglobina nie miałaby tej właściwości wiązania tlenu.
+
+Miedź z kolei wydaje się wzmacniać terapeutyczne działanie żelaza w odbudowie zawartości hemoglobiny we krwi u pacjentów cierpiących na anemię. Innymi słowy, miedź wspomaga działanie żelaza."
+
+=== Mangan w miodzie
+
+Nie znamy jeszcze w pełni zalet wynikających z obecności manganu w diecie, ale wiemy wystarczająco dużo, aby docenić jego wartość jako dodatku do codziennego pożywienia. Niektórzy uważają, że mangan działa zamiennie z miedzią lub jako jej uzupełnienie, wspomagając tworzenie hemoglobiny we krwi. Inni natomiast twierdzą, że to wyłącznie miedź wspomaga żelazo w procesie budowania hemoglobiny. Są jednak dowody wskazujące, że mangan pełni specyficzną rolę w odżywianiu.
+
+=== Witaminy w miodzie
+
+Jako doskonały produkt natury, miód zawiera witaminy. Pyłek kwiatowy wielu roślin ma wyższą zawartość witaminy C niż większość owoców i warzyw. Ponieważ miód zawiera pyłek, miody o większej zawartości pyłku będą zawierały więcej witaminy C niż inne.
+
+Jednym z najważniejszych odkryć dotyczących miodu jest fakt, że jest on doskonałym medium dla witamin. To nie dotyczy jednakowo warzyw i owoców. Na przykład szpinak traci 50% zawartości witaminy C w ciągu 24 godzin od zebrania. Owoce również tracą witaminy podczas przechowywania. Choć miód jest ubogi w tiaminę, jest dobrze zaopatrzony w ryboflawinę i kwas nikotynowy. Co więcej, zawiera wszystkie witaminy niezbędne do zachowania zdrowia.
+
+=== Miód jako cukier wstępnie strawiony
+
+W przeciwieństwie do cukru trzcinowego i skrobi, które muszą zostać rozłożone w przewodzie pokarmowym przez enzymy na proste cukry, miód został już przekształcony przez pszczoły. Sekrecje gruczołów ślinowych pszczół zamieniają cukry zawarte w nektarze w proste cukry, takie jak lewuloza i dekstroza. Dzięki temu układ trawienny człowieka nie musi wykonywać tej pracy. Ta „wstępna trawienie” miodu przez pszczoły jest szczególnie istotna dla osób z osłabionym trawieniem lub tych, którym brakuje enzymów, takich jak inwertaza i amylaza.
+
+=== Zalety miodu w porównaniu z innymi cukrami
+
+Miód oferuje szereg korzyści, które wyróżniają go spośród innych cukrów:
+
+1. Nie podrażnia wyściółki przewodu pokarmowego.
+2. Jest łatwo i szybko przyswajany.
+3. Natychmiast dostarcza energii.
+4. Pozwala sportowcom i osobom intensywnie pracującym szybko regenerować siły.
+5. Jest najlepiej tolerowanym cukrem przez nerki.
+6. Ma naturalne, łagodne działanie przeczyszczające.
+7. Wykazuje działanie uspokajające, wyciszając organizm.
+8. Jest łatwo dostępny.
+9. Jest stosunkowo tani.
+
+=== Miód jako środek leczniczy
+
+Dla mnie jednak największą wartością miodu jest jego wartość lecznicza. Jako lekarz naturalnie interesuję się substancją, która w wyniku badań i eksperymentów okazała się pomocna w różnych etapach życia – od kołyski aż po grób. Gdzie indziej znajdę słodzik, który uspokaja nerwowy, nadpobudliwy organizm, jeśli jest spożywany przy każdym posiłku, nie wyrządzając przy tym żadnej szkody? Gdzie znajdę substancję, która pozwala zasnąć w nocy?
+
+=== Łagodzenie dolegliwości
+
+Miód działa kojąco na żołądek. Łagodzi dokuczliwy kaszel. Może również złagodzić ból związany z artretyzmem.
+
+Doskonale pamiętam radość nauczycielki, która opowiedziała mi, jak regularne spożywanie miodu wpłynęło na jej artretyzm. Choroba powodowała u niej silny ból przez długi czas, ale nauczyła się z nią żyć. Pewnego roku została przeniesiona do nowego rejonu szkolnego i zamieszkała z rodziną rolników. W tym gospodarstwie miód był podstawowym środkiem słodzącym. Pod koniec pierwszego roku szkolnego nauczycielki artretyzm całkowicie ustąpił. Mogło to być wynikiem uzupełnienia niedoboru potasu dzięki regularnemu spożywaniu miodu.
+
+=== Miód a starzenie się
+
+Miód na różne sposoby może sprawić, że starość stanie się łatwiejsza do przeżycia. Smuci mnie, gdy ludzie mówią, że nie jedzą miodu, ponieważ jest droższy od białego cukru. Staram się im uświadomić, że zdrowia nie da się kupić od ręki. Zdrowie trzeba zdobywać. Na dłuższą metę i tak zapłacisz albo sklepikarzowi, albo aptekarzowi. Gdy zachorujesz, odkrywasz, że musisz wydać zaoszczędzone pieniądze na jedzenie, aby kupić leki przywracające zdrowie. Kupując odpowiednie jedzenie, takie jak miód, możesz konstruktywnie zminimalizować te koszty.
+
+== Miód w żywieniu niemowląt
+
+=== Naturalne i modyfikowane mleko
+
+Oczywiście naturalne mleko matki jest najlepszym możliwym pożywieniem dla dziecka. Jednakże, wraz z wiekiem dziecka, jakość i ilość mleka matki często staje się niewystarczająca. W takich przypadkach konieczne jest wprowadzenie modyfikowanego mleka krowiego jako uzupełnienia lub zamiennika mleka matki. 
+
+Do modyfikacji mleka krowiego stosowano różne środki słodzące, najczęściej glukozę i dekstrymaltozę. Ostatnie badania pokazują, że choć miód jest droższy od glukozy, jest tańszy od dekstrymaltozy i przewyższa oba te środki pod względem efektywności w modyfikacji mleka krowiego.
+
+=== Problemy z żywieniem niemowląt
+
+W dzisiejszych czasach wiele matek nie jest w stanie karmić swoich dzieci piersią zgodnie z naturą. W takich przypadkach lekarze muszą opracować odpowiednią dietę dostosowaną do indywidualnych potrzeb niemowląt. Niektóre dzieci, szczególnie delikatne, wymagają wyjątkowo ostrożnego podejścia. Niektóre są uczulone na określone pokarmy, podczas gdy inne są odporne i mogą spożywać niemal wszystko. Te różnice w tolerancji żywieniowej stanowią trudne wyzwanie.
+
+Podstawą większości pokarmów dla niemowląt jest modyfikowane i słodzone mleko krowie. Najczęściej używanym środkiem słodzącym jest syrop kukurydziany, jednak wiele niemowląt nie toleruje tego sztucznego środka. Coraz bardziej oczywiste staje się, że naturalne słodziki są znacznie lepsze od tych wytwarzanych przemysłowo.
+
+=== Korzyści z miodu
+
+Miód wyróżnia się jako naturalny słodzik. Większość niemowląt dobrze go toleruje, a ponadto dostarcza minerałów, które uzupełniają skład mleka, niewielkiej ilości białka, działa antyseptycznie i ma łagodne działanie przeczyszczające. Ponadto miód ma przyjemny smak, który zwiększa jego akceptację przez dzieci. Najważniejsze jednak, że dostarcza on niemowlętom kompleks minerałów potrzebnych do rozwoju.
+
+=== Badania nad miodem
+
+Moje badania nad stosowaniem miodu w żywieniu niemowląt są potwierdzane przez prace dr. M.H. Haycaka i dr. M.C. Tanquary z Uniwersytetu Minnesoty oraz dr. Schultza i dr. Knott z Wydziału Pediatrii Uniwersytetu w Chicago. W ich badaniach analizowano różne węglowodany w żywieniu niemowląt.
+
+Dwa grupy dzieci – cztery w wieku od 7 do 13 lat oraz dziewięcioro niemowląt w wieku od 2 do 6 miesięcy – karmiono różnymi cukrami i pobierano próbki krwi po 15, 30, 60, 90 i 120 minutach. Wyniki wykazały, że miód był najszybciej wchłanianym cukrem, z wyjątkiem glukozy. W przeciwieństwie do innych cukrów, miód nie powodował gwałtownego wzrostu poziomu cukru we krwi dzięki unikalnej kombinacji łatwo przyswajalnych cukrów – dekstrozy i lewulozy.
+
+=== Wykorzystanie miodu w praktyce
+
+W żywieniu niemowląt stosuje się jedną lub dwie łyżeczki miodu na 240 ml mieszanki mlecznej. W przypadku zaparć ilość miodu można zwiększyć o pół łyżeczki, natomiast przy rozwolnieniu należy ją zmniejszyć o pół łyżeczki. Niemowlęta karmione miodem rzadko mają kolki, ponieważ szybkie wchłanianie miodu zapobiega fermentacji.
+
+== Miód i moczenie nocne
+
+=== Problem moczenia nocnego
+
+Mogłoby zaskoczyć niektórych, że medycyna ludowa uznaje miód za wyjątkowo skuteczny środek zapobiegający moczeniu nocnemu u dzieci. Kiedy problem ten utrzymuje się po ukończeniu trzeciego roku życia, staje się on uciążliwy zarówno dla dziecka, jak i dla rodziny. Moczenie nocne jest jednym z najczęściej występujących problemów u dzieci, ale nadal wywołuje wiele niepokoju.
+
+Od dawna lekarze odpowiadali, że czas rozwiąże ten problem i dziecko po prostu z niego „wyrośnie”. Oznaczało to, że nie istniało powszechnie znane skuteczne lekarstwo.
+
+=== Objawy i charakterystyka
+
+Objawy moczenia nocnego są dość jednoznaczne. W większości przypadków dzieci te często oddają mocz w ciągu dnia. Zazwyczaj są to dzieci nadwrażliwe, reagujące intensywnie na bodźce, takie jak ekscytacja. Większość dzieci osiąga kontrolę nad pęcherzem w ciągu dnia przed ukończeniem dwóch lat, a kilka miesięcy później potrafi utrzymać suchość także w nocy.
+
+Moczenie nocne zwykle występuje każdej nocy, jeden lub dwa razy, i może rozwijać się stopniowo, jako przedłużenie braku kontroli nad pęcherzem w niemowlęctwie. Niektóre dzieci moczą łóżko w ciągu godziny od zaśnięcia, inne dopiero nad ranem. Część dzieci budzi się w trakcie lub zaraz po tym zdarzeniu, podczas gdy inne śpią przez całą noc, nie zauważając problemu.
+
+=== Podejście medycyny ludowej
+
+Medycyna ludowa dzieli leczenie moczenia nocnego na dwie części: leczenie zapobiegawcze i aktywne. Leczenie zapobiegawcze polega na nauce nawyku kontrolowania pęcherza i należy je rozpocząć około pierwszego roku życia. Niemowlę powinno być sadzane na nocnik w regularnych odstępach czasu – po przebudzeniu, po każdym posiłku i co trzy godziny, a z czasem w coraz dłuższych odstępach.
+
+Leczenie aktywne wymaga zastosowania środka, który jednocześnie działa uspokajająco na układ nerwowy dziecka oraz przyciąga i zatrzymuje płyny w organizmie podczas snu. Miód spełnia wszystkie te wymagania.
+
+=== Dlaczego miód działa?
+
+Miód jest higroskopijny, co oznacza, że potrafi wchłaniać i kondensować wilgoć z otoczenia. Lewuloza zawarta w miodzie ma największą zdolność przyciągania wilgoci spośród wszystkich cukrów. Zdolność miodu do zatrzymywania wilgoci jest widoczna w pieczywie i wypiekach zawierających miód, które pozostają wilgotne przez długi czas.
+
+=== Stosowanie miodu w leczeniu
+
+Przed snem należy podać dziecku łyżeczkę miodu. Działa on w dwóch kierunkach:
+1. Jako środek uspokajający układ nerwowy.
+2. Przyciąga i zatrzymuje płyny w organizmie, oszczędzając nerki.
+
+Z czasem można zacząć eksperymentować z odstawieniem miodu, aby sprawdzić, czy dziecko jest w stanie osiągnąć normalną kontrolę nad pęcherzem w nocy. Na tzw. „bezpieczne noce” można zmniejszyć dawkę miodu, a później go odstawić. Miód powinien być jednak zawsze w rezerwie na sytuacje, gdy okoliczności sugerują możliwość wystąpienia problemu.
+
+=== Podsumowanie
+
+Stosowanie miodu w leczeniu moczenia nocnego jest prostą i skuteczną metodą, która przynosi ulgę zarówno dziecku, jak i rodzinie. Dzięki swoim właściwościom uspokajającym i higroskopijnym miód jest niezwykle przydatnym środkiem w radzeniu sobie z tym problemem.
+
+== Stosowanie miodu w wywoływaniu snu
+
+=== Wprowadzenie
+
+Niektórzy ludzie polegają na różnych metodach, aby wywołać sen. Jednym ze sposobów jest leżenie z zamkniętymi oczami i wyobrażanie sobie dużej czarnej tablicy. Na tej tablicy wizualizuje się, jak ręka, zanurzona w białej farbie, starannie i powoli maluje wielką cyfrę 3. Proces malowania cyfry jest wykonywany bardzo wolno, a po ukończeniu jednej liczby zaczyna się kolejną. Większość osób zasypia przed ukończeniem trzeciej liczby.
+
+Inna metoda polega na skoncentrowaniu się na rozluźnieniu każdego stawu w ciele, zaczynając od palców, przechodząc do nadgarstków, ramion i tak dalej. Wiele osób uważa tę technikę za skuteczną.
+
+=== Miód jako środek na sen
+
+Medycyna ludowa uważa miód za najlepszy ze wszystkich środków na wywołanie snu. Jeśli masz trudności z zaśnięciem w nocy lub budzisz się łatwo i trudno ci ponownie zasnąć, powinieneś skorzystać z miodu. Wystarczy spożyć jedną łyżkę stołową miodu podczas wieczornego posiłku każdego dnia. Wkrótce zauważysz, że zaczynasz naprawdę czekać na pójście spać, a uczucie senności może pojawić się nawet wtedy, gdy z powodów towarzyskich pozostajesz dłużej na nogach. Następnego ranka zauważysz, że zasnąłeś niemal natychmiast po położeniu głowy na poduszkę.
+
+=== Kiedy jedna łyżka miodu nie wystarcza
+
+Nie dla każdego proces ten będzie tak łatwy. Jeśli okaże się, że jedna łyżka miodu spożyta podczas wieczornego posiłku nie wystarcza do wywołania głębokiego snu, lub gdy coś w ciągu dnia wywołało u ciebie stres, warto zastosować procedurę opisaną w rozdziale 8. Ta metoda może pomóc w osiągnięciu pożądanego efektu relaksacyjnego i zapewnić spokojny sen.
+
+== Tradycyjny środek na kaszel
+
+=== Wprowadzenie
+
+Jeśli dokucza ci kaszel, możesz skorzystać z następującego środka medycyny ludowej, który jest stosowany od wielu pokoleń. Mimo upływu czasu działa równie skutecznie, jak zawsze.
+
+=== Jak przygotować syrop na kaszel
+
+1. Powoli gotuj jedną cytrynę przez dziesięć minut. Gotowanie zmiękcza cytrynę, co pozwala uzyskać więcej soku, oraz zmiękcza skórkę.
+2. Przekrój cytrynę na pół i wyciśnij sok za pomocą wyciskarki do cytrusów.
+3. Wlej sok do zwykłej szklanki.
+4. Dodaj dwie łyżki stołowe gliceryny. (W przeliczeniu na miary apteczne, dwie łyżki stołowe to jedna uncja).
+5. Dokładnie wymieszaj glicerynę z sokiem z cytryny, a następnie dopełnij szklankę miodem.
+
+=== Alternatywa
+
+W kontekście używania cytryn do przygotowania syropu na kaszel, przypomina mi się wypowiedź jednego rolnika. Kiedy tłumaczył, jak dobrze zadziałał sugerowany środek, zaśmiał się i powiedział: „Faktycznie, nie mieliśmy żadnych cytryn. Użyłem octu jabłkowego. Działa równie dobrze.”
+
+=== Dawkowanie
+
+Dawkowanie tego syropu na kaszel zależy od potrzeb:
+- Jeśli kaszel dokucza w ciągu dnia, zażyj jedną łyżeczkę. Przed spożyciem zamieszaj.
+- Jeśli masz tendencję do budzenia się w nocy z powodu kaszlu, zażyj jedną łyżeczkę przed snem i ponownie w nocy.
+- W przypadku silnego kaszlu zażywaj jedną łyżeczkę rano, w środku przedpołudnia, po obiedzie, w środku popołudnia, po kolacji i przed snem.
+
+W miarę ustępowania kaszlu zmniejszaj częstotliwość stosowania syropu.
+
+=== Zalety
+
+Ten środek na kaszel ma kilka cech, które czynią go najlepszym syropem na kaszel, jaki znam:
+
+1. Nie podrażnia żołądka, jak robi to wiele innych syropów.
+2. Może być stosowany zarówno przez dzieci, jak i dorosłych.
+3. Łagodzi kaszel, gdy inne syropy na kaszel zawodzą.
+
+== Kontrola skurczów mięśni
+
+=== Drganie powiek i kącików ust
+
+Czasami możemy być nękani przez dokuczliwe drganie powiek lub kącików ust. Można szybko się tego pozbyć, spożywając dwie łyżeczki miodu przy każdym posiłku. Zazwyczaj drganie ustępuje w ciągu tygodnia.
+
+=== Skurcze mięśni
+
+Skurcze mięśni ciała, które mogą występować od czasu do czasu, najczęściej pojawiają się w nogach i stopach w nocy. Tego rodzaju skurcze mięśni można zazwyczaj kontrolować, spożywając dwie łyżeczki miodu przy każdym posiłku. Zwykle skurcze ustępują w ciągu tygodnia, a miód należy spożywać regularnie, aby zapobiec nawrotom tego problemu.
+
+== Miód na oparzenia
+
+=== Stosowanie miodu w medycynie ludowej
+
+W medycynie ludowej miód od dawna jest stosowany jako skuteczny środek w leczeniu oparzeń skóry. Po nałożeniu miód łagodzi bolesne pieczenie i zapobiega tworzeniu się pęcherzy. Dodatkowo przyspiesza proces gojenia oparzonego obszaru.
+
+== Miód w żywieniu sportowców
+
+=== Wprowadzenie
+
+Artykuł w październikowym numerze "American Bee Journal" z 1955 roku, autorstwa Lloyda Percivala ze Sports College w Kanadzie, przedstawia, jak wykorzystać miód w żywieniu sportowców. W dzisiejszych czasach, gdy sporty odgrywają ważną rolę w szkołach i na uczelniach, dyrektorzy sportowi stale poszukują sposobów na zwiększenie siły, energii i wytrzymałości swoich zespołów.
+
+=== Wyniki badań Sports College
+
+Od 1951 roku Sports College aktywnie bada wartość miodu w żywieniu sportowców. Organizowano testy i zbierano informacje o doświadczeniach innych osób zajmujących się treningiem i kondycjonowaniem. Wyniki wykazały, że miód jest jednym z najlepszych źródeł energii. Oto ocena popularnych źródeł energii na podstawie różnych czynników (skala od 1 do 10):
+
+- Miód: 9
+- Glukoza: 7,5
+- Syrop kukurydziany: 7
+- Cukier brązowy: 6
+- Cukier biały: 4,5
+
+=== Kluczowe wnioski o miodzie
+
+1. Miód dostarcza idealną ilość energii przed aktywnością, podczas niej oraz po jej zakończeniu.
+2. Dzięki wysokiej kaloryczności miód zapewnia energię przy mniejszych porcjach.
+3. Jest popularny wśród sportowców ze względu na smak i wszechstronność.
+4. Średnio więcej miodu może być tolerowane przez sportowców niż innych środków energetycznych.
+5. Miód jest czystym produktem, wolnym od bakterii i substancji drażniących.
+
+=== Zastosowanie miodu
+
+Zaleca się stosowanie miodu:
+
+1. W posiłkach przed aktywnością fizyczną.
+2. Po zakończeniu aktywności fizycznej.
+3. W przerwach na odpoczynek podczas aktywności.
+4. W codziennej diecie, szczególnie na śniadanie.
+5. Jako słodzik do sałatek owocowych, jogurtów, puddingów, czy do pieczenia i przygotowywania deserów.
+6. Do produkcji słodyczy.
+7. Jako zamiennik innych popularnych słodzików.
+
+=== Miód a wydajność
+
+- **Wytrzymałość:** Podawanie dwóch łyżek miodu 30 minut przed testami wytrzymałościowymi poprawiło wyniki sportowców. Gdy podano dodatkową porcję miodu w połowie testu, wyniki były jeszcze lepsze.
+- **Regeneracja:** Sportowcy szybciej odzyskiwali siły po wysiłku dzięki miodowi. Dzięki temu mogli efektywnie kontynuować aktywność.
+- **Podtrzymanie wysiłku:** Miód podawany podczas przerw w grach takich jak hokej, koszykówka czy piłka nożna zmniejszał uczucie zmęczenia.
+- **Brak energii:** Spożywanie miodu podczas śniadania lub lunchu eliminowało uczucie braku energii podczas popołudniowych treningów.
+- **Problemy z wagą:** Miód zapobiegał utracie masy ciała przy dużym wysiłku fizycznym. Sportowcy na diecie redukcyjnej czuli większą sytość po posiłkach z dodatkiem miodu.
+
+=== Ogólne wnioski
+
+Sports College nie ma wątpliwości, że miód jest idealnym źródłem energii i środkiem na regenerację po zmęczeniu. Zaleca się jego stosowanie wszystkim aktywnie uprawiającym sport oraz osobom chcącym utrzymać wysoki poziom energii przez cały dzień.
+
+== Leczenie przy użyciu plastra miodu
+
+=== Wprowadzenie
+
+Plaster miodu jest doskonałym środkiem w leczeniu niektórych zaburzeń układu oddechowego. Stosowany jest w postaci woskowej struktury pozbawionej miodu. Żucie plastra miodu szczególnie korzystnie wpływa na wyściółkę całego układu oddechowego. Oprócz żucia plastra miodu zaleca się również codzienne spożywanie miodu. Najlepszy efekt daje miód w plastrach, ale jeśli nie jest dostępny, łyżka stołowa płynnego miodu jako deser przy każdym posiłku przyniesie pożądane rezultaty.
+
+=== Działanie antyalergiczne i skład plastra miodu
+
+Medycyna ludowa stosuje plaster miodu jako środek odczulający. Wyniki jego stosowania sugerują, że działa on antyalergicznie. Pszczoły, będące „farmaceutami”, wytwarzają miód, który zawiera łatwo przyswajalne cukry (dekstroza i lewuloza), minerały oraz enzymy takie jak inwertaza, diastaza czy katalaza. Plaster miodu zawiera również pyłek bogaty w białka, tłuszcze i węglowodany.
+
+=== Skuteczność leczenia
+
+Kombinacja plastra miodu i miodu w plastrach wykazuje niezwykle wysoką skuteczność. Około 90% przypadków reaguje bardzo pozytywnie w ciągu kilku dni, często nawet szybciej. Medycyna ludowa twierdzi, że osoby spożywające miód w plastrach do 16. roku życia rzadko zapadają na przeziębienia, katar sienny lub inne zaburzenia nosa. Nawet w późniejszych latach plaster miodu może przynieść podobne korzyści.
+
+=== Zastosowanie w praktyce
+
+Podczas zbiorów miodu warto zaopatrzyć się w roczny zapas plastra miodu, nazywanego przez pszczelarzy „pokrywkami”. Jeśli plaster jest zbyt twardy, można dodać do niego trochę miodu, aby ułatwić żucie.
+
+==== Przypadek: Zatkany nos
+
+Ośmioletni chłopiec, cierpiący na ciągły katar przez pięć miesięcy, odwiedził moją klinikę. Miał obrzęknięte tkanki nosa, które uniemożliwiały normalne oddychanie. Po pięciu minutach żucia plastra miodu nos chłopca otworzył się, a jego błona śluzowa zmieniła kolor z bladego na jasnoróżowy. Po tygodniu stosowania plastra nos pozostawał drożny.
+
+==== Przypadek: Zapalenie zatok
+
+Zatoki są ważnym elementem układu oddechowego. Kiedy dochodzi do ich zapalenia, żucie plastra miodu zmienia reakcję moczu z zasadowej na kwaśną, co pomaga w powrocie do zdrowia. Aby złagodzić objawy, należy żuć plaster miodu przez 15 minut, cztery do sześciu razy w ciągu dnia. Objawy, takie jak ból i zatkany nos, ustępują zwykle w ciągu jednego dnia.
+
+=== Profilaktyka
+
+Żucie plastra miodu raz dziennie od jesieni do lata oraz spożywanie dwóch łyżeczek miodu przy każdym posiłku może zapobiec nawracającym infekcjom zatok, grypie i przeziębieniom. Moje badania sugerują, że w plastrze miodu znajduje się substancja, która skutecznie chroni układ oddechowy przed chorobami.
+
+== Leczenie kataru siennego
+
+=== Wprowadzenie
+
+Osoby cierpiące na katar sienny wiedzą, że niewiele chorób jest równie dokuczliwych. Medycyna ludowa dzieli katar sienny na trzy stopnie: łagodny, umiarkowanie ciężki i ciężki. Leczenie obejmuje zarówno działania zapobiegawcze, jak i objawowe. Żucie plastra miodu raz dziennie przez miesiąc przed spodziewanym sezonem kataru siennego może zapobiec wystąpieniu objawów lub sprawić, że będą one łagodne.
+
+=== Leczenie łagodnego kataru siennego
+
+W przypadku łagodnego kataru siennego zaleca się:
+
+- Żucie plastra miodu raz dziennie, w poniedziałki, środy i piątki.
+- Jeśli plaster miodu nie jest dostępny, można spożywać dwie łyżeczki płynnego miodu przy każdym posiłku.
+
+=== Leczenie umiarkowanego kataru siennego
+
+Dla umiarkowanie ciężkiego kataru siennego:
+
+- Żuć plaster miodu pięć razy dziennie przez pierwsze dwa dni, a następnie trzy razy dziennie przez resztę okresu leczenia.
+- Spożywanie miodu w plastrach codziennie, jeśli jest dostępny; jeśli nie, dwie łyżeczki płynnego miodu przy każdym posiłku.
+
+Efekty leczenia umiarkowanego kataru siennego:
+
+1. Suche oczy w ciągu trzech minut.
+2. Otwarty nos w ciągu sześciu minut.
+3. Zatrzymanie wycieku z nosa w pięć minut.
+4. Ulga w podrażnieniu gardła w ciągu trzech do pięciu minut.
+
+=== Leczenie ciężkiego kataru siennego
+
+W przypadku ciężkiego kataru siennego:
+
+1. Na trzy miesiące przed sezonem przyjmować jedną łyżkę stołową miodu po każdym posiłku i jedną łyżkę miodu w pół szklanki wody przed snem.
+2. Na dwa tygodnie przed sezonem przyjmować mieszankę dwóch łyżeczek miodu i dwóch łyżeczek octu jabłkowego w pół szklanki wody przed śniadaniem i przed snem. Kontynuować w trakcie sezonu.
+3. Żuć plaster miodu w razie potrzeby, aby utrzymać nos suchy i drożny.
+
+=== Wyniki i obserwacje
+
+Medycyna ludowa uważa, że mieszanka miodu z octem jabłkowym oraz żucie plastra miodu są skuteczniejsze niż zastrzyki na katar sienny. Leczenie to pozwala uniknąć nadmiaru śluzu w nosie, a przy regularnym stosowaniu może całkowicie złagodzić objawy, takie jak kichanie czy swędzenie oczu i nosa.
+
+=== Profilaktyka i szczególne przypadki
+
+Regularne żucie plastra miodu trzy lub cztery razy w tygodniu może całkowicie wyeliminować katar sienny w ciągu trzech lat. Przykłady skuteczności:
+
+- Uczniowie pracujący na farmach, którzy stosowali plaster miodu, mogli wykonywać prace w silnie alergicznych warunkach bez objawów kataru siennego.
+- Eksperymenty w Teksasie w 1936 roku wykazały, że spożywanie lokalnego miodu, szczególnie w plastrach, przynosiło ulgę cierpiącym na katar sienny.
+
+=== Inne środki z medycyny ludowej
+
+Medycyna ludowa proponuje także wywary z pąków i igieł sosny oraz świerku. Wywar ten, zmieszany z miodem, może skutecznie leczyć infekcje układu oddechowego. Alternatywnie można stosować płyn pobrany z pęcherzyków na korze jodły – jedna łyżeczka trzy razy dziennie również wspomaga zdrowie dróg oddechowych.

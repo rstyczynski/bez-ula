@@ -1,0 +1,260 @@
+:toc: macro
+:toc-title: 
+:toclevels: 4
+
+= Medycyna Ludowa
+
+Autor: D.C. Jarvis, 1960
+Zródło: https://biri.org/pdf/books/JARVIS-DC-Folk-Medicine-1960.pdf
+Tłumaczenie: R.Styczynski z pomocą ChatGPT
+
+== Spis treści
+toc::[]
+
+== ROZDZIAŁ JEDENASTY: Znaczenie jodu
+
+MEDYCYNA LUDOWA INTERESUJE SIĘ trzema „R” – odpornością (Resistance), naprawą (Repair) i powrotem do zdrowia (Recovery). Najpierw człowiek zadaje sobie pytanie, czy jego odporność na choroby jest na odpowiednim poziomie. Następnie, czy jest w stanie naprawić uszkodzenia tkanek spowodowane wypadkiem, gdyby do niego doszło. Wreszcie, jeśli pojawi się choroba, czy jego organizm jest w stanie zapewnić powrót do zdrowia?
+
+W jakiś sposób przez lata człowiek nauczył się, że jod jest związany ze zdolnością do odporności na choroby.
+
+Jod jest niezbędny dla prawidłowego funkcjonowania tarczycy. Ludzka tarczyca znajduje się z przodu dolnej części szyi. Cała krew w organizmie przepływa przez tarczycę co siedemnaście minut. Ponieważ komórki tworzące ten gruczoł mają zdolność wiązania jodu, podczas tego siedemnastominutowego przepływu wydzielany przez tarczycę jod zabija słabe zarazki, które mogły dostać się do krwi przez uszkodzenie skóry, błony śluzowej nosa lub gardła, bądź przez wchłonięcie pokarmu w przewodzie pokarmowym. Silne, zjadliwe zarazki są osłabiane podczas ich przepływu przez tarczycę. Z każdą kolejną siedemnastominutową rundą stają się one coraz słabsze, aż w końcu zostają zabite, jeśli gruczoł ma normalny zapas jodu. Jeśli nie, nie może on niszczyć szkodliwych zarazków krążących we krwi, jak zamierzyła to natura.
+
+Jest dobrze ustalone, że zawartość jodu w tarczycy zależy od ilości jodu dostępnego w spożywanej przez człowieka żywności i wodzie. Jeśli spożycie jodu jest niskie, gruczoł jest pozbawiony pierwiastka, którego potrzebuje do wykonywania swojej pracy.
+
+Z medycyny ludowej dowiadujemy się jednak, że ten gruczoł pełni inne funkcje poza zabijaniem szkodliwych zarazków we krwi. Pierwszą z nich jest odbudowa energii potrzebnej do wykonywania codziennej pracy. Istnieje wyraźny związek między ilością energii, jaką posiadasz, a spożyciem jodu.
+
+Pierwsze pytanie w przypadku stanu wyczerpania energii brzmi: „Czy gleba w stanie, w którym się mieszka, jest uboga w jod?” Drugie: „Czy niedobór jest uzupełniany za pomocą dodatkowych środków?” Gdy poziom energii i wytrzymałości spada w odniesieniu do codziennych obowiązków, należy rozważyć suplementację jodu.
+
+== Znaczenie Jodu
+
+Drugą funkcją jodu jest uspokojenie organizmu i złagodzenie napięcia nerwowego. Gdy napięcie nerwowe jest wysokie, pojawia się drażliwość i trudności z zasypianiem w nocy, a organizm stale pozostaje w trybie walki i ucieczki. Wszystkie te objawy wskazują na potrzebę dostarczenia organizmowi jodu, aby zmniejszyć napięcie nerwowe, zrelaksować ciało i umożliwić mu zorganizowanie się do stanu spokoju i ciszy, poprzez budowanie i magazynowanie rezerw organizmu na czas potrzeby.
+
+Z medycyny ludowej nauczyłem się, że możliwe jest wielokrotne przekształcenie drażliwego, niecierpliwego i niespokojnego dziecka poniżej dziesiątego roku życia w spokojną, cierpliwą osobę w ciągu dwóch godzin, podając mu kroplę roztworu jodu doustnie w soku warzywnym lub owocowym albo w szklance wody zakwaszonej reakcją przez dodanie łyżeczki octu jabłkowego. Wielokrotnie zalecałem to rozwiązanie, aby umożliwić matce dziecka o „wyścigowym” temperamencie komfortowe życie z nim. Nigdy nie widziałem, by ten sposób zawiódł w uspokojeniu nerwowego dziecka.
+
+Trzecią funkcją jodu w ludzkim ciele jest wspomaganie jasnego myślenia. Umysł po prostu działa lepiej, gdy organizm otrzymuje potrzebną ilość jodu.
+
+== Znaczenie Jodu
+
+Następnie pojawia się kwestia magazynowania niechcianego tłuszczu. Jod jest jednym z najlepszych katalizatorów utleniających, jakie posiadamy. Katalizator to zapałka, która rozpala w organizmie ogień spalający pokarm, który codziennie spożywamy. Jeśli pokarm ten nie zostanie odpowiednio spalony, może być magazynowany jako niechciany tłuszcz.
+
+Chociaż tarczyca skutecznie magazynuje jod z krwi przepływającej przez nią co siedemnaście minut, może także tracić zgromadzony jod, jeśli na przykład spożywamy wodę pitną, do której dodano chlor, lub używamy zbyt dużej ilości chlorku sodu, znanego powszechnie jako sól kuchenna.
+
+== Znaczenie Jodu
+
+Istnieje dobrze znane prawo wypierania halogenów. Grupa halogenów składa się z następujących pierwiastków:
+
+
+[cols="1,1", options="header"]
+|====
+| Halogen | Relatywna masa atomowa
+| Fluor   | 19
+| Chlor   | 35,5
+| Brom    | 80
+| Jod     | 127
+|====
+
+Aktywność kliniczna każdego z tych czterech halogenów jest odwrotnie proporcjonalna do jego masy atomowej. Oznacza to, że każdy z tych pierwiastków może wypierać pierwiastek o wyższej masie atomowej, ale nie może wypierać pierwiastka o niższej masie atomowej. Na przykład fluor może wypierać chlor, brom i jod, ponieważ fluor ma niższą masę atomową niż pozostałe trzy pierwiastki. Podobnie chlor może wypierać brom i jod, ponieważ oba mają wyższą masę atomową. Analogicznie brom może wypierać jod z organizmu, ponieważ jod ma wyższą masę atomową. Jednak odwrotna kolejność nie jest możliwa.
+
+Znajomość tego dobrze znanego prawa chemicznego prowadzi nas do rozważenia dodawania chloru do wody pitnej jako środka oczyszczającego. Uzyskujemy wodę pitną, która jest szkodliwa dla organizmu nie ze względu na zawartość szkodliwych zarazków, ale dlatego, że zawartość chloru powoduje teraz utratę przez organizm tak bardzo potrzebnego jodu.
+
+== Jak Zwiększyć Zawartość Jodu w Organizmie
+
+Ponieważ możemy mieszkać w regionie ubogim w jod; ponieważ woda pitna może być uzdatniana chlorem; ponieważ możemy zbyt często chorować, odczuwać brak energii i wytrzymałości, rozwijać napięcie nerwowe, mieć trudności z jasnym myśleniem i gromadzić niechciany tłuszcz – jak możemy podnieść poziom jodu w organizmie do wymaganego poziomu?
+
+Istnieją trzy sposoby:
+
+1. **Spożywanie produktów spożywczych bogatych w jod.**  
+   Analizy wykazały, że szczególnie bogate w jod są: wszystkie produkty pochodzenia morskiego, rzodkiewki, szparagi, marchew, pomidory, szpinak, rabarbar, ziemniaki, groszek, truskawki, grzyby, sałata, banany, kapusta, żółtko jajka i cebula.
+
+2. **Malowanie niewielkiego obszaru skóry nalewką jodową.**
+
+3. **Przyjmowanie preparatów bogatych w jod.**  
+   Do takich preparatów należą:
+   - Olej z wątroby dorsza,
+   - Roztwór jodowy, dostępny w aptece,
+   - Tabletki z wodorostów (kelp), o których wcześniej wspomniano.
+
+Roztwór jodowy jest niedrogim preparatem do stosowania. W 1880 roku francuski lekarz o nazwisku Lugol stworzył roztwór zawierający 5% jodu elementarnego w 10% roztworze jodku potasu. Jest on stosowany nieprzerwanie od momentu jego wynalezienia. Każdy farmaceuta wie, jak przygotować roztwór Lugola. Jeśli nie ma czasu, zamawia go od swojego hurtowego dostawcy leków. Każda apteka ma go w swoim asortymencie.
+
+== Stosowanie Roztworu Jodu Lugola
+
+Aby utrzymać odpowiedni poziom jodu w organizmie, dawka jest niewielka i przyjmowana jedynie w określone dni tygodnia. Analiza składu mineralnego organizmu wykazuje, że znajduje się w nim jedynie śladowa ilość jodu. Dziesięć kropli roztworu Lugola zawiera więcej jodu, niż znajduje się w całym ciele człowieka. Z tego powodu dawka roztworu wynosi jedną lub dwie krople, w zależności od masy ciała.
+
+- **Jeśli ważysz 150 funtów (ok. 68 kg) lub mniej**, dawka to jedna kropla przyjmowana podczas jednego posiłku we wtorek i piątek każdego tygodnia.
+- **Jeśli ważysz więcej niż 150 funtów (ok. 68 kg)**, dawka wynosi dwie krople w tych samych dniach.
+
+Warto pamiętać, że organizm ludzki działa w oparciu o minimalne ilości składników, których potrzebuje. Jeśli jednak w miejscu, gdzie mieszkasz, występuje wzrost liczby zachorowań, zaleca się zwiększenie dawki do trzech razy w tygodniu: w poniedziałek, środę i piątek, aby zbudować zapas rezerwowy.
+
+**Jak przyjmować kroplę roztworu w wyznaczone dni?**  
+Ogólnie lekarze zalecają przyjmowanie jodu na pusty żołądek, najlepiej dwadzieścia minut przed posiłkiem.
+
+== Alternatywny Plan Stosowania Roztworu Jodu Lugola
+
+Na przestrzeni lat medycyna ludowa opracowała inny plan stosowania jodu, który osobiście preferuję. Został on wspomniany w innym kontekście w tej książce. Aby przypomnieć, dodajemy jedną łyżeczkę octu jabłkowego do szklanki wody, aby zakwasić wodę. Następnie trzymamy zakraplacz w pozycji poziomej, aby uzyskać maksymalną kroplę, i dodajemy jedną kroplę roztworu Lugola do mieszanki. Zawartość mieszamy łyżką i popijamy w trakcie posiłku, jak filiżankę kawy lub herbaty.
+
+== Zastosowanie Jodu w Badaniach nad Hodowlą Krów
+
+W kontekście suplementacji jodem moje badania dotyczące niektórych stad mlecznych ujawniły ciekawe dowody na związek między gospodarzem a mikroorganizmami, wirusami, owadami i innymi pasożytami.
+
+W jednym stadzie do codziennych czterech uncji (ok. 120 ml) octu jabłkowego dodawano trzy krople roztworu Lugola. W rezultacie w okresie ośmiu miesięcy konieczne było jedynie jedno wezwanie weterynarza do chorej krowy. Dla porównania, w innym stadzie, w którym nie stosowano roztworu Lugola, choroby były powszechne. W tym samym ośmiomiesięcznym okresie konieczne było stosowanie penicyliny, aby uratować poważnie chore krowy.
+
+== Obserwacje Dotyczące Wpływu Octu Jabłkowego i Jodu na Zdrowie Krów
+
+Zauważyłem, że wszy opuszczają skórę krowy, która otrzymuje ocet jabłkowy i jod. Ponadto muchy nie gryzą krów wypasanych na pastwisku, choć gryzą i atakują młode bydło, które nie otrzymuje octu jabłkowego i jodu.
+
+W stadzie dotkniętym problemem poronień – co wskazuje na działalność mikroorganizmu *Brucella abortus*, który rozwija się w środowisku zasadowym i powoduje zaraźliwe poronienia u bydła (znane jako choroba Banga lub bruceloza) – poronienia natychmiast ustały, gdy do każdej porcji paszy dodano trzy krople roztworu Lugola na każdą dwie uncje (ok. 60 ml) octu jabłkowego.
+
+== Problem Giezów u Bydła
+
+Podczas badań nad wybranymi stadami zainteresowałem się problemem larw giezów, znanych jako bydleńce. Są to larwy (lub czerwie) gzów bydlęcych. Dorosłe muchówki nie gryzą ani nie żądlą, ale powodują ogromny strach i poważne zakłócenie spokoju bydła.
+
+- Jaja są składane w rzędzie, przyczepione do pojedynczego włosa na pięcie krowy podczas pierwszych słonecznych dni wiosny.
+- Inkubacja trwa od trzech do czterech dni, po czym wykluwają się młode larwy, które przenikają przez skórę krowy, powodując swędzenie i wypływ surowicy, co matowi sierść.
+- Młode larwy przemieszczają się w górę pomiędzy mięśniami i w ciągu kilku miesięcy mogą być obecne w jamach ciała, takich jak żwacz, jelita i inne narządy wewnętrzne.
+
+Na określonych etapach wiele larw znajduje się w ścianie przełyku, prowadzącym z jamy ustnej do żołądka. Jesienią i zimą larwy przemieszczają się na grzbiet, leżą tuż pod skórą i wycinają otwór, aby uzyskać dostęp do powietrza oraz umożliwić wydostanie się na powierzchnię, gdy dojrzeją. Okres spędzany pod skórą zwykle wynosi od trzydziestu do dziewięćdziesięciu dni.
+
+Larwy wydostają się spod skóry w lutym i marcu, opadają na ziemię, gdzie przeobrażają się w muchówki gzów bydlęcych. W ciągu osiemnastu do osiemdziesięciu dni od opuszczenia skóry krowy dorosły owad wylęga się i jest gotowy do rozmnażania w ciągu pół godziny.
+
+== Obserwacje Wpływu Octu Jabłkowego i Jodu na Larwy Giezów i Wydajność
+
+Moim celem było wyeliminowanie larw giezów u bydła za pomocą kombinacji octu jabłkowego i jodu. Chciałem wykazać, przynajmniej dla siebie, że ta kombinacja sprawia, iż organizm jako gospodarz staje się nieodpowiednim środowiskiem dla rozwoju i dalszego istnienia mikroorganizmów, wirusów, owadów i innych pasożytów.
+
+W ciągu jednego roku na grzbietach stada czterdziestu pięciu krów rasy Jersey odkryto jedynie dziesięć larw. Zazwyczaj larwy te mają średnicę nieco większą niż ołówek, ale te dziesięć larw miało tak trudne warunki w organizmach krów przeciwko działaniu octu i jodu, że były cieńsze niż wykałaczki.
+
+Dalsze obserwacje w odniesieniu do suplementów paszy o wysokiej zawartości jodu wykazały, że kiedy były stosowane, liczba bakterii w mleku spadała. Kiedy suplementacja jodem była przerywana, liczba bakterii wzrastała, ale natychmiast malała po wznowieniu podawania jodu.
+
+== Wartość Jodu w Wytrzymałości Konia Wyścigowego
+
+Od doktora Williama Westona z Karoliny Południowej oraz jego doświadczeń z zimowaniem koni wyścigowych zdobyłem interesującą i wartościową wiedzę na temat roli jodu w organizmie i jego związku z wytrzymałością.
+
+Około sto koni wyścigowych spędza zimę w jego okolicy. Dwa lata przed moją wizytą opiekun koni zgłosił się do doktora Westona, mówiąc, że ma pod swoją opieką konia, który ma wszystko, czego potrzeba, aby wygrać Kentucky Derby. Jeśli tylko udałoby się dokładnie ustalić, jak karmić tego konia, aby utrzymać jego szybkość, byłby przekonany, że koń odniesie wybitne sukcesy w nadchodzącym sezonie wyścigowym. Poprosił doktora Westona o pomoc w zaplanowaniu diety konia.
+
+Dr Weston, bardzo zainteresowany, zgodził się pomóc. Pierwszym krokiem było pobranie próbek wszystkich pokarmów podawanych koniowi. Próbki zostały przeanalizowane w Laboratorium Badania Żywności w Karolinie Południowej. Wynik analizy skłonił doktora Westona do zalecenia zwiększenia zawartości jodu w diecie poprzez włączenie do niej pokarmów szczególnie bogatych w jod. Zaleceń tych przestrzegano. W kolejnym sezonie koń wygrał wszystkie wyścigi, w których brał udział.
+
+== Znaczenie Jodu w Wytrzymałości i Energii Koni Wyścigowych
+
+W wyniku swoich doświadczeń doktor Weston został zaproszony przez dwóch zamożnych właścicieli koni wyścigowych na ich farmy, aby omówić sposób karmienia ich koni. Ponownie do standardowych racji żywnościowych dodano produkty bogate w jod, co przyniosło te same rezultaty – każdy koń karmiony dietą bogatą w jod wygrał wszystkie wyścigi, w których brał udział. Wydaje się to być kompletnym dowodem na związek jodu z energią i wytrzymałością.
+
+== List Do Doktora Westona
+
+Następnie doktor Weston przesłał mi kopię listu skierowanego do niego jako przewodniczącego Komisji Badania Żywności Karoliny Południowej. List ten doskonale ilustruje potrzebę przestrzegania naturalnego obowiązku dostarczania jodu w codziennej diecie. Treść listu była następująca:
+
+---
+*Drogi Doktorze Weston,*
+
+Teraz, gdy dotarliśmy do połowy sezonu wyścigowego, chciałbym podzielić się z Panem naszymi obserwacjami dotyczącymi wyników zimowania naszych koni w Karolinie Południowej oraz karmienia ich miejscowymi paszami.
+
+Po sześciu latach eksperymentów z kilkuset końmi jesteśmy bardziej niż kiedykolwiek przekonani, że Pana pasze, obfite w jod i zrównoważone pod względem zawartości minerałów, są czynnikiem ratującym zdrowie wielu naszych koni. Pozwolę sobie podać przykład. Tego lata na torach wyścigowych w Nowym Jorku wybuchła epidemia grypy i kaszlu wśród dwulatków. Rozprzestrzeniła się jak pożar przez stajnie, a wszystkie znane środki lecznicze i zapobiegawcze były wobec niej bezsilne.
+
+Po dokładnym sprawdzeniu odkryliśmy, że żaden z koni zimowanych w Karolinie Południowej nie został dotknięty chorobą. Oczywiście często o tym wspominaliśmy, co zwróciło uwagę wielu osób w Karolinie Południowej i podkreśliło zalety Pana teorii i odkryć.
+
+Zauważyliśmy, że nasze konie są prawie odporne na choroby skóry, nosaciznę i inne choroby zakaźne po zimowaniu w Karolinie Południowej i powrocie na tory, gdzie te schorzenia zbierają żniwo. Pan widział, jak szybko możemy leczyć różne dolegliwości u młodych koni. Wierzymy, że krew jest tak oczyszczana przez działanie jodu w Pana paszach i wodzie, że wszystkie powszechne infekcje są eliminowane, a organizm jest tak wzmocniony, że potrafi walczyć i zapobiegać wszystkim chorobom z wyjątkiem bezpośrednich infekcji przez otwarte rany.
+
+Kilka lat temu dobry trener był tym, który potrafił przygotować swoje konie do wyścigów, dobrze odżywione i pełne mięśni. Jednak skład tych mięśni i zawartość krwi, która je odżywia, są decydującymi czynnikami w przygotowaniu naprawdę sprawnego i gotowego konia.
+
+W uznaniu dobra, jakie Pana praca przyniosła naszym koniom, oraz rzeczy, których się dzięki Panu nauczyliśmy, mamy nadzieję, że znajdzie Pan czas w nadchodzącym sezonie, aby ponownie spędzić znaczną ilość czasu na terenach targowych i przeprowadzić dalsze eksperymenty na naszym stadzie.
+---
+
+== Wnioski
+
+Treść listu jasno pokazuje, jak duże znaczenie ma odpowiednia zawartość jodu w diecie zarówno koni, jak i ludzi. Przyczynia się ona nie tylko do zwiększenia wytrzymałości i odporności, ale również do ochrony przed chorobami zakaźnymi.
+
+== Instynkt Zwierząt i Korzyści z Suplementacji Jodem oraz Octem Jabłkowym
+
+==== Eksperyment z Krowami Mlecznymi
+
+Aby sprawdzić, czy instynkt odgrywa rolę w prowadzeniu krów mlecznych do pokarmów bogatych w jod, właściciel mieszanego stada 54 krów, które wcześniej badałem, zbudował dla mnie specjalną stację karmienia na końcu drogi prowadzącej z obory. Stacja była podzielona na cztery zadaszone przedziały, chroniące zawartość przed deszczem:
+
+1. W pierwszym przedziale znajdował się suplement paszowy reklamowany na skalę krajową, zawierający jod i inne minerały w formie nieorganicznej.
+2. Drugi przedział zawierał mączkę kostną.
+3. W trzecim przedziale znajdował się suplement paszowy wykonany z wodorostów morskich (kelp), które zawierają minerały w formie organicznej.
+4. Czwarty przedział zawierał sól.
+
+Obserwowaliśmy reakcje krów, gdy po raz pierwszy mijały tę stację karmienia. Każda krowa wąchała zawartość każdego przedziału. Omijały suplement wykonany z minerałów nieorganicznych. Kilka z nich zjadło nieco mączki kostnej, a inne trochę soli. Jednak największym zainteresowaniem cieszył się kelp, który zawiera więcej jodu niż jakakolwiek inna roślina. Krowy szybko opróżniały przedział z kelpem tak szybko, jak tylko mogliśmy go napełniać. 
+
+Ten eksperyment rozstrzygnął kwestię: krowy preferują jod w formie organicznej, czyli naturalnej. Następnie podałem kelp dwóm zarejestrowanym bykom rasy Jersey w oborze. Szybko go przyjęły i domagały się więcej.
+
+==== Eksperyment z Psami Myśliwskimi
+
+Jeden z moich znajomych, który hobbystycznie hoduje psy myśliwskie rasy Breton (Brittany spaniel), zapytał mnie, czy można podawać ocet jabłkowy jego psom. Był pod wrażeniem korzystnego wpływu octu jabłkowego na swoje zdrowie i wytrzymałość, a jednocześnie uważał, że jego psy zbyt łatwo się męczą podczas polowań.
+
+Zdecydowaliśmy się na następujący plan:
+- **Poza sezonem polowań:** Jedna łyżka stołowa octu jabłkowego dodawana raz dziennie do racji każdego psa.
+- **Podczas polowań:** Jedna łyżka stołowa dodawana dwa razy dziennie do racji każdego psa.
+- **Podczas polowań z dostępem do wody:** Jedna łyżka stołowa dodawana do wody pitnej psa.
+- **Podczas polowań bez dostępu do wody:** Jedna łyżka stołowa nierozcieńczonego octu jabłkowego podawana psu, gdy jest spragniony.
+
+Po trzech latach stosowania tej metody w hodowli osiągnięto następujące wyniki:
+
+1. Pies otrzymujący ocet jabłkowy nie męczy się łatwo. Średni pies, który go nie otrzymuje, jest zdolny do polowania przez 3–4 godziny dziennie, podczas gdy pies otrzymujący ocet poluje bez przerwy przez 8–10 godzin.
+2. Pies otrzymujący ocet jabłkowy jest w stanie wskazywać i aportować wszystkie ptaki dla nawet czterech myśliwych polujących jednocześnie.
+3. Pies otrzymujący ocet jabłkowy nie wykazuje zadyszki podczas polowania.
+4. Pies otrzymujący ocet jabłkowy utrzymuje dobry apetyt i zjada każdy posiłek podczas polowania.
+5. Pies otrzymujący ocet jabłkowy nie traci wagi podczas polowania.
+
+== Zastosowanie Wiedzy o Jodzie i Occie Jabłkowym w Życiu Codziennym Menedżera
+
+Śledząc zastosowanie jodu w zwiększaniu szybkości i wytrzymałości koni wyścigowych oraz psów myśliwskich, możemy teraz dostosować tę wiedzę do zdrowotnej strony codziennego życia menedżera biznesowego.
+
+==== Poranne Nawodnienie
+
+Po wstaniu rano, podczas ubierania się, menedżer wypija szklankę wody, do której dodano jedną lub dwie łyżeczki octu jabłkowego. Co może osiągnąć, stosując tę praktykę?
+
+Wiedza o tym, że kwasy rozrzedzają płyny ustrojowe, pochodzi z czasów, gdy upuszczanie krwi było powszechną formą leczenia. Na przykład na farmie zaobserwowano, że mleko zdrowej krowy ma słabo kwaśny odczyn. Gdy odczyn mleka zmienia się na zasadowy, mleko staje się gęste jak zupa. Jednak ta gęstość znika, a mleko powraca do normalnej, wodnistej konsystencji, jeśli krowa otrzyma doustnie cztery uncje (ok. 120 ml) octu jabłkowego i cztery uncje wody rano i wieczorem.
+
+Choć istnieją inne sposoby zaobserwowania tej zasady w działaniu, ten przykład wystarczy. Kluczowe jest to, że żaden zapracowany menedżer nie chce, aby jego krew była gęsta jak zupa. Rozumie, że powinna być rzadka, aby łatwo krążyła po organizmie, ułatwiając pracę serca, które pompuje krew przy każdym uderzeniu.
+
+==== Zdrowe Śniadanie
+
+Na śniadanie menedżer unika pokarmów z pszenicy, płatków pszenicznych, białego cukru oraz owoców cytrusowych i ich soków, ponieważ u większości ludzi te produkty zmieniają naturalnie kwaśny odczyn moczu na zasadowy. Zasadowość sygnalizuje, że krew jest gęstsza, niż powinna być, co utrudnia jej krążenie i zwiększa wysiłek serca podczas pompowania.
+
+Dlatego menedżer zastępuje te niezdrowe produkty żywnością z żyta i kukurydzy oraz ich płatkami. Zamiast białego cukru stosuje miód. Jeśli ma ochotę, może pić sok jabłkowy, winogronowy lub żurawinowy.
+
+== Plan Odżywiania dla Dynamicznego Dnia
+
+==== Obiad
+
+Na obiad menedżer wypija dwie łyżeczki octu jabłkowego i dwie łyżeczki miodu rozpuszczone w szklance wody. W ten sposób dostarcza kwasy pochodzące z gleby za pośrednictwem owoców, jagód, jadalnych liści i korzeni, a także energię słoneczną zakumulowaną w miodzie. Jest to doskonałe wzmocnienie organizmu, które można spożywać przed, w trakcie lub po obiedzie.
+
+==== Przygotowanie Organizmu na Dzień Pełen Akcji
+
+Kiedy organizm przygotowuje się na dzień dynamicznego działania, reakcja moczu zmienia się z normalnej, czyli kwaśnej, na zasadową. Dlatego rano nie należy spożywać pokarmów, które dodatkowo wzmocnią tę zmianę, takich jak produkty pszenne, biały cukier czy owoce cytrusowe i ich soki. Dzięki temu menedżer wróci do domu z mniejszym zmęczeniem psychicznym i fizycznym.
+
+==== Kolacja
+
+Na wieczorny posiłek menedżer również spożywa dwie łyżeczki octu jabłkowego i dwie łyżeczki miodu w szklance wody. Może je wypić przed posiłkiem jako aperitif lub w trakcie posiłku.
+
+Korzyści przynosi rozpoczęcie kolacji od sałatki z zielonych liści, co pozwala czerpać kwasy z gleby oraz energię słoneczną zgromadzoną w liściach.
+
+Jeśli dzień był przepełniony pracą i stresem, warto sięgnąć po ryby lub inne owoce morza. Dostarczą one jodu i potasu, które pomogą uspokoić układ nerwowy.
+
+==== Ograniczenie Mięsa Mięśniowego
+
+Staraj się jeść mięso mięśniowe, takie jak wołowina, jagnięcina czy wieprzowina, tylko dwa razy w tygodniu, i to w dni o lżejszym harmonogramie. Mięso mięśniowe „organizuje” ciało w trybie walki, czego nie powinieneś oczekiwać od jedzenia.
+
+Pamiętaj, że organy wewnętrzne zwierząt, takie jak wątroba, stanowią magazyn składników odżywczych zwierzęcia na czas potrzeby. Dobrym pomysłem jest spożywanie wątroby lub pasztetu wątrobowego raz w tygodniu.
+
+==== Podsumowanie
+
+Stopniowo, stosując powyższy plan, możesz wprowadzać zmiany w swoich codziennych wyborach żywieniowych, aby spożywane produkty równoważyły duże zużycie siły i energii w ciągu dnia.
+
+== Dodatkowe Wskazówki Dotyczące Stosowania Jodu w Okresach Wysokiego Stresu
+
+Jeżeli stosujesz się do powyższych zaleceń, a mimo to zauważasz, że w niektóre tygodnie presja życia prywatnego i zawodowego powoduje utratę zdolności do regeneracji, warto dodać kroplę roztworu Lugola do szklanki soku jabłkowego lub winogronowego na śniadanie. Alternatywnie możesz dodać ją do mieszanki octu jabłkowego i wody.
+
+==== Mechanizm Działania Jodu i Potasu
+
+- Potas zawarty w roztworze Lugola blokuje mechanizm organizmu, który przygotowuje ciało do agresywnego działania, pozwalając na relaks i odpoczynek, gdy pojawia się taka możliwość.
+- Jod aktywuje mechanizm organizmu odpowiedzialny za spokój, regenerację oraz budowanie i magazynowanie rezerw energetycznych.
+
+Podczas pracy pod dużą presją stosuj dawkę roztworu Lugola każdego dnia, aż do zakończenia okresu stresu.
+
+==== Objawy Nadmiaru Jodu
+
+Jeśli organizm zostanie nasycony jodem, możesz zauważyć zwiększoną wilgotność w nosie. W takim przypadku przerwij stosowanie jodu, aż do powrotu do normalnego stanu.
+
+==== Słuchanie Sygnałów Swojego Ciała
+
+Ucząc się obserwować siebie, szybko nauczysz się rozpoznawać momenty, kiedy potrzebujesz jodu. Jeśli nocny sen nie przynosi Ci energii na nowy dzień, jakiej zazwyczaj doświadczasz, powinieneś pomyśleć o suplementacji jodu. Odpowiednie stosowanie jodu przywróci Twoją zdolność regeneracji i pomoże utrzymać dobre samopoczucie.
+

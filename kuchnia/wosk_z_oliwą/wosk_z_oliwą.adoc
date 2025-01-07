@@ -1,0 +1,112 @@
+= Formułowanie i optymalizacja nowych smarowideł na bazie oliwy z oliwek i miodu
+
+Zródło: https://www.scirp.org/pdf/fns_2022041815274194.pdf | tłumaczenie z pomocą ChatGPT R.Styczynski
+
+
+[abstract]
+Smarowidło do chleba jest jednym z podstawowych produktów w ludzkiej diecie. Zazwyczaj najczęściej spożywane są serki do smarowania, masło, kremy czekoladowe i margaryny. W ostatniej dekadzie wprowadzono nową koncepcję żywieniową w postaci smarowideł niskotłuszczowych lub funkcjonalnych. Niniejsza praca jest próbą opracowania i optymalizacji nowych smarowideł niskotłuszczowych na bazie oliwy z oliwek i miodu, wykorzystując metodologię powierzchni odpowiedzi (RSM) w układzie Box-Behnken. Optymalizacja dotyczyła stabilności i właściwości teksturalnych w zależności od trzech czynników: zawartości wosku pszczelego, czasu mieszania oraz prędkości mieszania. Wyniki wykazały, że najlepsza mieszanka zawierała 1% wosku pszczelego, 79% miodu i 20% oliwy z oliwek, przy czasie mieszania wynoszącym 6,39 min i prędkości mieszania 15 428 obr./min. Wosk pszczeli był głównym czynnikiem mającym największy wpływ na wszystkie właściwości smarowideł.
+
+== Wprowadzenie
+
+Wiele operacji przetwarzania żywności ma na celu stworzenie mikrostruktur nadających produktowi pożądane właściwości. Sztucznie strukturyzowane produkty spożywcze wykorzystują procesy teksturowania, takie jak emulgowanie, spienianie czy wyrabianie smarowideł. Produkt końcowy ma złożoną mikrostrukturę utrzymywaną przez siły wiążące różne fazy. Oprócz kluczowych cech, takich jak stabilność i smak, kontrola mikrostruktury jest często kluczowym czynnikiem jakości produktów.
+
+Potrzeba rynkowa na produkty nisko- lub beztłuszczowe stale rośnie. Nowe składniki i technologie są niezbędne do opracowywania takich produktów, jak margaryny, smarowidła czy dressingi do sałatek. Smarowidła to półstałe produkty spożywcze bogate w tłuszcz, które powinny być łatwe do rozsmarowania. Klasyfikuje się je jako emulsje woda/olej (W/O) o różnorodnych składach, zawierających tłuszcze, wodę, emulgatory, stabilizatory, sól, przeciwutleniacze i inne dodatki.
+
+Z kolei chleb jest ważnym elementem diety w wielu częściach świata i rzadko spożywa się go w czystej postaci. Najczęściej łączy się go z innymi produktami, jak smarowidła, które pełnią dwie podstawowe funkcje: przyczepność „górnej warstwy” do chleba i poprawę smarowności. Niektóre smarowidła są projektowane w celu osiągnięcia konkretnych celów zdrowotnych, co napędza rozwój kategorii „żywności funkcjonalnej”.
+
+Celem niniejszej pracy było zbadanie zastosowania oliwy z oliwek i miodu do stworzenia funkcjonalnego smarowidła o obniżonej zawartości tłuszczów nasyconych i wzbogaconego w przeciwutleniacze przy użyciu wosku pszczelego jako emulgatora. Formulacja oparta była na metodologii powierzchni odpowiedzi (RSM). Wybór oliwy z oliwek i miodu opierał się na ich wysokiej wartości odżywczej i korzyściach zdrowotnych.
+
+== Materiały i metody
+
+=== Próbki
+
+Badanie przeprowadzono na monowarietalnej oliwie z oliwek dziewiczej pochodzącej z tunezyjskiej odmiany Chetoui, uprawianej na północy Tunezji. Próbki miodu pochodziły z eukaliptusa, również z północnych regionów Tunezji. Naturalny wosk pszczeli dostarczono z Centralnego Laboratorium Analiz i Testów.
+
+=== Przygotowanie smarowideł
+
+Jak opisano w poprzednich badaniach, starano się opracować stabilne smarowidła na bazie oliwy z oliwek i miodu, wykorzystując wosk pszczeli jako emulgator. Stabilność produktu oraz właściwości reologiczne badano, a następnie przeprowadzono analizę sensoryczną. Wyniki pokazały, że próbki o wysokiej zawartości miodu były preferowane przez konsumentów, podczas gdy próbki bogate w oliwę maskowały kwaśny i gorzki smak. W związku z tym stężenie oliwy z oliwek ustalono na poziomie 20%.
+
+Faza ciągła składała się z mieszaniny miodu i wosku pszczelego o różnych stężeniach. Przygotowano trzy oddzielne formulacje smarowideł, które różniły się jedynie rodzajem miodu: eukaliptusowego, tymiankowego i wielokwiatowego.
+
+=== Optymalizacja przygotowania smarowideł za pomocą metodologii powierzchni odpowiedzi (RSM)
+
+Metoda projektowania eksperymentu jest szeroko stosowanym podejściem badawczym. Ma na celu określenie istniejących zależności między zmiennymi (czynnikami i odpowiedziami) w celu zoptymalizowania warunków eksperymentalnych przy uzyskaniu maksymalnej ilości informacji z minimalnej liczby doświadczeń.
+
+W niniejszym badaniu zastosowano metodę Box-Behnken, wymagającą trzech poziomów (-1, 0, +1) dla dopasowania modelu drugiego rzędu. Analizę wyników przeprowadzono za pomocą oprogramowania Design-Expert (wersja 11, Stat-Ease, Inc., Minneapolis, USA). Metodologia RSM pozwoliła na określenie optymalnych warunków formulacji smarowidła na bazie oliwy z oliwek i miodu pod względem stabilności i właściwości reologicznych w zależności od trzech czynników: zawartości wosku pszczelego, czasu mieszania oraz prędkości mieszania.
+
+==== Parametry eksperymentu
+
+Zmienne badawcze obejmowały:
+- **Zawartość wosku pszczelego (X1)**: 1% - 5%
+- **Czas mieszania (X2)**: 3 - 9 minut
+- **Prędkość mieszania (X3)**: 15 000 - 18 000 obr./min
+
+Wartości naturalne i zakodowane dla zmiennych niezależnych przedstawiono w poniższej tabeli.
+
+.Table 1: Zakodowane i naturalne wartości zmiennych niezależnych użytych w projekcie RSM.
+|===
+| Kodowana wartość | Zawartość wosku pszczelego (%) | Czas mieszania (min) | Prędkość mieszania (obr./min)
+| -1 | 1 | 3 | 15 000
+| 0 | 3 | 6 | 16 500
+| +1 | 5 | 9 | 18 000
+|===
+
+== Analiza fizykochemiczna
+
+=== Stabilność emulsji
+
+Stabilność emulsji była oceniana w odniesieniu do oddzielania się faz. Zbadano zmiany objętościowej proporcji faz w wyniku przechowywania smarowideł w temperaturze pokojowej przez 7 dni. Stabilność była wyrażana w procentach, określając stosunek objętości emulsji stabilnej do całkowitej objętości mieszaniny.
+
+=== Analiza teksturalna
+
+Właściwości teksturalne smarowideł, takie jak twardość, spójność i lepkość, były analizowane przy użyciu analizatora tekstury TA-XT Plus (Stable Micro Systems, Wielka Brytania). Analizę przeprowadzono w temperaturze 25°C przy użyciu cylindrycznego tłoka o średnicy 36 mm. Próbki były umieszczane w cylindrycznych naczyniach, a testy ściskania przeprowadzano do głębokości 15 mm z prędkością 1 mm/s.
+
+=== Reologia
+
+Właściwości reologiczne próbek mierzono za pomocą reometru Discovery HR-1 (TA Instruments, USA) z geometrią stożkowo-płytową (średnica 40 mm, kąt 2°). Pomiary przeprowadzano w temperaturze 25°C, a zakres prędkości ścinania wynosił od 0,01 do 100 s^-1. Dane były analizowane w celu określenia lepkości dynamicznej próbek.
+
+=== Stabilność oksydacyjna
+
+Stabilność oksydacyjna smarowideł była oceniana poprzez określenie liczby nadtlenkowej (PV) zgodnie z metodą opisaną w normie AOAC (1990). PV mierzono na podstawie ilości nadtlenków wyrażonych jako milirównoważniki aktywnego tlenu na kilogram tłuszczu.
+
+=== Analiza sensoryczna
+
+Analiza sensoryczna została przeprowadzona z udziałem 20 nieprzeszkolonych uczestników. Próbowano smarowideł o różnych składach, oceniając ich smak, teksturę i ogólne wrażenia. Oceny dokonywano w skali 9-punktowej, gdzie 1 oznaczało „bardzo nieprzyjemne”, a 9 „bardzo przyjemne”.
+
+== Wyniki i dyskusja
+
+=== Optymalizacja smarowideł na podstawie metodologii powierzchni odpowiedzi (RSM)
+
+Analiza wyników eksperymentu wykazała, że trzy czynniki: zawartość wosku pszczelego, czas mieszania i prędkość mieszania, miały istotny wpływ na stabilność emulsji i właściwości teksturalne smarowideł. Wyniki optymalizacji wskazały, że najlepsza formulacja zawierała 1% wosku pszczelego, 79% miodu i 20% oliwy z oliwek. Przygotowanie tego smarowidła obejmowało mieszanie przez 6,39 min przy prędkości 15 428 obr./min.
+
+=== Stabilność emulsji
+
+Stabilność emulsji była wysoce zależna od zawartości wosku pszczelego. Wzrost stężenia wosku zwiększał stabilność, zapobiegając oddzielaniu się faz. Formulacje z niższą zawartością wosku wykazywały większe prawdopodobieństwo rozdzielania wody i tłuszczu, szczególnie podczas przechowywania w temperaturze pokojowej.
+
+=== Właściwości teksturalne
+
+Badania teksturalne wykazały, że zawartość wosku pszczelego znacząco wpływała na twardość, spójność i lepkość smarowideł:
+- Wyższe stężenie wosku powodowało wzrost twardości i spójności.
+- Niższe stężenie wosku skutkowało bardziej miękką i mniej zwartą teksturą.
+
+=== Reologia
+
+Lepkość dynamiczna smarowideł zmieniała się w zależności od zawartości wosku pszczelego oraz parametrów mieszania. Lepkość była wyższa w formulacjach z większą ilością wosku, co sugeruje lepszą stabilność strukturalną emulsji.
+
+=== Stabilność oksydacyjna
+
+Wartości liczby nadtlenkowej (PV) pozostawały poniżej 3 meq/kg, co wskazuje na wysoką stabilność oksydacyjną smarowideł. Wynik ten potwierdza, że zastosowanie wosku pszczelego oraz właściwe warunki mieszania skutecznie ograniczają utlenianie tłuszczów.
+
+=== Analiza sensoryczna
+
+Próby sensoryczne ujawniły preferencje konsumentów względem smarowideł o większej zawartości miodu. Zbyt wysoka zawartość oliwy z oliwek powodowała pojawienie się gorzkiego i kwaśnego posmaku, co zmniejszało akceptację produktu. Optymalna formulacja (1% wosku pszczelego, 79% miodu, 20% oliwy) uzyskała najwyższe oceny w zakresie smaku, tekstury i ogólnego wrażenia.
+
+== Wnioski
+
+Niniejsze badanie wykazało, że możliwe jest opracowanie funkcjonalnych smarowideł na bazie oliwy z oliwek i miodu z wykorzystaniem wosku pszczelego jako naturalnego emulgatora. Metodologia powierzchni odpowiedzi (RSM) umożliwiła optymalizację formulacji oraz procesu produkcji. Optymalne warunki obejmowały 1% wosku pszczelego, 79% miodu i 20% oliwy z oliwek, mieszanych przez 6,39 min przy prędkości 15 428 obr./min.
+
+Wyniki wskazały, że wosk pszczeli był kluczowym czynnikiem wpływającym na stabilność emulsji, właściwości teksturalne oraz stabilność oksydacyjną smarowideł. Konsumenci preferowali produkty o większej zawartości miodu, co podkreśla znaczenie równowagi między smakiem a właściwościami strukturalnymi.
+
+To badanie dostarcza wartościowych wskazówek dla przemysłu spożywczego w zakresie tworzenia smarowideł niskotłuszczowych i funkcjonalnych, które spełniają wymagania zdrowotne i sensoryczne konsumentów.
+
+
