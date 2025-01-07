@@ -87,6 +87,7 @@ Stabilność emulsji była wysoce zależna od zawartości wosku pszczelego. Wzro
 === Właściwości teksturalne
 
 Badania teksturalne wykazały, że zawartość wosku pszczelego znacząco wpływała na twardość, spójność i lepkość smarowideł:
+
 - Wyższe stężenie wosku powodowało wzrost twardości i spójności.
 - Niższe stężenie wosku skutkowało bardziej miękką i mniej zwartą teksturą.
 
