@@ -1,4 +1,12 @@
-== Mój sposób przetwarzania wosku.
+:toc: macro
+:toc-title: 
+:toclevels: 4
+
+= Mój sposób przetwarzania wosku.
+Jan Dzierzon, Bienenzeitung 4, 1847
+
+image:m4s1.jpg[float=right, width=300]
+
 
 Pan Kriz pisze w numerze wrześniowym, rok I, o sprzedaży wosku. Skłania mnie to, aby również wyrazić swoją opinię i zwyczaj w zakresie maksymalnego wykorzystania wosku. Tylko plastry trutowe oraz inne już zbyt stare, spleśniałe lub w inny sposób nieczyste i nieregularne tafle topię na wosk. Wszystkie piękne plastry z małymi komórkami, nawet wielkości talerzyka, są starannie przechowywane, aby mogły służyć pszczołom jako komórki na czerwie i miód, a nie inaczej.
 
