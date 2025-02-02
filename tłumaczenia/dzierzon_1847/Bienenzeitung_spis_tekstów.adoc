@@ -1,0 +1,87 @@
+:toc: macro
+:toc-title: 
+:toclevels: 4
+
+= Bienenzeitung, Trzeci Rok, 1847 - teksty J.Dzierżonia
+
+== Spis treści
+toc::[]
+
+== Nr. 1, 1 stycznia 1847 r.
+
+=== “Najważniejsze elementy wyposażenia moich uli, wraz z litograficzną ilustracją, od Dzierzona.”
+
+== Nr. 2, 15 stycznia 1847 r.
+
+=== “Najważniejsze elementy wyposażenia moich uli, od Dzierzona.” (Zakończenie.)
+=== “Ze Śląska, wraz z nieszczęśliwą wiadomością, od Dzierzona.”
+
+
+== Nr. 4, 15 lutego 1847 r.
+
+=== “Mój sposób wykorzystania wosku i: komórki trutowe nigdy nie zawierają pyłku kwiatowego, od Dzierzona.”
+=== “Kontrowersyjne punkty z historii naturalnej pszczół, od Dzierzona.”
+
+== Nr. 5, 1 marca 1847 r.
+
+=== “Kontrowersyjne punkty z historii naturalnej pszczół, od Dzierzona.” (Decyzja.)
+
+== Nr. 7, 1 kwietnia 1847 r.
+
+=== “Powtórzone potwierdzenie kilku moich zasad z roku 1846, od Dzierzona.”
+
+== Nr. 8, 15 kwietnia 1847 r.
+
+=== “Jak zapobiec zbędnemu czerwieniu? od Dzierzona.”
+
+== Nr. 9, 1 maja 1847 r.
+
+=== “Jak daleko latają pszczoły? od Dzierzona.”
+
+== Nr. 15, 1 sierpnia 1847 r.
+
+=== “Czy słodka żywność jest korzystna dla pszczół? od Dzierzona.”
+
+== Nr. 16, 15 sierpnia 1847 r.
+
+=== “Kto składa jaja trutni w normalnych warunkach? od Dzierzona.”
+
+== Nr. 17, 1 września 1847 r.
+
+=== “Uwagi na temat obaw księdza Dzierzona dotyczących uli, od Stöhra.”
+
+== Nr. 18, 15 września 1847 r.
+
+=== “Zalety uli, których główne wyposażenie opisano w Nr 1 i 2 z 1847 r., od Dzierzona.”
+
+== Nr. 19, 1 października 1847 r.
+
+=== “Coś na temat pszczelarstwa w Galicji i Podolu, przekazane przez Dzierzona.”
+
+== Nr. 20
+
+=== “Jak można przezimować nadmiarowe, płodne królowe od jesieni do wiosny? od Dzierzona.”
+
+== Nr. 22
+
+=== “Uwagi dotyczące moich uli pszczelich z odniesieniem do obaw pana dyrektora Stöhra, od Dzierzona.”
+
+== Nr. 23
+
+=== “Odpowiedź na zapytanie pana Franka i Brauna, od Dzierzona.”
+
+=== “Oferta dla pana Dzierzona, od Brauna i Franka.”
+
+== Nr. 24
+
+=== “Również mąkę żytnią zbierają pszczoły, od Dzierzon.”
+
+== Tłumaczenie
+
+Autor: Jan Dzierżoń
+
+Zródło: https://digitale-sammlungen.de/de/view/bsb10228417?page=1&q=Dzierzon
+
+
+Tłumaczenie: R.Styczynski z pomocą ChatGPT
+

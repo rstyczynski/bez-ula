@@ -1,0 +1,240 @@
+:toc: macro
+:toc-title: 
+:toclevels: 4
+
+= Bienenzeitung, Trzeci Rok, 1847
+
+== Spis treści
+toc::[]
+
+== Nr. 1, 1 stycznia 1847 r.
+
+=== “Najważniejsze elementy wyposażenia moich uli, wraz z litograficzną ilustracją, od Dzierzona.”
+=== “Roczny raport z Lüneburga, od Lahmeyera.”
+=== “Z Meklemburgii, od Pichhardta.”
+=== “Jak przygotowuję całkiem dobre piwo miodowe, od Kriza.”
+=== “Czy królewskie larwy rzeczywiście otrzymują lepszy pokarm niż te, które stają się pszczołami robotnicami? Równocześnie o właściwych robotnicach czerwiowych, od Buscha.”
+=== “Skromne wątpliwości dotyczące opinii wyrażonych przez przewodniczącego Buscha w numerze 3 gazety pszczelarskiej z 1846 roku, od Pansego.”
+=== “Pszczoły jako prorocy pogody, od Kirstena.”
+
+== Nr. 2, 15 stycznia 1847 r.
+
+=== “Najważniejsze elementy wyposażenia moich uli, od Dzierzona.” (Zakończenie.)
+=== “Roczny raport z Pomorza, od Pansego.”
+=== “Z prowincji Saksonia, od Kriza.”
+=== “Ze Śląska, wraz z nieszczęśliwą wiadomością, od Dzierzona.”
+=== “Odpowiedzi na pytania postawione w pierwszym rozdziale opinii generalnej przez dyrektora Stöhra, od Buscha.”
+=== “Uwagi na temat miodu i pyłku kwiatowego, od Hannemanna.”
+=== “Jakimi środkami możemy uzyskać wyższe plony z pszczelarstwa niż dotychczas? od Stöhra.”
+=== “Sfinks pszczeli, od Francka.”
+
+== Nr. 3, 1 lutego 1847 r.
+
+=== “Zwalczanie zjawiska skupiania się pszczół, od Kriza.”
+=== “Roczne raporty z Turyngii: a) od Buscha, b) od Kirstena.”
+=== “Z regionu Menu, od Huckela.”
+=== “Odpowiedzi na pytania postawione w drugim rozdziale opinii generalnej przez dyrektora Stöhra, od Buscha.” (Kontynuacja.)
+=== “Jakimi środkami możemy uzyskać wyższe plony z pszczelarstwa niż dotychczas? od Stöhra.” (Zakończenie.)
+
+== Nr. 4, 15 lutego 1847 r.
+
+=== “Mój sposób wykorzystania wosku i: komórki trutowe nigdy nie zawierają pyłku kwiatowego, od Dzierzona.”
+=== “Roczny raport z regionu Renu, od Kabena.”
+=== “Roczny raport z Bawarii: a) od Burghardta, b) od Stöhra.”
+=== “Kontrowersyjne punkty z historii naturalnej pszczół, od Dzierzona.”
+
+== Nr. 5, 1 marca 1847 r.
+
+=== “Wiadomości ze Szwajcarii, od Bernharda von Gellieu.”
+=== “Z Czech, od Dettla.”
+=== “Odpowiedzi na pytania postawione w drugim rozdziale opinii generalnej przez dyrektora Stöhra, od Buscha.” (Kontynuacja.)
+=== “Kontrowersyjne punkty z historii naturalnej pszczół, od Dzierzona.” (Decyzja.)
+=== “O miodzie i pyłku kwiatowym, od Hannemanna.” (Kontynuacja.)
+=== “Uwagi księdza Jonsego dotyczące recenzji jego pracy na temat hodowli pszczół, opublikowanej w numerach 7 i 8 drugiego rocznika.”
+
+
+== Nr. 6, 15 marca 1847 r.
+
+=== “O wydalaniu i jednoczeniu pszczół, od Burghardta.”
+=== “Wiadomości z Austrii: a) od Sterna, b) od G.A.”
+=== “Kilka uwag do Nr. 7, str. 78, w roczniku II tych gazet.”
+=== “Stwierdzenie: ‘Opinia o zapłodnieniu matek pszczelich jest nadal niepewna’, od Huckela.”
+=== “O miodzie i pyłku kwiatowym, od Hannemanna.” (Kontynuacja.)
+=== “Uwagi pana Jonsego dotyczące recenzji jego pracy na temat hodowli pszczół, opublikowanej w numerach 7 i 8 drugiego rocznika.” (Kontynuacja.)
+
+== Nr. 7, 1 kwietnia 1847 r.
+
+=== “Powtórzone potwierdzenie kilku moich zasad z roku 1846, od Dzierzona.”
+=== “Roczny raport z Górnych Węgier, wraz z kilkoma uwagami na temat rojów z roku 1846 i tak zwanych wiszących rojów, od Scholtza.”
+=== “Z Dolnych Węgier, od Göppla.”
+=== “O miodzie i pyłku kwiatowym, od Hannemanna.” (Zakończenie.)
+=== “O tworzeniu wosku przez pszczoły, od Dumasa i Milne’a Edwardsa, przekazane przez Jähne.”
+=== “Uwagi pana Jonsego dotyczące recenzji jego pracy na temat hodowli pszczół, opublikowanej w numerach 7 i 8 drugiego rocznika.” (Kontynuacja.)
+=== “Środek przeciw ukąszeniom pszczół.”
+=== “Pierwszy rój pszczeli w dniu 13 czerwca 1846 roku, od Adelberta Branna.”
+
+== Nr. 8, 15 kwietnia 1847 r.
+
+=== “Jak zapobiec zbędnemu czerwieniu? od Dzierzona.”
+=== “O tworzeniu wosku przez pszczoły, od Dumasa i Milne’a Edwardsa, przekazane przez Jähne.” (Decyzja.)
+=== “Roczny raport z Ilirii, od Jonsego.”
+=== “O zasięgu lotu i szybkości lotu trutni, od Adelberta Branna.”
+=== “Uwagi księdza Jonsego dotyczące recenzji jego pracy na temat hodowli pszczół, opublikowanej w numerach 7 i 8.” (Kontynuacja.)
+
+== Nr. 9, 1 maja 1847 r.
+
+Do grona czcigodnych współpracowników dołączyli:
+- Pan Brucisch, zarządca majątku w Koppitz koło Grottkau na Śląsku.
+- Dr. Bühle, inspektor królewskiego muzeum zoologicznego w Halle nad Saalą.
+- Pan Hildebrand w Wechmar koło Gotha.
+- Pan Lopitzsch, kandydat na kaznodzieję w Grammentin koło Demmin na Pomorzu.
+
+Przegląd:
+
+=== “Jeszcze jedno sprawozdanie roczne z Hanoweru, od Brüninga.”
+=== “Przemyślenia na temat zapobiegania zbędnemu składaniu jaj przez pszczoły, od Hildebranda.”
+=== “Wyniki z mojej pasieki, od Kirstena.”
+=== “Jak daleko latają pszczoły? od Dzierzona.”
+=== “Jak rozpoznaję oznaki nadchodzącego rojenia, od Scholtzego.”
+=== “Jeszcze jeden dowód na płodność sparaliżowanej skrzydlatej królowej, od Adelberta Branna.”
+
+== Nr. 10, 15 maja 1847 r.
+
+=== “Jeszcze jedno sprawozdanie roczne z Turyngii, od Adelberta Branna.”
+=== “Podobnie z Bawarii, od Heima.”
+=== “O oznakach nadchodzącego rojenia, od Scholtza.” (Decyzja.)
+=== “Pszczoły, mimo swojej wściekłości, nie przelecą przez morze, od Pansego.”
+=== “Odpowiedzi na pytania postawione przez dyrektora Stöhra w trzecim rozdziale opinii generalnej, od Buscha.” (Kontynuacja.)
+=== “Przyjaciel pszczół, od Heideggera.”
+
+
+== Nr. 11, 1 czerwca 1847 r.
+
+=== “Wiosenny raport z Dolnych Węgier wraz z kilkoma uwagami na temat zbierania pszczół, od Göppla.”
+=== “Roczny raport z Saksonii: a) z Łużyc, od Jähne, b) z Rudaw, od Süßa.”
+=== “Odpowiedzi na pytania postawione w trzecim rozdziale opinii generalnej przez dyrektora Stöhra, od Buscha.” (Kontynuacja.)
+=== “Uwagi księdza Donfa na temat recenzji jego pracy na temat hodowli pszczół, opublikowanej w Nr 7 i 8 drugiego rocznika.” (Decyzja.)
+=== “Uwagi poboczne do numerów 7–12 gazety pszczelarskiej z 1846 roku, od Jähne.”
+
+
+== Nr. 12, 15 czerwca 1847 r.
+
+=== “O zachowaniu pszczelarzy podczas rojenia, od Süßa.”
+=== “Odpowiedź na uwagi poboczne pana Jähne dotyczące Lahmeyera.”
+=== “Odpowiedzi na pytania postawione w trzecim rozdziale opinii generalnej przez dyrektora Stöhra, od Buscha.” (Decyzja.)
+=== “Zapytanie do doświadczonych pszczelarzy, od Franza i Branna.”
+=== “Rozliczenia, od Brüninga.”
+
+== Nr. 13, 1 lipca 1847 r.
+
+=== “Moje doświadczenia w pszczelarstwie i hodowli pszczół, od dr. von Reidera.”
+=== “Rok pszczelarski 1846 w Styrii oraz środek zapobiegający ucieczce rojów, od Semlitscha.”
+=== “Mało rojów przy obfitych zbiorach miodu, od Süßa.”
+=== “Legitymacja i metoda ważenia pana Lopitzscha.”
+=== “Uwagi poboczne na temat wniosków pana Dettla, od Sterna.”
+=== “Nawet w działalności pszczół znajdowano przesądy jako pokarm, od Kriza.”
+=== “Spóźniona pszczoła, od Fr. Rückerta.”
+
+== Nr. 14, 15 lipca 1847 r.
+
+=== “Moje pszczelarstwo, od Adelberta Branna.”
+=== “Przywiązanie pszczół do ich królowej i późne roje, od Lahmeyera.”
+=== “Aforyzmy, od Lopitzscha.”
+=== “Ciekawostki wynikające z pszczół zwiadowczych i pewnego urządzenia do ułatwiania lotu, a także coś na temat stałej obecności pszczół w ulach, od Scholtza.”
+=== “Uwagi poboczne na temat wniosków pana Dettla, od Sterna.” (Decyzja.)
+=== “O kwaczeniu i dźwiękach w ulu, od Süßa.”
+=== “Sprostowania, od Brüninga.”
+=== “Uwagi poboczne do numerów 7–12 gazety pszczelarskiej z 1846 roku, od Jähne.” (Kontynuacja.)
+=== “Zagadki, od Liny Franck.”
+
+== Nr. 15, 1 sierpnia 1847 r.
+
+=== “Moje pszczelarstwo, od Adelberta Branna.” (Kontynuacja.)
+=== “Rozdział dotyczący zaleceń dla tych pszczelarzy, którzy preferują gospodarkę rojową i swoje niezastąpione kosze, od Stöhra.”
+=== “Czy słodka żywność jest korzystna dla pszczół? od Dzierzona.”
+=== “Życzliwe słowo do pana Branna z Liechtensteinu w związku z uwagami dotyczącymi długości życia robotnic, opublikowanymi w Nr 4 drugiego roku, od Hucka.”
+
+== Nr. 16, 15 sierpnia 1847 r.
+
+=== “Moje pszczelarstwo, od Adelberta Branna.” (Decyzja.)
+=== “Rozdział dotyczący zaleceń dla tych pszczelarzy, którzy preferują gospodarkę rojową i swoje niezastąpione kosze, od Stöhra.” (Decyzja.)
+=== “Do czego pszczołom służy pyłek kwiatowy? od Süßa.”
+=== “Obserwacja na temat budowy wosku, od Semlitsch.”
+=== “Kto składa jaja trutni w normalnych warunkach? od Dzierzona.”
+=== “Uwagi poboczne do numerów 7–12 gazety pszczelarskiej z 1846 roku, od Jähne.” (Kontynuacja.)
+
+
+== Nr. 17, 1 września 1847 r.
+
+=== “Uwagi na temat obaw księdza Dzierzona dotyczących uli, od Stöhra.”
+=== “Łubin jako roślina miododajna, od Süßa.”
+=== “Przedstawienie istotnych luk i błędów w praktycznych częściach publikacji pana von Morlota dotyczących pszczelarstwa, od Buscha.”
+=== “Uwagi poboczne do gazety pszczelarskiej z 1846 roku na temat ochrony pszczół zimą podczas dużych mrozów i o matkach trutni, od Sterna.”
+=== “Uwagi poboczne do numerów 7–12 gazety pszczelarskiej z 1846 roku, od Jähne.” (Zakończenie.)
+
+== Nr. 18, 15 września 1847 r.
+
+=== “Eteryzacja pszczół, od dr. Bartha.”
+=== “Zalety uli, których główne wyposażenie opisano w Nr 1 i 2 z 1847 r., od Dzierzona.”
+=== “Przedstawienie istotnych luk i błędów w praktycznych częściach publikacji pana von Morlota dotyczących pszczelarstwa, od Buscha.” (Kontynuacja.)
+=== “Rzeź trutni, od dr. Bühle.”
+=== “Poboczne uwagi o pyłku kwiatowym na grzbietach pszczół i o kolorze wosku, od Sterna.”
+
+
+== Nr. 19, 1 października 1847 r.
+
+=== “Dalsze informacje na temat eteryzacji pszczół, przekazane przez Kirscha i redakcję.”
+=== “Zły rok pszczelarski w dolnej Frankonii i propozycje dotyczące dokarmiania cukrem kandyzowanym według Weigela.”
+=== “Coś na temat pszczelarstwa w Galicji i Podolu, przekazane przez Dzierzona.”
+=== “Relacja z ogólnej podróży inspekcyjnej w sprawach pszczelarskich.”
+=== “Przedstawienie istotnych luk i błędów w praktycznych częściach publikacji pana von Morlota dotyczących pszczelarstwa, od Buscha.” (Kontynuacja.)
+=== “Dalsze wyjaśnienie ogólnej opinii Stöhra jako odpowiedź na zapytanie pana przewodniczącego Buscha, od Stöhra.”
+
+
+== Nr. 20
+
+=== “Związek pszczelarski w Wirtembergii, od Burra.”
+=== “Jak można przezimować nadmiarowe, płodne królowe od jesieni do wiosny? od Dzierzona.”
+=== “W Teksasie ogromne naturalne gniazdo pszczół, od dr. Sturma.”
+=== “Przedstawienie istotnych luk i błędów w praktycznej części publikacji pana von Morlota na temat pszczelarstwa, od Buscha.” (Decyzja.)
+=== “Dalsze wyjaśnienie ogólnej opinii Stöhra jako odpowiedź na zapytanie pana przewodniczącego Buscha, od Stöhra.” (Decyzja.)
+=== “Informacje dotyczące budowy komórek trutowych w szklanej kopule i wychowu trutni, od Adelberta Branna.”
+
+== Nr. 21 
+
+=== “Mikroskopowe badania w świecie pszczół, od dr. Bartha.” (Z ilustracjami.)
+=== “Związek pszczelarski obszaru Grottkau, Neisser i Fallenberg na Górnym Śląsku, od Brucischa.”
+=== “Roślinny wosk pszczeli.”
+
+== Nr. 22
+
+=== “Mikroskopowe rozmowy o świecie pszczół, od dr. Bartha.” (Decyzja.)
+=== “Obserwacje dotyczące czerwianki u pszczół, od Grimma.”
+=== “Uwagi dotyczące moich uli pszczelich z odniesieniem do obaw pana dyrektora Stöhra, od Dzierzona.”
+=== “Moje udoskonalone ule ze słomy.”
+=== “Jak pszczelarstwo powinno być przedstawiane w leksykonach konwersacyjnych w kontekście ekonomicznym i innych pismach o mieszanej treści, od N.N. w Weimarze.”
+=== “Pszczelarstwo w Chinach.”
+
+== Nr. 23
+
+=== “Rok pszczelarski 1847 w Austrii i dokarmianie pszczół cukrem kandyzowanym, od Sterna.”
+=== “Zimowanie pszczół poprzez wkopane w ziemię magazyny w stertach zboża, od Raucha.”
+=== “Odpowiedź na zapytanie pana Franka i Brauna, od Dzierzona.”
+=== “Oferta dla pana Dzierzona, od Brauna i Franka.”
+=== “Dzieło Juhela o pszczelarstwie, drugie wydanie, od dr. Bartha.”
+=== “Odpowiedź na sfinksa pszczół, od Hannemanna.”
+
+
+== Nr. 24
+
+=== “Również mąkę żytnią zbierają pszczoły, od Dzierzon.”
+=== “Pszczelarstwo bez ula, od Hildebranda.”
+=== “Ciekawostki z jednego z moich uli, od Grimma.”
+=== “Jak pszczelarstwo powinno być przedstawiane w leksykonach konwersacyjnych w kontekście ekonomicznym i innych pismach o mieszanej treści, od N.N. w Weimarze.” (Decyzja.)
+=== “Dr Fraas o pszczelarstwie.”
+
+== Tłumaczenie
+
+Zródło: https://digitale-sammlungen.de/de/view/bsb10228417
+
+Tłumaczenie: R.Styczynski z pomocą ChatGPT

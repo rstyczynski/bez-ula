@@ -1,0 +1,185 @@
+:toc: macro
+:toc-title: 
+:toclevels: 4
+
+= 10. PRODUKCJA I HANDEL WOSKIEM PSZCZELIM
+
+== Spis treści
+toc::[]
+
+== Wstęp
+
+Wosk pszczeli to wartościowy produkt, który może przynieść dochód dodatkowy do produkcji miodu. Kilogram wosku pszczelego jest wart więcej niż kilogram miodu. W przeciwieństwie do miodu, wosk pszczeli nie jest produktem spożywczym i jest łatwiejszy w obsłudze – nie wymaga starannego pakowania, co upraszcza przechowywanie i transport. Wosk pszczeli jako źródło dochodu jest zaniedbywany w niektórych regionach tropikalnych. W niektórych krajach Afryki, gdzie pszczelarstwo oparte na stałych plastrach nadal jest normą, takich jak Etiopia i Angola, występuje znaczący eksport wosku pszczelego, podczas gdy w innych regionach handel tym surowcem jest zaniedbywany, a wosk jest wyrzucany. Na całym świecie wielu łowców miodu i pszczelarzy nie wie, że wosk pszczeli można sprzedawać lub wykorzystywać do lokalnej produkcji wyrobów o wysokiej wartości. Brakuje wiedzy na temat wartości wosku pszczelego oraz sposobów jego przetwarzania. Nie można podać dokładnych statystyk, ale szacuje się, że na rynek trafia jedynie połowa światowej produkcji wosku pszczelego, podczas gdy reszta jest wyrzucana i marnowana.
+
+== CZYM JEST WOSK PSZCZELI
+Wosk pszczeli to kremowa substancja używana przez pszczoły do budowy plastrów, które stanowią strukturę ich gniazda. Bardzo czysty wosk pszczeli jest biały, jednak obecność pyłku i innych substancji sprawia, że staje się żółty.
+
+Wosk pszczeli jest produkowany przez wszystkie gatunki pszczół miodnych. Wosk wytwarzany przez azjatyckie gatunki pszczół miodnych jest znany jako wosk Ghedda. Różni się on pod względem właściwości chemicznych i fizycznych od wosku wytwarzanego przez Apis mellifera i jest mniej kwaśny. Woski wytwarzane przez trzmiele bardzo różnią się od wosku pszczół miodnych. Czyste woski z różnych gatunków pszczół bezżądłych również są inne od pozostałych rodzajów wosku pszczelego. Są one dużo ciemniejsze – ciemnobrązowe, a po podgrzaniu rozciągają się bez pękania. Wosk ten jest również lepki i trudniejszy do złamania niż wosk pszczół Apis mellifera.
+
+== PRODUKCJA WOSKU PSZCZELEGO
+Wosk pszczeli jest wytwarzany przez młode robotnice pszczoły miodnej. Jest wydzielany w formie ciekłej z czterech par gruczołów woskowych znajdujących się na brzusznej powierzchni tergitów odwłoka (płytek na spodniej części ciała pszczoły). Ciekły wosk rozprzestrzenia się na powierzchni tych płytek i, w kontakcie z powietrzem, twardnieje, tworząc pojedynczą łuskę wosku na każdym tergicie, którą można zobaczyć jako mały płatek wosku na spodzie pszczoły. Robotnica wytwarza osiem łusek wosku co 12 godzin. Rozmiar gruczołów woskowych zależy od wieku robotnicy: są one największe, gdy pszczoła ma około 12 dni, a po osiemnastym dniu stopniowo maleją aż do końca jej życia.
+
+Około miliona tych łusek wosku potrzeba do wyprodukowania jednego kilograma wosku. Pszczoły używają sztywnych włosków na swoich tylnych nogach, aby usunąć łuski wosku i przekazać je do nóg środkowych, a następnie do żuwaczek (szczęk), gdzie wosk jest przeżuwany, a wydzieliny ślinowe mieszają się z woskiem. Gdy osiągnie odpowiednią konsystencję, nowy wosk jest używany do budowy plastra lub do zamykania komórek z miodem. Pszczoły są stymulowane do produkcji wosku, gdy mają nadmiar miodu do przechowywania i brakuje komórek plastrów do jego przechowywania. Około ośmiu kilogramów miodu jest zużywane przez pszczoły na wyprodukowanie jednego kilograma wosku.
+
+Gdy rój pszczół osiedla się w celu założenia nowego gniazda, pierwszą rzeczą, którą robią, jest rozpoczęcie budowy plastrów woskowych. Aby wytwarzać wosk i budować z niego, pszczoły potrzebują wysokiej temperatury, a produkcja pierwszego plastra odbywa się wewnątrz skupiska pszczół, gdzie temperatura jest najwyższa. Pszczoły budujące plaster łączą się i tworzą tak zwane “girlandy” lub “festony” – łańcuchy pszczół. Zwisając w ten sposób, wydzielają wosk. Gdy wosk pszczeli jest gotowy na pszczole, przemieszcza się ona w górę łańcucha do miejsca, gdzie trwa budowa, pobiera jedną z łusek wosku swoimi tylnymi nogami i przenosi ją do swojej jamy ustnej, gdzie jest przeżuwana i mieszana z wydzielinami przed użyciem do budowy. Proces ten powtarza się, aż wszystkie osiem łusek wosku zostanie zużyte. Podczas budowy plastra pszczoły budujące wibrują plastrami, uderzając je swoimi górnymi szczękami. W ten sposób zdają się oceniać grubość plastra, co pomaga im zdecydować, czy trzeba coś ogryźć, czy dodać więcej wosku.
+
+== PLASTER PSZCZELI
+Plaster pszczeli stanowi strukturę domu pszczół, służącą do przechowywania wszystkich niezbędnych zasobów w gnieździe pszczelim: miodu, pyłku, jako miejsce składania jaj oraz rozwoju młodych pszczół. Plaster pszczeli ma przekrój w kształcie sześciokąta. Ten kształt jest tworzony przez robotnice, które używają swoich czułków do utrzymania formy każdej komórki podczas jej budowy. Kształt i wymiary komórek w plastrze optymalizują stosunek rozmiaru do wytrzymałości materiałów użytych do budowy. Sześciokątne komórki oraz piramidalne dno komórek reprezentują również niezwykle efektywne wykorzystanie materiału, bez marnowania wosku. Między komórkami nie ma pustych przestrzeni, a jednocześnie osiągnięta zostaje maksymalna wytrzymałość wosku.
+
+Górny rząd komórek, który łączy plaster z sufitem miejsca gniazdowania (ściana drzewa, ul, ramka lub górna listwa), może utrzymać ponad 1300 razy swoją wagę w miodzie oraz wszystkie pszczoły pracujące i mieszkające na plastrze. Dopiero gdy temperatura wewnętrzna przekroczy +35°C, wosk zaczyna mięknąć i topnieć, a plastry tracą swoją wytrzymałość i mogą się zawalić. Zrozumienie właściwości plastra pszczelego pozwala zrozumieć wielki wysiłek, jaki pszczoły muszą włożyć, aby utrzymać temperaturę gniazda. Jeśli ul znajduje się w miejscu bez cienia, pszczoły muszą wydatkować więcej energii na utrzymanie chłodnej zawartości ula.
+
+== PRZESTRZEŃ PSZCZELA
+W gatunkach pszczół miodnych, których kolonie posiadają wiele plastrów, plastry są rozmieszczone w precyzyjnej odległości od siebie, umożliwiając pszczołom pracę w plastrach, przemieszczanie się między nimi oraz utrzymanie temperatury. Jeśli ludzie hodują pszczoły w ulach, konieczne jest stworzenie w ulu środowiska, które imituje sposób, w jaki pszczoły budują swoje gniazdo na wolności. Dlatego ramki w ulach ramkowych muszą być rozmieszczone w takiej samej odległości, jak plastry w naturalnym gnieździe.
+
+Odległość między środkiem jednego plastra a środkiem kolejnego różni się w zależności od ras pszczół: na przykład w plastrach afrykańskich pszczół miodnych Apis mellifera przestrzeń jest o około dwa milimetry mniejsza niż u europejskich ras Apis mellifera. Ta odległość pozwala dwóm robotnicom mijać się, gdy przemieszczają się w przestrzeni między plastrami lęgowymi. W obszarach plastrów przeznaczonych do przechowywania miodu komórki są często budowane głębsze, tak że tylko jedna warstwa pszczół może przechodzić między nimi.
+
+Jeśli przestrzeń na to pozwala, w dziupli drzewa lub w ścianie, plastry pszczół Apis mellifera mogą mieć ponad metr długości, z każdą zawierającą kilka kilogramów miodu. Zwykle plaster budowany jest od góry do dołu, zaczynając od małego plastra o eliptycznym kształcie. Plaster składa się z centralnej warstwy z sześciokątnymi komórkami po każdej stronie. Każda komórka jest lekko nachylona ku górze, z otworem nieco wyżej niż podstawa. W naturalnie skonstruowanych plastrach wymiary komórek różnią się w zależności od gatunku i rasy pszczół miodnych. Typowe wymiary komórek dla robotnic budowanych przez europejskie rasy Apis mellifera wynoszą od 5,13 mm (Apis mellifera ligustica) do 5,5 mm (Apis mellifera carnica). Europejskie rasy Apis mellifera akceptują plastry woskowe z 800 komórkami na dm², co pozwala na komórki o średnicy 5,4 mm. Apis cerana, azjatycka pszczoła ulowa, wymaga mniejszych komórek. Komórki budowane dla trutni są większe niż te budowane dla robotnic.
+
+== PSZCZELARSTWO DLA PRODUKCJI WOSKU PSZCZELEGO
+Istotnym aspektem pszczelarstwa w ulach ramkowych jest recykling pustych plastrów (wewnątrz ramek) z powrotem do ula po ekstrakcji miodu, co maksymalizuje produkcję miodu i minimalizuje produkcję wosku. Dlatego pszczelarstwo wykorzystujące ule z ruchomymi ramkami (np. ule Langstrotha i Newtona) prowadzi do stosunkowo niskich zbiorów wosku pszczelego. Przy użyciu tego rodzaju uli stosunek produkcji miodu do wosku wynosi około 75:1.
+
+Pszczelarstwo wykorzystujące tradycyjne ule lokalne, ule z nieruchomymi plastrami lub ule z ruchomymi plastrami (top-bar), daje większe plony wosku pszczelego, ponieważ delikatne plastry miodu są niszczone w celu ekstrakcji miodu i nie mogą być ponownie wykorzystane w ulu. Stosunek produkcji miodu do wosku w przypadku uli z nieruchomymi lub ruchomymi plastrami wynosi około 10:1. Z tego powodu kraje afrykańskie, w których pszczelarstwo z nieruchomymi plastrami i pozyskiwanie miodu są normą, produkują znaczące ilości wosku pszczelego, co stanowi cenny towar eksportowy dla niektórych z tych krajów. W niektórych sytuacjach wosk, a nie miód, może być najbardziej cenionym produktem pszczelarstwa.
+
+Podczas okresów obfitości miodu, tj. gdy w ulu znajduje się dużo nektaru, pszczoły są stymulowane do produkcji wosku w celu budowy plastrów na przechowywanie nektaru. W okresach niedoboru produkcja wosku pszczelego ustaje; w razie potrzeby pszczoły recyklingują wosk z istniejących plastrów do zamykania komórek z miodem i larwami.
+
+Pszczoły produkujące wosk potrzebują dużo pożywienia: jak wspomniano wcześniej, pszczoły zużywają około ośmiu kilogramów miodu na wyprodukowanie jednego kilograma wosku pszczelego. Kiedy pszczoły rójkują z kolonii i muszą budować nowe plastry, produkcja i budowa wosku jest prowadzona przez robotnice w różnym wieku. Młode pszczoły muszą zacząć produkcję wosku wcześniej, niż miałyby to robić w ustalonej kolonii, a starsze pszczoły muszą wznowić produkcję wosku.
+
+== MIĘDZYNARODOWY HANDEL
+
+Nie jest łatwo uzyskać oficjalne statystyki dotyczące produkcji wosku pszczelego: na przykład brak oficjalnych danych o produkcji wosku pszczelego w krajach UE. Unia Europejska importuje około 6 000 ton wosku pszczelego rocznie, z czego około 50% pochodzi z krajów rozwijających się. Główne kraje importujące to Niemcy, Francja i Wielka Brytania, gdzie wosk pszczeli jest potrzebny do przemysłów farmaceutycznych i medycznych.
+
+Kraje tropikalne dominują w światowej produkcji i eksporcie wosku pszczelego, podczas gdy kraje uprzemysłowione muszą go importować. Jak wspomniano wcześniej, w lokalnych stylach pszczelarstwa zarówno miód, jak i wosk są zbierane razem.
+
+Tabela 20: Światowa produkcja i handel woskiem pszczelim
+(pominięta)
+
+== NIE MARNOWAĆ WOSKU PSZCZELEGO
+
+W regionach, gdzie większość lub całość produkowanego miodu jest konsumowana lokalnie, a wosk pszczeli nie znajduje lokalnego zastosowania, fragmenty wosku są często wyrzucane. Rozwój systemu zbierania wosku, poprzez zachęcanie pszczelarzy w regionie do oszczędzania wosku i organizowanie sprzedaży zgromadzonego surowca, może zapewnić dodatkowy dochód z zasobu, który w innym przypadku zostałby zmarnowany. Zarówno zbieracze miodu, jak i pszczelarze powinni zdawać sobie sprawę, że wosk pszczeli jest cennym produktem obok miodu.
+
+Jeżeli stare plastry woskowe są przechowywane bez odpowiedniego przetwarzania, szczególnie w klimacie tropikalnym, zostaną one w ciągu kilku tygodni zjedzone przez barciaki (mole woskowe). Stare plastry mogą również być siedliskiem chorób pszczół i przyczyniać się do rozprzestrzeniania chorób między koloniami. Myszki mogą przegryzać plastry, powodując duże szkody w ulu, ale większość zwierząt nie jest w stanie trawić wosku – przechodzi on przez ich układ trawienny w nienaruszonym stanie. Jedynie larwy barciaków i niektóre ptaki, które mają odpowiednie bakterie w swoich jelitach, są w stanie trawić wosk.
+
+== FAŁSZOWANIE WOSKU PSZCZELEGO
+
+Wosk pszczeli jest stosunkowo drogi, co od zawsze skłaniało ludzi do jego fałszowania lub rozcieńczania tańszymi materiałami. Temperatura topnienia czystego wosku pszczelego wynosi 64,5 °C. Dodanie parafiny obniża temperaturę topnienia i osłabia materiał. Jest to istotne, ponieważ jeden kilogram wosku w plastrze miodu może utrzymać 22 kilogramy miodu, pyłku i larw. Użycie fałszowanego wosku do produkcji węzy (podkładów plastrów) w ulach ramkowych może powodować niepotrzebne problemy zarówno dla pszczół, jak i dla pszczelarzy.
+
+== TOPIENIE I OCZYSZCZANIE WOSKU PSZCZELEGO
+
+Ścinki wosku, takie jak białe nakrywki zasklepiające plastry miodu, to najlepsze źródło wosku pszczelego. Inne źródła obejmują fragmenty luźnych plastrów, stare plastry miodowe i plastry lęgowe, które również dostarczają cennego wosku. Nawet pszczelarz posiadający kilka uli może wyprodukować wysokiej jakości bloki wosku z tych surowców.
+
+=== Ogólne zasady pracy z woskiem pszczelim
+	•	Nigdy nie podgrzewaj wosku bezpośrednio na płomieniu – zawsze używaj kąpieli wodnej.
+	•	Najlepsza woda do pracy z woskiem to miękka, czysta woda deszczowa. Twarda woda zawierająca wapń reaguje z woskiem i powoduje jego saponifikację.
+	•	Wosk pszczeli jest lekko kwaśny i reaguje z aluminium, mosiądzem, cyną, żelazem itp. Używaj pojemników z emalii, stali nierdzewnej lub plastiku.
+	•	Oddziel ciemne plastry od jasnych, aby zachować najwyższą jakość wosku.
+
+=== Tradycyjna metoda pozyskiwania wosku
+	•	Zmiękcz plastry, namaczając je w ciepłej wodzie, a następnie podgrzej w garnku z wodą.
+	•	Po stopieniu przecedź wosk przez worek z grubego materiału, usuwając większe zanieczyszczenia.
+	•	Pozostaw mieszankę woskowo-wodną do ostygnięcia. Wosk oddzieli się od wody i wypłynie na powierzchnię.
+	•	Po zastygnięciu odciśnij nieczystości z dolnej strony bloku.
+
+=== Woskownica słoneczna
+Woskownica słoneczna to prosta metoda topienia i oczyszczania wosku. Używa energii słonecznej do osiągnięcia temperatury wystarczającej do topnienia wosku (68–70 °C). Metalowa płyta skierowana pod kątem prowadzi stopiony wosk do pojemnika, jednocześnie zatrzymując zanieczyszczenia na powierzchni.
+
+== OGÓLNE ZASADY PRACY Z WOSKIEM PSZCZELIM
+
+- Wosk pszczeli nigdy nie powinien być podgrzewany bezpośrednio na płomieniu – zawsze podgrzewaj go w pojemniku z wodą (kąpiel wodna). Możesz użyć beczki olejowej lub innego dużego pojemnika. Wosk nie musi być w oddzielnym pojemniku w kąpieli wodnej. Podgrzewaj wosk tylko do momentu jego stopienia – wosk pszczeli topi się w temperaturze 62-64 °C. Podgrzewanie powyżej 85 °C powoduje przebarwienia wosku, a jego gotowanie niszczy go całkowicie. Jeśli wosk zostanie spalony, nie nadaje się już do użytku.
+- Najlepsza woda do pracy z woskiem to miękka, czysta woda deszczowa. Twarda woda zawierająca wapń reaguje z woskiem, powodując jego zmydlanie.
+- Wosk pszczeli jest lekko kwaśny i nie powinien być przechowywany w pojemnikach wykonanych z aluminium, mosiądzu, miedzi, cynku, cyny, żelaza ani blachy ocynkowanej, ponieważ mogą one reagować z woskiem i go przebarwić. Odpowiednie materiały to emalia, stal nierdzewna, nikiel lub plastik.
+- Plastry tego samego rodzaju powinny być przygotowywane razem. Nie mieszaj ciemnych plastrów z jasnymi, ponieważ obniży to jakość najlepszego wosku.
+- Łatwo jest stworzyć filtr do gorącego wosku, usuwając oba końce czystej puszki i rozciągając kawałek bawełnianego materiału na jednym końcu. Sznurek służący do zamocowania bawełny może również pełnić funkcję uchwytu.
+- Niezależnie od użytej metody topienia i ekstrakcji wosku, wosk zestala się po ostygnięciu. Oczyszczony wosk nadal może zawierać zanieczyszczenia. Ze względu na różnicę gęstości wosk wypływa na powierzchnię wody, a zanieczyszczenia osadzają się pod nim. Jeśli wosk ostygnie zbyt szybko, duża ilość zanieczyszczeń i wody zostanie uwięziona w środku bloku, co wymaga ponownego oczyszczania. Aby spowolnić proces chłodzenia, można umieścić pojemnik z mieszaniną wosku i wody w izolowanej skrzynce.
+- Po całkowitym ostygnięciu wosk można wyjąć z formy. Większość pojemników może być wygodnymi formami do wosku. Kartony po napojach wyłożone folią to jednorazowe formy o odpowiednim rozmiarze. Po całkowitym zestaleniu wosku karton można po prostu rozerwać, pozostawiając blok wosku.
+
+== TRADYCYJNA METODA EKSTRAKCJI WOSKU Z PLASTRÓW
+
+**Materiały potrzebne**: kawałki plastrów miodu, woda, garnek do topienia wosku, worek z trzciny lub inny rodzaj luźno tkanej tkaniny, materiał z drobną siatką, mydło, miska do formowania wosku.
+
+1. Usuń jak najwięcej miodu z plastrów i zmiękcz je, namaczając w ciepłej wodzie. Pyłek i pozostały miód rozpuszczą się w wodzie. Proces mycia powtórz trzykrotnie.
+2. Jeśli to możliwe, używaj czystej wody deszczowej. Jeśli woda jest bardzo zasadowa, dodaj odrobinę octu (1 część octu na 1 000 części wody).
+3. Po umyciu plastrów rozdrobnij je na małe kawałki.
+4. Umieść kawałki plastrów w garnku i dodaj wodę tak, aby całkowicie je przykryła lub była lekko powyżej poziomu plastrów.
+5. Powoli podgrzewaj mieszaninę, cały czas mieszając, zwłaszcza gdy temperatura zaczyna wzrastać. Wosk jest bardzo łatwopalny, więc zachowaj ostrożność.
+6. Po całkowitym stopieniu plastrów przelej mieszaninę do długiego worka wykonanego z trzciny, nylonu, juty lub innego grubego materiału i mocno go zwiąż. Trzymając worek nad miską lub wiadrem, ściśnij go za pomocą dwóch kawałków drewna, aby wycisnąć jak najwięcej wosku do pojemnika poniżej. Duże cząstki, takie jak larwy, drewno czy trawa, zostaną w ten sposób odfiltrowane.
+7. Pozostaw wiadro z mieszaniną gorącej wody i stopionego wosku do ostygnięcia w miejscu osłoniętym od wiatru i kurzu, najlepiej w czystym, chłodnym pomieszczeniu. Wosk zestali się na powierzchni wody, tworząc dysk. Wszelkie cząstki, które przeszły przez worek, osadzą się pod warstwą wosku.
+8. Po całkowitym ostygnięciu wyjmij warstwę wosku. Usuń wszelkie zanieczyszczenia przyczepione do dolnej strony dysku za pomocą ostrego noża i ponownie rozpuść wosk w równej objętości czystej wody. Tym razem użyj drobnej bawełnianej tkaniny, aby przefiltrować drobne zanieczyszczenia.
+9. Zbieraj mieszaninę gorącego wosku i wody do miski, najlepiej emaliowanej, którą wcześniej posmarowano cienką warstwą mydła, aby zapobiec przywieraniu wosku. Miska powinna pomieścić maksymalnie dwa kilogramy wosku. Można również używać drewnianych pojemników lub tykw jako form do wosku. Nie używaj tłuszczu ani oleju zamiast mydła, ponieważ mogą zanieczyścić wosk. Nie stosuj też mydeł o intensywnym zapachu.
+10. Umieść pojemnik w chłodnym miejscu, wolnym od kurzu i wiatru. Po około 12 godzinach, gdy mieszanina całkowicie ostygnie, można łatwo wyjąć formę wosku. Usuń wszelkie zanieczyszczenia z dolnej części bloku.
+11. Nie zakłócaj procesu chłodzenia przez 12 godzin. Nie próbuj przyspieszać procesu, ponieważ możesz zepsuć wosk.
+12. Wosk pszczeli oczyszczony tą metodą jest gotowy do sprzedaży lub eksportu i nie wymaga dalszego przetwarzania.
+13. Przechowuj oczyszczony wosk w czystym miejscu, z dala od substancji o silnym zapachu.
+
+**Alternatywna metoda tradycyjna**: Umieść rozdrobnione plastry w worku z juty i zanurz go w dużym garnku z wodą, przyciskając worek ciężarem, aby nie wypływał na powierzchnię. Podgrzewaj wodę, a wosk, jako lżejszy od wody, zacznie wypływać na powierzchnię. Po całkowitym stopieniu plastrów wyłącz źródło ciepła i pozwól wodzie ostygnąć. Po wystudzeniu wyjmij warstwę wosku z powierzchni wody.
+
+=== WOSKOWNICA SŁONECZNA
+
+Woskownica słoneczna to prosta i skuteczna metoda topienia i oczyszczania wosku pszczelego. Wykorzystuje ciepło słońca do topienia wosku, a efektywna woskownica słoneczna może być łatwo wykonana w domu. Temperatura wewnątrz woskownicy musi wzrosnąć jedynie do 68-70 °C, aby wystarczająco stopić wosk pszczeli: jeśli używany jest czysty wosk, wystarczy jedno topienie w woskownicy słonecznej, aby uzyskać satysfakcjonujący blok wosku najwyższej jakości.
+
+Woskownica słoneczna składa się z pudełka z przezroczystą pokrywą wykonaną z plastiku lub szkła, zawierającego nachyloną metalową płytę. Kawałki plastrów miodu są umieszczane na metalowej płycie, a po ich stopieniu wosk spływa po nachylonej powierzchni metalu do pojemnika. Metalowa płyta może być wygięta na krawędziach, aby skierować wosk do pojemnika. Siatka z drutu uniemożliwia przedostanie się kawałków plastra i zanieczyszczeń do pojemnika. Impurities w wosku zazwyczaj pozostają na metalowej powierzchni, a pozostałości można zeskrobać z ostatecznego, zestalonego bloku wosku.
+
+Wymiary woskownicy mogą się różnić w zależności od rozmiaru użytego pojemnika. Im większy pojemnik, tym wyższą temperaturę można osiągnąć wewnątrz woskownicy.
+
+Aby zatrzymać ciepło w pudełku, pokrywa woskownicy słonecznej powinna być wykonana z grubego plastiku lub dwóch warstw mocnego szkła z małą przestrzenią pomiędzy nimi. Reszta wnętrza pudełka powinna być pomalowana na czarno, aby maksymalnie pochłaniać ciepło. Materiał izolacyjny pod metalową płytą również pomaga zatrzymać ciepło. W pudełku nie powinno być żadnych szczelin ani pęknięć, które mogłyby powodować przeciągi i straty ciepła; duże szczeliny mogą również pozwolić na dostanie się pszczół rabusiów do woskownicy. Taca na wosk na dnie woskownicy nie powinna być przymocowana na stałe – musi być łatwo wyjmowana do czyszczenia.
+
+Idealnie, woskownica słoneczna powinna być regularnie ustawiana w ciągu dnia tak, aby zawsze była skierowana w stronę słońca, a szkło nachylone pod kątem prostym do promieni słonecznych. Jeśli to nie jest możliwe, należy zamocować podpory pod woskownicą, aby uzyskać nachylenie około 40° względem poziomu i skierować ją w stronę słońca. Cienie rzucane przez drzewa, budynki lub przechodzące chmury szybko obniżają temperaturę wewnątrz woskownicy.
+
+=== ZBIERANIE WOSKU Z BARDZO STARYCH, CZARNYCH PLASTRÓW
+
+Nawet bardzo stare, czarne kawałki plastra mogą być wartościowe do pozyskania wosku pszczelego. Jednak wosk pszczeli nie może być uzyskany z takich plastrów przy użyciu słonecznej woskownicy. Dzieje się tak, ponieważ plastry te zawierają dużą ilość kokonów i pozostałości poczwarek, pozostawionych przez kolejne pokolenia rozwijających się pszczół, które wchłaniają wosk podczas topienia. Wosk z takich plastrów można uzyskać poprzez ich rozdrobnienie i namoczenie w wodzie przez 24 godziny, a następnie związanie ich w kawałek worka i gotowanie w pojemniku pełnym wody. Część wosku wypłynie na powierzchnię, ale worek z woskiem należy energicznie mieszać, aby uzyskać maksymalny zbiór. Po pozostawieniu do ostygnięcia na noc na powierzchni wody utworzy się okrągły blok stałego wosku pszczelego.
+
+=== METODA Z FOLIĄ METALOWĄ
+
+Bardzo prostym sposobem na stopienie małych kawałków plastra jest umieszczenie ich na kawałku folii aluminiowej lub innej błyszczącej folii metalowej i pozostawienie na słońcu. W silnym świetle słonecznym wosk szybko się stopi i można go przelać do pojemnika.
+
+=== EKSTRAKCJA ZA POMOCĄ WRZĄCEJ WODY I PRASY DO WOSKU
+
+Kawałki plastra umieszcza się w dużym pojemniku (o pojemności około 100 litrów), wypełnionym w jednej trzeciej wrzącą wodą, i pozostawia do stopienia. Po całkowitym stopieniu wosku zawartość pojemnika wlewa się do prasy do wosku wyłożonej jutą. Pod wpływem nacisku wosk wypływa. Po pierwszym wyciskaniu zawartość można zamieszać i wycisnąć ponownie, powtarzając proces, aż cały wosk zostanie wyekstrahowany. Woda i stopiony wosk spływają do pojemnika, gdzie po schłodzeniu wosk unosi się na powierzchnię z powodu swojej mniejszej gęstości w porównaniu z wodą.
+
+=== EKSTRAKCJA PAROWA
+
+Ekstraktory parowe działają na tej samej zasadzie: dwa połączone zbiorniki są umieszczone jeden w drugim lub jeden na drugim. Plastry lub zasklepiny umieszcza się w perforowanym metalowym koszu wewnątrz głównego zbiornika. Ekstrakcja parowa jest dobrą metodą dla zasklepin, ale mniej odpowiednią do topienia starych plastrów, ponieważ uzyskuje się jedynie około 80% wosku.
+
+== RAFINACJA WOSKU
+
+Czyszczenie wosku za pomocą opisanych powyżej metod zaspokoi potrzeby większości użytkowników wosku. Jeśli wymagany jest bardzo czysty wosk pszczeli do specjalnych zastosowań, wosk musi zostać poddany rafinacji.
+
+=== RAFINACJA WOSKU PSZCZELEGO
+
+Proces rafinacji wosku pszczelego przebiega według następujących etapów:
+
+1. Wosk jest myty w gorącej wodzie, aby usunąć miód oraz pozwolić brudowi opaść na dno.
+2. Wosk jest mieszany z ziemią fulerską (gliną) i węglem aktywnym, co rozpoczyna proces bielenia.
+3. Powstała mieszanina jest filtrowana przez prasę filtracyjną.
+4. Wosk jest schładzany przed formowaniem w bloki lub granulki.
+
+Proces mycia i rafinacji może trwać do 30 godzin w temperaturze 90 °C.
+
+== RESZTKI WOSKU
+
+Resztki wosku, zwane "slum gum", to czarne pozostałości po procesie przetapiania wosku. Składają się one z kokonów z komórek lęgowych pszczół, kokonów moli woskowych, odchodów larw oraz niewielkich ilości pozostałego wosku. Jeśli resztki zawierają dużo wosku, po ostygnięciu tworzą solidny blok. Jeśli wosku jest mało, resztki po wyschnięciu kruszą się.
+
+Resztki wosku są najczęściej wyrzucane, ale dobrze się palą i mogą być używane jako opał do gotowania lub do produkcji podpałek. W ciągu dnia mogą przyciągać wiele pszczół, jeśli zawierają zbyt dużo wosku, dlatego lepiej używać ich na opał po zmroku, jeśli ogień znajduje się na otwartej przestrzeni.
+
+== SPRZEDAŻ WOSKU PSZCZELEGO
+
+W północno-zachodniej Zambii pszczelarze pozyskują miód i wosk pszczeli z uli z kory, a oba produkty służą jako towar eksportowy do Europy. W tym systemie miód i wosk zbiera się jednocześnie. Gdy grupy pszczelarzy łączą swoje zbiory wosku, mogą zgromadzić wystarczającą ilość do sprzedaży.
+
+Wosk pszczeli przeznaczony na eksport powinien być czysty i jak najmniej podgrzewany. Nie wymaga dużego przetwarzania: można go formować w bloki, które następnie są łamane na mniejsze kawałki i umieszczane w workach jutowych przeznaczonych do eksportu. Wosk łamie się na mniejsze kawałki, aby udowodnić jego czystość i pokazać, że w środku bryły nie ma ukrytych cegieł!
+
+== PRODUKCJA WĘZY PSZCZELEJ
+
+=== Prasa w stylu tacy
+Prasa w stylu tacy to urządzenie, do którego wlewa się stopiony wosk pszczeli, a następnie formuje na każdej stronie wzór węzy. Takie prasy mogą być wykonane z metalu, gipsu paryskiego lub plastiku i zwykle produkują dość grube arkusze węzy.
+
+=== Metody z użyciem wałków
+Płaski arkusz wosku jest przepuszczany przez wytłaczane wałki, przypominające magle używane w pralniach. Niektórzy komercyjni producenci węzy posiadają zaawansowane maszyny, w których ciekły wosk pszczeli wlewa się bezpośrednio na chłodzony wodą wałek z wytłoczonym wzorem sześciokątnych komórek. Wosk ulega jednoczesnemu stwardnieniu i wytłoczeniu wzoru. Arkusze wytłaczanego wosku są następnie przycinane do prostokątnych rozmiarów odpowiednich dla uli ramkowych.
+
+== Tłumaczenie
+
+Autor: Nicola Bradbear
+
+Zródło: https://www.fao.org/4/i0842e/i0842e00.htm
+
+Tłumaczenie: R.Styczynski z pomocą ChatGPT
+
