@@ -9,7 +9,7 @@ toc::[]
 
 == Nr. 1, 1 stycznia 1847 r.
 
-=== “Najważniejsze elementy wyposażenia moich uli, wraz z litograficzną ilustracją, od Dzierzona.”
+=== link:../dzierzon_1847/najważniejsze%20urz%C4%85dzenia%20moich%20uli.adoc[“Najważniejsze elementy wyposażenia moich uli, wraz z litograficzną ilustracją, od Dzierzona.”]
 === “Roczny raport z Lüneburga, od Lahmeyera.”
 === “Z Meklemburgii, od Pichhardta.”
 === “Jak przygotowuję całkiem dobre piwo miodowe, od Kriza.”
@@ -19,7 +19,7 @@ toc::[]
 
 == Nr. 2, 15 stycznia 1847 r.
 
-=== “Najważniejsze elementy wyposażenia moich uli, od Dzierzona.” (Zakończenie.)
+=== link:../dzierzon_1847/najważniejsze%20urz%C4%85dzenia%20moich%20uli.adoc[“Najważniejsze elementy wyposażenia moich uli, od Dzierzona.”] (Zakończenie.)
 === “Roczny raport z Pomorza, od Pansego.”
 === “Z prowincji Saksonia, od Kriza.”
 === “Ze Śląska, wraz z nieszczęśliwą wiadomością, od Dzierzona.”
@@ -38,17 +38,17 @@ toc::[]
 
 == Nr. 4, 15 lutego 1847 r.
 
-=== “Mój sposób wykorzystania wosku i: komórki trutowe nigdy nie zawierają pyłku kwiatowego, od Dzierzona.”
+=== link:../dzierzon_1847/mój%20sposób%20przetwarzania%20wosku.adoc[“Mój sposób wykorzystania wosku i: komórki trutowe nigdy nie zawierają pyłku kwiatowego, od Dzierzona.”]
 === “Roczny raport z regionu Renu, od Kabena.”
 === “Roczny raport z Bawarii: a) od Burghardta, b) od Stöhra.”
-=== “Kontrowersyjne punkty z historii naturalnej pszczół, od Dzierzona.”
+=== link:../dzierzon_1847/kontrowersje.adoc[“Kontrowersyjne punkty z historii naturalnej pszczół, od Dzierzona.”]
 
 == Nr. 5, 1 marca 1847 r.
 
 === “Wiadomości ze Szwajcarii, od Bernharda von Gellieu.”
 === “Z Czech, od Dettla.”
 === “Odpowiedzi na pytania postawione w drugim rozdziale opinii generalnej przez dyrektora Stöhra, od Buscha.” (Kontynuacja.)
-=== “Kontrowersyjne punkty z historii naturalnej pszczół, od Dzierzona.” (Decyzja.)
+=== link:../dzierzon_1847/kontrowersje.adoc[“Kontrowersyjne punkty z historii naturalnej pszczół, od Dzierzona.”] (Decyzja.)
 === “O miodzie i pyłku kwiatowym, od Hannemanna.” (Kontynuacja.)
 === “Uwagi księdza Jonsego dotyczące recenzji jego pracy na temat hodowli pszczół, opublikowanej w numerach 7 i 8 drugiego rocznika.”
 
@@ -64,7 +64,7 @@ toc::[]
 
 == Nr. 7, 1 kwietnia 1847 r.
 
-=== “Powtórzone potwierdzenie kilku moich zasad z roku 1846, od Dzierzona.”
+=== link:../dzierzon_1847/zasady.adoc[“Powtórzone potwierdzenie kilku moich zasad z roku 1846, od Dzierzona.”]
 === “Roczny raport z Górnych Węgier, wraz z kilkoma uwagami na temat rojów z roku 1846 i tak zwanych wiszących rojów, od Scholtza.”
 === “Z Dolnych Węgier, od Göppla.”
 === “O miodzie i pyłku kwiatowym, od Hannemanna.” (Zakończenie.)
@@ -75,7 +75,7 @@ toc::[]
 
 == Nr. 8, 15 kwietnia 1847 r.
 
-=== “Jak zapobiec zbędnemu czerwieniu? od Dzierzona.”
+=== link:../dzierzon_1847/ograniczenie_czerwienia.adoc[“Jak zapobiec zbędnemu czerwieniu? od Dzierzona.”]
 === “O tworzeniu wosku przez pszczoły, od Dumasa i Milne’a Edwardsa, przekazane przez Jähne.” (Decyzja.)
 === “Roczny raport z Ilirii, od Jonsego.”
 === “O zasięgu lotu i szybkości lotu trutni, od Adelberta Branna.”
@@ -160,7 +160,7 @@ Przegląd:
 === “Rozdział dotyczący zaleceń dla tych pszczelarzy, którzy preferują gospodarkę rojową i swoje niezastąpione kosze, od Stöhra.” (Decyzja.)
 === “Do czego pszczołom służy pyłek kwiatowy? od Süßa.”
 === “Obserwacja na temat budowy wosku, od Semlitsch.”
-=== “Kto składa jaja trutni w normalnych warunkach? od Dzierzona.”
+=== link:../dzierzon_1847/Kto%20w%20normalnym%20stanie%20sk%C5%82ada%20jaja%20trutowe.adoc[“Kto składa jaja trutni w normalnych warunkach? od Dzierzona.”]
 === “Uwagi poboczne do numerów 7–12 gazety pszczelarskiej z 1846 roku, od Jähne.” (Kontynuacja.)
 
 
