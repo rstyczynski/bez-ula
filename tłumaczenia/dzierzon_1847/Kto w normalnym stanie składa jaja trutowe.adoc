@@ -1,12 +1,18 @@
-# Kto w normalnym stanie składa jaja trutowe?
+:toc: macro
+:toc-title:
+:toclevels: 4
 
-Jan Dzierżoń, *Bienenzeitung*, 1847
+= Kto w normalnym stanie składa jaja trutowe?
+Jan Dzierżoń, Bienenzeitung, 1847
 
-<img src="m16s125.jpg" alt="Skan pierwszej strony artykułu" width="300">
+== Spis treści
+toc::[]
+
+image:m16s125.jpg[float=right, width=300]
 
 „Z pewnością dojdziemy jeszcze do ładu w tej tak wiele dyskutowanej kwestii” — tak pan prezes Busch rozpoczyna rozprawę na ten sam temat, zamieszczoną w nr 11 i 12. Ja także jestem tego zdania; a gdy dojdziemy w tej sprawie do jasności, jego zasługa będzie niemała. Przedstawił bowiem z pewnością wszelkie dające się pomyśleć zarzuty przeciw twierdzeniu, że królowa jest matką obu płci; i jeżeli po dokładnym zbadaniu wszystkie te zarzuty okażą się nieuzasadnione, to pogląd, według którego królowa składa w ulu wszystkie jaja, a robotnice składające jaja są tylko anomalią, powinien być poza wszelką wątpliwością. Pszczelarze dyskutowali ten temat aż do przesytu, lecz właśnie dlatego warto doprowadzić debatę do końca i zamknąć akta sprawy.
 
-<img src="m16s126.jpg" alt="Skan drugiej strony artykułu" width="300">
+image:m16s126.jpg[float=left, width=300]
 
 Ponieważ pan prezes Busch w nr 12 z ubiegłego roku przedstawia nowe zarzuty wobec poglądu, którego wielokrotnie broniłem, niech zaraz nastąpi ich dokładniejsze zbadanie. Aby osłabić moc dowodową przytoczonego przeze mnie zjawiska, iż niejeden nawet bardzo silny, lecz bezkrólowy pień w ogóle nie potrafi wytworzyć czerwiu trutowego, powiedział on na s. 121, w punkcie 2: wytwarzanie trutni zależy jeszcze od wielu innych okoliczności; zdolność składania jaj przez matki trutowe może jesienią się wyczerpać, a gdy bezmateczność nastąpi zimą lub wiosną, matki trutowe może już nie być; przyczyną może być też chłodna pogoda.
 
@@ -22,14 +28,14 @@ Według mojej teorii w każdym jaju rozwijającym się w jajniku samicy pszczoł
 
 Jeżeli jednak — jak wykazałem już wcześniej — w pełni płodnej królowej trzeba przypisać zdolność składania wedle woli jaj męskich i żeńskich, upada wszystko, co pan P. Busch przytacza na s. 123 w punkcie B na poparcie swego poglądu.
 
-<img src="m16s127.jpg" alt="Skan trzeciej strony artykułu" width="300">
+image:m16s127.jpg[float=right, width=300]
 
-…wystarczą, aby dojść do przekonania, że jaja trutowe również regularnie składa królowa, a jeśli trafiają się pojedyncze robotnice albo półmatki, które składają jaja trutowe, to czynią to w nieznacznej liczbie i zupełnie nieregularnie, a więc jest to tylko wyjątek. Czy te półmatki zawdzięczają zdolność składania jaj szerokości komórek czy udziałowi w mleczku królewskim* — niech pozostanie nierozstrzygnięte. Jeżeli jednak pan P. Busch nazywa ten drugi pogląd bajką, którą jedni powtarzają za drugimi, i oburza się, wołając (s. 122): „Mleczko królewskie ma przypadkowo wpadać do sąsiednich komórek pszczelich!”, to oczywiście jest w błędzie. „Przypadkowo otrzymane” mleczko królewskie nie znaczy bowiem „przypadkowo wpadłe do środka”, lecz pokarm przypadkowo podany przez pszczoły opiekujące się czerwiem. Natomiast opowieść o pewnym rodzaju czarnych pszczół, które składają jaja trutowe i mają się poza tym wyróżniać — a których pierwsze wspomnienie przypisuje się Matuschce — może być właśnie taką bajką, powtarzaną z ust do ust. Mogę każdego zapewnić, że przynajmniej w mojej rasie pszczół one nie występują.
-
-\* Prawie wszyscy pszczelarze zgodzą się zapewne, że mleczko królewskie różni się także jakościowo, co widać i czuć po smaku.
+…wystarczą, aby dojść do przekonania, że jaja trutowe również regularnie składa królowa, a jeśli trafiają się pojedyncze robotnice albo półmatki, które składają jaja trutowe, to czynią to w nieznacznej liczbie i zupełnie nieregularnie, a więc jest to tylko wyjątek. Czy te półmatki zawdzięczają zdolność składania jaj szerokości komórek czy udziałowi w mleczku królewskimfootnote:[Prawie wszyscy pszczelarze zgodzą się zapewne, że mleczko królewskie różni się także jakościowo, co widać i czuć po smaku.] — niech pozostanie nierozstrzygnięte. Jeżeli jednak pan P. Busch nazywa ten drugi pogląd bajką, którą jedni powtarzają za drugimi, i oburza się, wołając (s. 122): „Mleczko królewskie ma przypadkowo wpadać do sąsiednich komórek pszczelich!”, to oczywiście jest w błędzie. „Przypadkowo otrzymane” mleczko królewskie nie znaczy bowiem „przypadkowo wpadłe do środka”, lecz pokarm przypadkowo podany przez pszczoły opiekujące się czerwiem. Natomiast opowieść o pewnym rodzaju czarnych pszczół, które składają jaja trutowe i mają się poza tym wyróżniać — a których pierwsze wspomnienie przypisuje się Matuschce — może być właśnie taką bajką, powtarzaną z ust do ust. Mogę każdego zapewnić, że przynajmniej w mojej rasie pszczół one nie występują.
 
 Dzierżoń
 
----
+== Tłumaczenie
+
+Autor: Jan Dzierżoń
 
 Tłumaczenie: R. Styczynski z pomocą ChatGPT
