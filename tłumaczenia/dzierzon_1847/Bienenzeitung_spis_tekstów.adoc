@@ -7,6 +7,15 @@
 == Spis treści
 toc::[]
 
+== Dostępne tłumaczenia
+
+* link:najważniejsze%20urz%C4%85dzenia%20moich%20uli.adoc[Najważniejsze urządzenia moich uli]
+* link:mój%20sposób%20przetwarzania%20wosku.adoc[Mój sposób przetwarzania wosku]
+* link:kontrowersje.adoc[Kontrowersyjne punkty z historii naturalnej pszczół]
+* link:zasady.adoc[Powtórne potwierdzenie kilku moich zasad]
+* link:ograniczenie_czerwienia.adoc[Jak zapobiec zbędnemu czerwieniu?]
+* link:Kto%20w%20normalnym%20stanie%20sk%C5%82ada%20jaja%20trutowe.adoc[Kto w normalnym stanie składa jaja trutowe?]
+
 == Nr. 1, 1 stycznia 1847 r.
 
 === “Najważniejsze elementy wyposażenia moich uli, wraz z litograficzną ilustracją, od Dzierzona.”
@@ -84,4 +93,3 @@ Zródło: https://digitale-sammlungen.de/de/view/bsb10228417?page=1&q=Dzierzon
 
 
 Tłumaczenie: R.Styczynski z pomocą ChatGPT
-
